@@ -13,6 +13,11 @@
     <link href="../vender/css/navbar.css" rel="stylesheet" />
     <link href="../vender/css/style1.css" rel="stylesheet" />
     <link rel="stylesheet" href="style2.css">
+    <style>
+        html {
+            scroll-behaviour : smooth;
+        }
+    </style>
 </head>
 
 <body>
