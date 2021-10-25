@@ -293,8 +293,12 @@
 	<br>
 	<section class="p-3">
 	<div class="container-lg">
-        <h2>Nayan Electronics Lab</h2>
-        <div class="bg-light p-3">
+	<br>
+	   <div class="border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark">
+	   <h2>Nayan Electronics Lab</h2>
+       </div>
+        
+        <div class="bg-light shadow rounded p-3">
          <!-- <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">About us</p>
           </div>-->

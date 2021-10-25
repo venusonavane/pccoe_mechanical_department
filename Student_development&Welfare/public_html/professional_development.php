@@ -219,8 +219,11 @@ and open the template in the editor.
   <br>
        <section class="p-3">
 	   <div class="container-lg">
-        <div class="display-4 mb-4 ">Professional Development Cell</div>
-        <div class="bg-light p-3">
+	   <br>
+	   <div class="border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark">
+	   <h2>Professional Development Cell</h2>
+       </div>
+        <div class="bg-light shadow rounded p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">About us</p>
           </div>
@@ -261,9 +264,9 @@ and open the template in the editor.
      
     </section>
         
-         <section class="p-5">
+         <section class="p-3">
       <div class="container-lg ">
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">Events under the cell</p>
           </div>
@@ -286,7 +289,8 @@ and open the template in the editor.
 			
              <div>
             <p class="fw-bold">The list of activities are as follows:</p>
-            <table class="table table-hover table-borderless table-bordered">
+			<div class="table-responsive-lg">
+            <table class="table table-hover  table-bordered">
               <thead class="table-primary">
                 <tr>
 				  <th scope="col">Sr no.</th>
@@ -430,6 +434,7 @@ and open the template in the editor.
                 
               </tbody>
             </table>
+			</div>
             </div>
         </p> 
 		

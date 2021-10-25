@@ -63,7 +63,7 @@
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  transition: background-color 0.6s ease;
+  transition: background-color 0.5s ease;
 }
 
 .active {
@@ -73,9 +73,9 @@
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 4s;
+  -webkit-animation-duration: 3s;
   animation-name: fade;
-  animation-duration: 4s;
+  animation-duration: 3s;
 }
 
 @-webkit-keyframes fade {
@@ -294,7 +294,7 @@
 	<section class="p-3">
 	<div class="container-lg">
         <h2>Elements of Mechanical Engineering Lab</h2>
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded p-3">
          <!-- <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">About us</p>
           </div>-->
@@ -303,31 +303,31 @@
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 5</div>
-  <img src="imageslab/EME (1).jpg" style="width:100%">
+  <img src="imageslab/EME (1).jpg" style="width:100%" height="430px">
   <!--<div class="text">Caption Text</div>-->
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 5</div>
-  <img src="imageslab/EME (2).jpg" style="width:100%">
+  <img src="imageslab/EME (2).jpg" style="width:100%" height="430px">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 5</div>
-  <img src="imageslab/EME (3).jpg" style="width:100%">
+  <img src="imageslab/EME (3).jpg" style="width:100%" height="430px">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 5</div>
-  <img src="imageslab/EME (4).jpg" style="width:100%">
+  <img src="imageslab/EME (4).jpg" style="width:100%" height="430px">
   <!--<div class="text">Caption Text</div>-->
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 5</div>
-  <img src="imageslab/EME (6).jpg" style="width:100%">
+  <img src="imageslab/EME (6).jpg" style="width:100%" height="430px">
   
 </div>
 </div>
@@ -366,7 +366,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 3000); // Change image every 2 seconds
+  setTimeout(showSlides, 2500); // Change image every 2 seconds
 }
 </script>
 

@@ -233,8 +233,11 @@ and open the template in the editor.
 	<br>
        <section class="p-3">
       <div class="container-lg">
-        <div class="display-4 mb-4 ">National Service Scheme</div>
-        <div class="bg-light p-3">
+	  <br>
+	   <div class="border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark">
+	   <h2>National Service Scheme</h2>
+       </div>
+        <div class="bg-light shadow rounded p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">About us</p>
           </div>
@@ -281,7 +284,7 @@ and open the template in the editor.
         
     <section class="p-3">
       <div class="container-lg ">
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">Activites Under the Cell</p>
           </div>
@@ -435,7 +438,7 @@ and open the template in the editor.
 	
 	<section class="p-3">
       <div class="container-lg ">
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">Events Under the Cell in Year 2020-21 Sem. I</p>
           </div>

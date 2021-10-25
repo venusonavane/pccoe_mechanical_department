@@ -311,9 +311,12 @@
 	
 	<section class="p-3">
 	<div class="container-lg">
-         <div class="display-4 mb-4 ">Seminar Hall</div>
+         <br>
+	   <div class="border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark">
+	   <h2>Seminar Hall</h2>
+       </div>
 		 
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded p-3">
 	<div class="slideshow-container">
 
 <div class="mySlides fade">

@@ -30,7 +30,7 @@
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 700px;
+  max-width: 800px;
   position: relative;
   margin: auto;
 }
@@ -63,7 +63,7 @@
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  transition: background-color 0.6s ease;
+  transition: background-color 0.5s ease;
 }
 
 .active {
@@ -73,9 +73,9 @@
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 4s;
+  -webkit-animation-duration: 3s;
   animation-name: fade;
-  animation-duration: 4s;
+  animation-duration: 3s;
 }
 
 @-webkit-keyframes fade {
@@ -294,7 +294,7 @@
 	<section class="p-3">
 	<div class="container-lg">
         <h2>Applied Thermodynamics Lab</h2>
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded p-3">
          <!-- <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">About us</p>
           </div>-->
@@ -303,46 +303,46 @@
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 8</div>
-  <img src="imageslab/APT (1).jpg" style="width:100%">
+  <img src="imageslab/APT (1).jpg" style="width:100%" height="430px">
   <!--<div class="text">Caption Text</div>-->
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 8</div>
-  <img src="imageslab/APT (2).jpg" style="width:100%">
+  <img src="imageslab/APT (2).jpg" style="width:100%" height="430px">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 8</div>
-  <img src="imageslab/APT (3).jpg" style="width:100%" height="400px">
+  <img src="imageslab/APT (3).jpg" style="width:100%" height="430px">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 8</div>
-  <img src="imageslab/APT (4).jpg" style="width:100%">
+  <img src="imageslab/APT (4).jpg" style="width:100%" height="430px">
   <!--<div class="text">Caption Text</div>-->
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 8</div>
-  <img src="imageslab/APT (6).jpg" style="width:100%">
+  <img src="imageslab/APT (6).jpg" style="width:100%" height="430px">
   
 </div>
 <div class="mySlides fade">
   <div class="numbertext">6 / 8</div>
-  <img src="imageslab/APT (7).jpg" style="width:100%">
+  <img src="imageslab/APT (7).jpg" style="width:100%" height="430px">
   
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">7 / 5</div>
-  <img src="imageslab/APT (5).jpg" style="width:100%">
+  <div class="numbertext">7 / 8</div>
+  <img src="imageslab/APT (5).jpg" style="width:100%" height="430px">
   
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">8 / 5</div>
-  <img src="imageslab/APT (8).jpg" style="width:100%">
+  <div class="numbertext">8 / 8</div>
+  <img src="imageslab/APT (8).jpg" style="width:100%" height="430px">
   </div>
 </div>
 <br>

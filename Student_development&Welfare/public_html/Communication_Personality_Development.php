@@ -238,8 +238,11 @@ and open the template in the editor.
 	<br>
        <section class="p-3">
 	   <div class="container-lg">
-        <div class="display-4 mb-4 ">Communication And Personality Development Cell</div>
-        <div class="bg-light p-3">
+        <br>
+	   <div class="border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark">
+	   <h2>Communication & Personality Development Cell</h2>
+       </div>
+        <div class="bg-light shadow rounded p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">About us</p>
           </div>
@@ -285,7 +288,8 @@ and open the template in the editor.
             <p><b>Course Structure:</b> 120Hours</p>
 
           </div>
-            <table class="table table-hover table-borderless">
+		  <div class="table-responsive-lg">
+            <table class="table table-hover table-bordered">
               <thead class="table-primary">
                 <tr>
                   <th scope="col">SE (IV Sem) 30 Hrs.</th>
@@ -313,6 +317,7 @@ and open the template in the editor.
                 
               </tbody>
             </table>
+			</div>
       </div>
         </div>
         </div>
@@ -324,9 +329,9 @@ and open the template in the editor.
        
    
 
-    <section class="p-5">
+    <section class="p-3">
       <div class="container-lg ">
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded  p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">Events under the cell</p>
           </div>
@@ -348,7 +353,7 @@ and open the template in the editor.
                   <p class="my-4 text-dark"> 
                   <h4>AY 2019-20 :</h4>
          <div class="row justify-content-evenly">
-          <div class="col-5">
+          <div class="col-lg-5">
 		  <div class="card" style="width:100%"> 
 			<img class="card-img-top" src="hsc_images/Training2.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
 			</a>
@@ -357,7 +362,7 @@ and open the template in the editor.
 			</div>
 			</div>
 			</div>
-			<div class="col-5">
+			<div class="col-lg-5">
 		  <div class="card" style="width:100%"> 
 			<img class="card-img-top" src="hsc_images/Training3.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
 			</a>
@@ -395,7 +400,7 @@ and open the template in the editor.
 			</div>
 			</div>
 			</div>
-			<div class="col-5">
+			<div class="col-lg-5">
 		  <div class="card" style="width:100%"> 
 			<img class="card-img-top" src="hsc_images/Training5.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
 			
