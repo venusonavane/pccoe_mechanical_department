@@ -202,9 +202,13 @@
 <!-- End Navbar -->
 <br><br>
     <!-- Content page-->
+    <div class="container">
+      <div class="row border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark mt-4">
+          <h2>Syllabus</h2>
+      </div>
+    </div>
     <div class="container mt-4 p-2 syllabus bg-light">
-    <div class="container-fluid title"><span>Syllabus</span></div>
-    <div class="pt-4">
+    <div class="pt-2">
         <ul class="fa-ul">
             <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank" href="../vender/files/syllabus/BTechFY-(Mech)-Syllabi(0502).pdf">F.Y - B. Tech (Mechanical Engineering)</a></li>
             <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank" href="../vender/files/syllabus/SY_BTech_Mech.pdf">S.Y - B. Tech (Mechanical Engineering)</a></li>

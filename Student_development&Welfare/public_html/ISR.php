@@ -235,8 +235,11 @@ and open the template in the editor.
   
    <br>
        <section class="p-3"><div class="container-lg">
-        <div class="display-4 mb-4 ">Institute Social Responsibility Cell</div>
-        <div class="bg-light p-3">
+	   <br>
+	   <div class="border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark">
+	   <h2>Institute Social Responsibility Cell</h2>
+       </div>
+        <div class="bg-light shadow rounded p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">About us</p>
           </div>
@@ -264,9 +267,9 @@ and open the template in the editor.
         
     </section>
         
-        <section class="p-5">
+        <section class="p-3">
       <div class="container-lg ">
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">Events under the cell</p>
           </div>
@@ -285,7 +288,7 @@ and open the template in the editor.
                   
 				  <div class="row">
 		 
-		 <div class="col">
+		 <div class="col-lg-4">
 		
 		 <div class="card" style="width:100%"> 
 		 <img class="card-img-top" src="hsc_images/isr1 (1).png" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
@@ -294,7 +297,7 @@ and open the template in the editor.
 		 </div>
 		
 		
-		<div class="col">
+		<div class="col-lg-4">
 		
 		<div class="card" style="width:100%"> 
 		<img class="card-img-top" src="hsc_images/isr1 (5).png" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
@@ -302,7 +305,7 @@ and open the template in the editor.
 		</div>
 		</div>
 		
-		<div class="col">
+		<div class="col-lg-4">
 		
 		<div class="card" style="width:100%"> 
 		<img class="card-img-top" src="hsc_images/isr1 (7).png" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px" >
@@ -334,7 +337,7 @@ and open the template in the editor.
                 </div>-->
         
         <div class="row1">
-            <div class="col">
+            <div class="col-g-4">
 			
 			<div class="card" style="width:100%"> 
 			<img class="card-img-top" src="hsc_images/isr1 (6).png" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
@@ -355,13 +358,13 @@ and open the template in the editor.
               </div>
              </div> 
 			<div class="row justify-content-evenly">
-			<div class="col-5">
+			<div class="col-lg-5">
 			<div class="card" style="width:90%"> 
 			<img class="card-img-top" src="hsc_images/isr2.png" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
 			</div>
 			</div>
 			
-			<div class="col-5">
+			<div class="col-lg-5">
 			<div class="card" style="width:90%"> 
 			<img class="card-img-top" src="hsc_images/isr4.png" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
 			</div>
@@ -375,7 +378,7 @@ and open the template in the editor.
                    <b>Name of the beneficiary society:</b> Needy students<br><br>
                   
                    <div class="row my-3">
-                    <div class="col-5">
+                    <div class="col-lg-5">
 					<div class="card" style="width:90%"> 
 					<img class="card-img-top" src="hsc_images/isr3.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
 					</div>

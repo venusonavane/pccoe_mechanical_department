@@ -373,8 +373,11 @@ and open the template in the editor.
 	<br>
 	<section class="p-3">
       <div class="container-lg ">
-	  <div class="display-4 mb-4">Laboratories</div>
-	  <div class="bg-light p-3">
+	  <br>
+	   <div class="border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark">
+	   <h2>Laboratories</h2>
+       </div>
+	  <div class="bg-light shadow rounded p-3">
 	  
 	  <div class="container">
 	  
@@ -387,7 +390,7 @@ and open the template in the editor.
 		</div>
 		<div class="row">
 		<div class="col-lg-4">
-		<a href=".php">
+		<a href="#">
 		<div class="card" style="width:100%">
 		<img class="card-img-top" src="imageslab/FYComplab.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="223px">
 		</a>
@@ -443,7 +446,7 @@ and open the template in the editor.
 		<br>
 		<section class="p-3">
 		<div class="container-lg ">
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded p-3">
 		<div class="container">
         <input type="button" value="SY B.Tech">
 		 
@@ -537,7 +540,7 @@ and open the template in the editor.
 	
 	<section class="p-3">
 		<div class="container-lg ">
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded p-3">
 		<div class="container">
         <input type="button" value="TE B.Tech">
 	
@@ -709,7 +712,7 @@ and open the template in the editor.
 
 <section class="p-3">
 		<div class="container-lg ">
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded p-3">
 		<div class="container">
         <input type="button" value="BE B.Tech">
 	
@@ -755,7 +758,7 @@ and open the template in the editor.
 
 	<section class="p-3">
 		<div class="container-lg ">
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded p-3">
 		<div class="container">
         <input type="button" value="Special Labs">
 		
@@ -855,7 +858,7 @@ and open the template in the editor.
 
 <section class="p-3">
 		<div class="container-lg ">
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded p-3">
 		<div class="container">
         <input type="button" value="M Tech">
 

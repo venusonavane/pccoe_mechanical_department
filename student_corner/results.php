@@ -203,8 +203,12 @@
 <!-- End Navbar -->
     <br><br>
     <!-- Content page-->
+    <div class="container">
+      <div class="row border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark mt-4">
+          <h2>Results</h2>
+      </div>
+    </div>
     <div class="container p-2 result mt-4 bg-light pb-4">
-        <div class="container-fluid title"><span>Results</span></div>
         <div class="container-fluid content-panel">
             <span class="head">Academic Results</span>
             <div class="row academic-result pt-3 justify-content-center">

@@ -237,8 +237,11 @@
 	<br>
 	<section class="p-3">
 	<div class="container-lg">
-        <div class="display-4 mb-4 ">Departmental Library</div>
-        <div class="bg-light p-3">
+        <br>
+	   <div class="border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark">
+	   <h2>Departmental Library</h2>
+       </div>
+        <div class="bg-light shadow rounded p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">About us</p>
           </div>
@@ -268,7 +271,8 @@
         <div>
           <p class="my-4 text-dark">
           <h4>Books</h4>
-        <table class="table table-hover table-borderless">
+		  <div class="table-responsive-lg">
+        <table class="table table-hover table-bordered">
               <thead class="table-primary">
                 <tr>
                   <th scope="col">Domain</th>
@@ -311,12 +315,13 @@
                 
               </tbody>
             </table>
+		</div>
 
        
        </div>
             <div class="container">
                 <div class="row justify-content-evenly">
-                    <div class="col-5">
+                    <div class="col-lg-5">
 					<div class="card" style="width:100%"> 
 					<img class="card-img-top" src="imageslab/library1 (1).png" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded">
 					
@@ -328,7 +333,7 @@
                             </div>-->
                 </div>
                     
-                    <div class="col-5">
+                    <div class="col-lg-5">
 					<div class="card" style="width:100%"> 
 					<img class="card-img-top" src="imageslab/library1 (2).png" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded">
 					

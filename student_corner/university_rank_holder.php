@@ -210,8 +210,12 @@
   <!-- End Navbar -->
   <br><br>
   <!-- Content page-->
+  <div class="container">
+      <div class="row border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark mt-4">
+          <h2>University Rank Holders</h2>
+      </div>
+  </div>
   <div class="container p-2 university-rank">
-    <div class="container-fluid title"><span>University Rank Holders</span></div>
     <div class="container-fluid content-panel">
       <div class="row justify-content-center pt-3">
         <h6 class="head1"><span>AY2018-19 Sem II <small class="font-monospace">(May 2019 Sem II)</small></span></h6>
