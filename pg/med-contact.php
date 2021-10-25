@@ -204,7 +204,7 @@
   <!-- End Navbar -->
 
 
-  <br><br>
+  <br>
   <div class="container-fluid p-3">
     <div class="row">
       <div class="col-lg-3">
@@ -280,15 +280,7 @@
                     </a>
                 </div>
               </div>
-              <div class="bg-light">
-              <div class="m-4 p-4">
-              <div class="row justify-content-center my-3">
-                <div class="col-lg-6 col-lg-6 text-start">
-                  <div class="border-bottom border-1 border-primary mb-3">
-                      <p class="fs-3 text-primary">Send us your message</p>
-                    </div> 
-                  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfEuZe6xmXvaWMoPbq9b9bDUpzG_7qCPNCwxE_YgxUFpppgKw/viewform?embedded=true" class="container-fluid" height="1080px" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-                </div>
+              
                 
                         
                       </div>

@@ -202,9 +202,13 @@
 <!-- End Navbar -->
 <br><br>
     <!-- Content page-->
+    <div class="container">
+      <div class="row border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark mt-4">
+          <h2>Downloads</h2>
+      </div>
+    </div>
     <div class="container p-2 download mt-3 bg-light">
-    <div class="container-fluid title"><span>Downloads</span></div>
-    <div class="pt-4">
+    <div class="pt-2">
         <ul class="fa-ul">
             <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank" href="../vender/files/download/Appeal_to_alumni.pdf">Appeal to Alumni</a></li>
             <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank" href="../vender/files/download/Appeal_to_employer.pdf">Appeal to Employer</a></li>
