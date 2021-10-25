@@ -390,7 +390,7 @@ and open the template in the editor.
 		</div>
 		<div class="row">
 		<div class="col-lg-4">
-		<a href=".php">
+		<a href="#">
 		<div class="card" style="width:100%">
 		<img class="card-img-top" src="imageslab/FYComplab.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="223px">
 		</a>
