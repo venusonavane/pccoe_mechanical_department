@@ -63,7 +63,7 @@
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  transition: background-color 0.6s ease;
+  transition: background-color 0.5s ease;
 }
 
 .active {
@@ -73,9 +73,9 @@
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 4s;
+  -webkit-animation-duration: 3s;
   animation-name: fade;
-  animation-duration: 4s;
+  animation-duration: 3s;
 }
 
 @-webkit-keyframes fade {
@@ -294,7 +294,7 @@
 	<section class="p-3">
 	<div class="container-lg">
         <h2>Hydraulic & Pneumatics Lab</h2>
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded p-3">
          <!-- <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">About us</p>
           </div>-->
@@ -303,46 +303,46 @@
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 7</div>
-  <img src="imageslab/HAP (5).jpg" style="width:100%" height="400px">
+  <img src="imageslab/HAP (5).jpg" style="width:100%" height="420px">
   <!--<div class="text">Caption Text</div>-->
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 7</div>
-  <img src="imageslab/HAP (7).jpg" style="width:100%" height="400px">
+  <img src="imageslab/HAP (7).jpg" style="width:100%" height="420px">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 7</div>
-  <img src="imageslab/HAP (4).jpg" style="width:100%" height="400px">
+  <img src="imageslab/HAP (4).jpg" style="width:100%" height="420px">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 7</div>
-  <img src="imageslab/HAP (1).jpg" style="width:100%" height="400px">
+  <img src="imageslab/HAP (1).jpg" style="width:100%" height="420px">
   <!--<div class="text">Caption Text</div>-->
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 7</div>
-  <img src="imageslab/HAP (2).jpg" style="width:100%" height="400px">
+  <img src="imageslab/HAP (2).jpg" style="width:100%" height="420px">
   
 </div>
 <div class="mySlides fade">
   <div class="numbertext">6 / 7</div>
-  <img src="imageslab/HAP (8).7pg" style="width:100%" height="400px">
+  <img src="imageslab/HAP (8).7pg" style="width:100%" height="420px">
   
 </div>
 <div class="mySlides fade">
   <div class="numbertext">7 / 7</div>
-  <img src="imageslab/HAP (10).jpg" style="width:100%" height="400px">
+  <img src="imageslab/HAP (10).jpg" style="width:100%" height="420px">
   
 </div>
 <div class="mySlides fade">
   <div class="numbertext">7 / 7</div>
-  <img src="imageslab/HAP (11).jpg" style="width:100%" height="400px">
+  <img src="imageslab/HAP (11).jpg" style="width:100%" height="420px">
   
 </div>
 </div>
@@ -383,7 +383,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 3000); // Change image every 2 seconds
+  setTimeout(showSlides, 2500); // Change image every 2 seconds
 }
 </script>
 

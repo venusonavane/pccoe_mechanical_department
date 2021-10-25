@@ -232,9 +232,14 @@ and open the template in the editor.
   <!-- End Navbar -->
   
 	<br>
-       <section class="p-3"><div class="container-lg">
-        <div class="display-4 mb-4 ">Higher Study Cell</div>
-        <div class="bg-light p-3">
+       <section class="p-3">
+	   <div class="container-lg">
+	   <br>
+	   <div class="border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark">
+	   <h2>Higher Study Cell</h2>
+       </div>
+       
+        <div class="bg-light shadow rounded  p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">About us</p>
           </div>
@@ -271,7 +276,8 @@ and open the template in the editor.
         <div>
           <p class="my-4 text-dark">
           <h4>Outstanding Achievement in GATE 2020</h4>
-        <table class="table table-hover table-borderless">
+		  <div class="table-responsive-lg">
+        <table class="table table-hover table-bordered">
               <thead class="table-primary">
                 <tr>
                   <th scope="col">Name</th>
@@ -294,11 +300,13 @@ and open the template in the editor.
                 
               </tbody>
             </table>
+			</div>
 
         </p> 
         <p class="my-4 text-dark">
         <h4>Number of students qualifies entrance examinations</h4>
-         <table class="table table-hover table-borderless">
+		<div class="table-responsive-lg">
+         <table class="table table-hover table-bordered">
               <thead class="table-primary">
                 <tr>
                   <th scope="col">Examination</th>
@@ -356,6 +364,7 @@ and open the template in the editor.
                 </tr>
               </tbody>
             </table>
+			</div>
         </p> 
         </div>
              
@@ -363,16 +372,16 @@ and open the template in the editor.
       </div>
     </section>
 
-    <section class="p-5">
+    <section class="p-3">
       <div class="container-lg ">
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded  p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">Activities Under Higher Study Cell</p>
           </div>
 		  
 		  <div class="row">
 		 
-		 <div class="col">
+		 <div class="col-lg-4">
 		
 		 <div class="card" style="width:100%"> 
 		 <img class="card-img-top" src="hsc_images/HSC (4).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded">
@@ -386,7 +395,7 @@ and open the template in the editor.
 		 </div>
 		
 		
-		<div class="col">
+		<div class="col-lg-4">
 		
 		<div class="card" style="width:100%"> 
 		<img class="card-img-top" src="hsc_images/HSC (2).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded">
@@ -397,7 +406,7 @@ and open the template in the editor.
 		</div>
 		</div>
 		
-		<div class="col">
+		<div class="col-lg-4">
 		
 		<div class="card" style="width:100%"> 
 		<img class="card-img-top" src="hsc_images/HSC (3).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" >
@@ -412,7 +421,7 @@ and open the template in the editor.
 
 		<div class="row">
 		 
-		 <div class="col">
+		 <div class="col-lg-4">
 		
 		 <div class="card" style="width:100%"> 
 		 <img class="card-img-top" src="hsc_images/HSC (1).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded">
@@ -424,7 +433,7 @@ and open the template in the editor.
 		 </div>
 		
 		
-		<div class="col">
+		<div class="col-lg-4">
 		
 		<div class="card" style="width:100%"> 
 		<img class="card-img-top" src="hsc_images/HSC (5).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded">
@@ -435,7 +444,7 @@ and open the template in the editor.
 		</div>
 		</div>
 		
-		<div class="col">
+		<div class="col-lg-4">
 		
 		<div class="card" style="width:100%"> 
 		<img class="card-img-top" src="hsc_images/HSC (6).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" >
