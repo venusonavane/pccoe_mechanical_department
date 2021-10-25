@@ -2,6 +2,15 @@
 <html lang="en">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y33X5YZFHF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y33X5YZFHF');
+</script>
     <!-- Required meta tags -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -210,9 +219,8 @@
             <span class="static-head">SPOTLIGHT</span>
             <marquee scrollamount="4" class="p-1" onmouseover="this.stop();" onmouseout="this.start();">
               <a class="text-decoration-none text-dark" target="_blank" href="vender/files/department_boucher/1623508314920_samvaad Vol 1, Issue 3.pdf">
-                <span class="marquee-text"> India Today Engineering Survey 2021 : PCCoE ranked 76th in INDIA
-                    among top 200 Private Engineering Colleges in India Today Engineering
-                    Survey 2021</span>
+                <span class="marquee-text">
+                   </span>
               </a>
             </marquee>
         </div>
@@ -294,13 +302,13 @@
           </div>
           <ul class="section-list">
             <marquee direction="up" height="235px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
-            <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfUpU1gG7-Me9S2oE-cSlcfvMqGAwCu083sfB5RvC-5aTSWMg/viewform?c=0&w=1">
+            <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScGsw3nasQ5Htfit1Obw3sK0aurDh7CfJiUT5TZv64gSM4Q1Q/viewform">
               <li>Exit Survey Form Link</li>
             </a>
             <a target="_blank" href="https://forms.gle/R3wQMM5Pk4RoJ9Wh9">
               <li>Alumni Survey Form Link</li>
             </a>
-            <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeYBeneU3qFJSYTIlCanUoe2PerffwR2-oNlJVGi8iGRTBLhQ/viewform?c=0&w=1">
+            <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdWdx0PJ_kQFJ1YD1TtYBo6bOYYzXKZz4hm_Jk6Hh7yjQjH0A/viewform?usp=sf_link">
               <li>Parent Survey Form Link</li>
             </a>
             </marquee>
@@ -313,7 +321,10 @@
               <p class="fs-4 color-blue">About Mechanical</p>
             </div>
           <div class="row mt-4">
-              <div class="col-lg-12 text-data">
+            <div class="col-lg-5 mt-3">
+              <iframe width="100%" height="225" src="https://www.youtube.com/embed/I8FMF-yyyjc" title="PCCOE" class="rounded" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+              <div class="col-lg-7 text-data">
                   <p class="text-data mt-2">
                     The <b>Department of Mechanical Engineering</b>  at Pimpri Chinchwad College of Engineering 
                     believes in producing engineers who take a product from an idea to the market place.
@@ -417,27 +428,9 @@
               <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                 <marquee direction="up" height="300px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                   <ul class="section-list section-list-sm">
-                    <a target="_blank" href="vender/files/department_boucher/1623508314920_samvaad Vol 1, Issue 3.pdf">
+                    <!-- <a target="_blank" href="vender/files/department_boucher/1623508314920_samvaad Vol 1, Issue 3.pdf">
                       <li><small>186+ patents in last six years</small></li>
-                    </a>
-                    <a target="_blank" href="vender/files/department_boucher/1623508314920_samvaad Vol 1, Issue 3.pdf">
-                      <li>
-                        <small>Organization of International Conference ICCUBEA,
-                          technically co-sponsored by IEEE, Pune Chapter
-                          cosucutively for three years 2015,2016 and 2017</small>
-                      </li>
-                    </a>
-                    <a target="_blank" href="vender/files/department_boucher/1623508314920_samvaad Vol 1, Issue 3.pdf">
-                      <li>
-                        <small>Winner of SAE BAJA, NASSCOM HACKATHON</small>>
-                      </li>
-                    </a>
-                    <a target="_blank" href="vender/files/department_boucher/1623508314920_samvaad Vol 1, Issue 3.pdf">
-                      <li>
-                        <small>Around 100+ Companies conduct recruitment drives for our
-                          students each year</small>>
-                      </li>
-                    </a>
+                    </a> -->
                   </ul>
                 </marquee>
                 <p class="read-more"><a href="news_section/upcomming_event.php">read more</a></p>
@@ -445,27 +438,9 @@
               <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
                 <marquee direction="up" height="300px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                   <ul class="section-list section-list-sm">
-                    <a target="_blank" href="vender/files/department_boucher/1623508314920_samvaad Vol 1, Issue 3.pdf">
+                    <!-- <a target="_blank" href="vender/files/department_boucher/1623508314920_samvaad Vol 1, Issue 3.pdf">
                       <li><small>186+ patents in last six years</small></li>
-                    </a>
-                    <a target="_blank" href="vender/files/department_boucher/1623508314920_samvaad Vol 1, Issue 3.pdf">
-                      <li>
-                        <small>Organization of International Conference ICCUBEA,
-                          technically co-sponsored by IEEE, Pune Chapter
-                          cosucutively for three years 2015,2016 and 2017</small>
-                      </li>
-                    </a>
-                    <a target="_blank" href="vender/files/department_boucher/1623508314920_samvaad Vol 1, Issue 3.pdf">
-                      <li>
-                        <small>Winner of SAE BAJA, NASSCOM HACKATHON</small>>
-                      </li>
-                    </a>
-                    <a target="_blank" href="vender/files/department_boucher/1623508314920_samvaad Vol 1, Issue 3.pdf">
-                      <li>
-                        <small>Around 100+ Companies conduct recruitment drives for our
-                          students each year</small>>
-                      </li>
-                    </a>
+                    </a> -->
                   </ul>
                 </marquee>
                  <p class="read-more"><a href="news_section/highlight_achivement.php">read more</a></p>

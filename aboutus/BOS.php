@@ -362,7 +362,8 @@
                 <h5 class="text-left">Minutes Of Meetings</h5>
                 <p>
                     <a target="_blank" href="../vender/files/bos_minute_meet/BOS-Mechanical-MOM-7-1-21.PDF">Minutes of Meeting (Dt. 7 Jan 2021)</a><br>
-                    <a target="_blank" href="../vender/files/bos_minute_meet/BOS-MOM-2nd-25.06.2021.PDF">Minutes of Meeting (Dt. 25 June 2021)</a>
+                    <a target="_blank" href="../vender/files/bos_minute_meet/BOS-MOM-2nd-25.06.2021.PDF">Minutes of Meeting (Dt. 25 June 2021)</a><br>
+                    <a target="_blank" href="../vender/files/bos_minute_meet/MOM_BoS_3_dated 12.10.2021.pdf">Minutes of Meeting (Dt. 12 Oct 2021)</a>
                 </p>
             </div>
         </div>

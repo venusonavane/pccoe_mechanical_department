@@ -211,20 +211,8 @@
         <ul class="fa-ul">
             <li>
                 <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
-                <a target="_blank" href="../vender/files/syllabus/BTechFY-(Mech)-Syllabi(0502).pdf">
-                    Winner of Intercollegiate Football Championship at University Level. (02-11-2021)
-                </a>
-            </li>
-            <li>
-                <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
-                <a target="_blank" href="../vender/files/syllabus/BTechFY-(Mech)-Syllabi(0502).pdf">
-                    Value based education and excellent academic results with consistently good number of university rank holders.(02-11-2021)
-                </a>
-            </li>
-            <li>
-                <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
-                <a target="_blank" href="../vender/files/syllabus/BTechFY-(Mech)-Syllabi(0502).pdf">
-                    PCCoE has organized “National Convention of Quality Concepts – 2014” in association with QCFI at PCCoE in Dec. 2014. (02-11-2021)
+                <a target="_blank" href="">
+                  Data not available.
                 </a>
             </li>
         </ul>
