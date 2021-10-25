@@ -203,8 +203,11 @@
   <!-- End Navbar -->
     <!-- Content page-->
      <div class="container p-2 mt-4 bos-section">
-        <div class="container-fluid title">Board of Studies</div>
-        <div class="container content-panel">
+        <div class="border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark mt-5">
+            <h2>Board of Studies</h2>
+        </div>
+        <!-- <div class="container-fluid title">Board of Studies</div> -->
+        <div class="container table-responsive content-panel bg-light p-3 shadow">
             <p class="text-data pb-4">The Board of Studies of Pimpri Chinchwad College of Engineering (PCCoE) has been constituted for a term of three years commencing from 2nd January 2021 to 31st Dec 2023 as per UGC Guidelines for Autonomous Colleges.</p>
             <table class="table table-bordered my-table">
                 <tbody>

@@ -202,9 +202,13 @@
 <!-- End Navbar -->
     <br><br>
     <!-- Content page-->
+    <div class="container">
+      <div class="row border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark mt-4">
+          <h2>Examination</h2>
+      </div>
+    </div>
     <div class="container mt-3 p-2 examination bg-light">
-    <div class="container-fluid title"><span>Examination</span></div>
-    <div class="pt-4">
+    <div class="pt-2">
         <ul class="fa-ul">
           <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank" href="../vender/files/notices/PCCOE-Examination Circular Third Year Engineering (2019 Pattern) SEM-I Insemester Examination Time 10.00 am To 10.40 am.pdf">PCCOE-Examination Circular Third Year Engineering (2019 Pattern) SEM-I Insemester Examination Time 10.00 am To 10.40 am.</a></li>
             <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank" href="../vender/files/notices/PCCOE INSEM EXAMINATION CIRCULAR BACHELOR OF ENGINEERING (2015 COURSE) B.E (CIVIL) TIME -2.00 TO 2.40 PM.pdf">Pccoe insem examination circular bachelor of engineering (2015 course) B.E time -2.00 to 2.40 pm.</a></li>

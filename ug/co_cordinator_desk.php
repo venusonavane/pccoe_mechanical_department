@@ -211,8 +211,12 @@
   <!-- End Navbar -->
   <br><br>
   <!-- Content page-->
+  <div class="container">
+    <div class="row border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark mt-4">
+        <h2>Academic Coordinator</h2>
+    </div>
+  </div>
   <div class="container p-2 mt-4 student-alumni">
-    <div class="container-fluid title"><span>Academic Coordinator</span></div>
     <div class="container-fluid content-panel">
       <div class="row justify-content-around">
         <div class="col-lg-3 col-sm-6">

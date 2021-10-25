@@ -205,18 +205,22 @@
 
 <br>
     <!-- Content page-->
-    <div class="container p-3 mt-5 pb-5 vision-mision bg-light">
-        <div class="container-fluid title">Mission</div>
-        <div class="container-fluid content-panel">
+    <div class="container mt-5 pb-5 vision-mision">
+        <div class="row border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark mt-4">
+            <h2>Mission</h2>
+        </div>
+        <div class="row bg-light p-3">
             <ul>
                 <li>To impart quality education, innovation culture, necessary skill sets and social commitment among the students to build professional career by establishing state-of-the-art Mechanical Engineering infrastructure and conducive learning environment.</li>
             </ul>
         </div>
     </div>
 
-    <div class="container p-3 mt-3 pb-5 vision-mision bg-light">
-        <div class="container-fluid title">Vision</div>
-        <div class="container-fluid content-panel">
+    <div class="container p-3 mt-3 pb-5 vision-mision">
+        <div class="row border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark mt-4">
+            <h2>Vision</h2>
+        </div>
+        <div class="row content-panel bg-light p-3">
             <ul>
                 <li>To be recognized as a Department of academic excellence through skill development and innovation in fine blend with quality work culture.</li>
             </ul>

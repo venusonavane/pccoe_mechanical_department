@@ -205,10 +205,12 @@
 
     <br><br>
     <!-- Content page-->
-    <div class="container mt-4 rounded p-2 hod-desk bg-light">
-        <div class="container-fluid title">HOD Desk</div>
-        <div class="row mt-5">
-            <div class="col-xl-4">
+    <div class="container hod-desk">
+        <div class="row border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark mt-4">
+            <h2>HOD Desk</h2>
+        </div>
+        <div class="row  bg-light p-3">
+            <div class="col-xl-5">
                 <div class="text-center">
                     <img src="../vender/img/staff/hod-img.jpg" class="rounded pb-2" />
                     <p class="">
@@ -216,7 +218,7 @@
                         <small>(HOD, Department of Mechanical Engineering)</small><br>
                     </p>
                 </div>
-                <div class="container label-area">
+                <div class="container table-responsive label-area">
                     <table class="table table-borderless">
                         <tr>
                             <td><span>Qualification: </span></td>
@@ -242,7 +244,7 @@
                     </table>
                 </div>
             </div>
-            <div class="col-xl-8">
+            <div class="col-xl-7">
                 <p class="text-data">
                     <b>Mechanical Engineering</b> Department is well equipped with laboratories, qualified and dedicated
                     faculties and staff. Our faculties are creating an innovative and research culture in UG and PG
