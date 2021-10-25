@@ -758,7 +758,7 @@ and open the template in the editor.
 
 	<section class="p-3">
 		<div class="container-lg ">
-        <div class="bg-light p-3">
+        <div class="bg-light shadow rounded p-3">
 		<div class="container">
         <input type="button" value="Special Labs">
 		
