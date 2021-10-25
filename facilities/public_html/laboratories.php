@@ -42,35 +42,8 @@ and open the template in the editor.
                 padding: 10px;
             }
             
-            .row1{
-                padding-left: 435px;
-                padding-right: 435px;
-            }
-            .row2{
-                
-               
-            }
-            .col2{
-                padding-right: 30px;
-            }
-            .col3{
-                padding-left: 30px;
-            }
             
-            .polaroid {
-                
-                background-color: white;
-                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-                margin-bottom: 5px;
- 
-            }
-             .polaroid2 {
-                width: 80%;
-                background-color: white;
-                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-                margin-bottom: 5px;
- 
-            }
+           
             
             .container {
                 text-align: center;
@@ -168,6 +141,8 @@ and open the template in the editor.
 			cursor: pointer;
 			font-size: 20px;
 			font-weight: bold;
+			border-radius: 12px;
+			 box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
 			}
 			
 		
@@ -247,18 +222,18 @@ and open the template in the editor.
         <label for="tm" id="toggle-menu"><b>Menu</b> <span class="drop-icon"><b>&#9776;</b></span></label>
         <input type="checkbox" id="tm">
         <ul class="main-menu cf">
-            <li class="b-left"><a href="../../index.html">Home</a></li>
+            <li class="b-left"><a href="../../index.php">Home</a></li>
             <li class="b-left"><a href="#">About us
                     <span class="drop-icon">▾</span>
                     <label title="Toggle Drop-down" class="drop-icon" for="sm0">▾</label>
                 </a>
                 <input type="checkbox" id="sm0">
                 <ul class="sub-menu">
-                    <li><a href="../../aboutus/hod_desk.html">HOD Desk</a></li>
-                    <li><a href="../../aboutus/vision-mission.html">Vision and Mission</a></li>
-                    <li><a href="../../aboutus/program_outcome.html">Program Outcomes</a></li>
-                    <li><a href="../../aboutus/BOS.html">Board Of Studies</a></li>
-                    <li><a href="../../aboutus/student_alumni.html">Student and Alumni's</a></li>
+                    <li><a href="../../aboutus/hod_desk.php">HOD Desk</a></li>
+                    <li><a href="../../aboutus/vision-mission.php">Vision and Mission</a></li>
+                    <li><a href="../../aboutus/program_outcome.php">Program Outcomes</a></li>
+                    <li><a href="../../aboutus/BOS.php">Board Of Studies</a></li>
+                    <li><a href="../../aboutus/student_alumni.php">Student and Alumni's</a></li>
                 </ul>
             </li>
             <li class="b-left"><a href="#">People
@@ -267,8 +242,8 @@ and open the template in the editor.
               </a>
               <input type="checkbox" id="sm88">
               <ul class="sub-menu">
-                  <li><a href="../../people/faculty.html">Faculty</a></li>
-                  <li><a href="../../people/staff.html">Staff</a></li>
+                  <li><a href="../../people/faculty.php">Faculty</a></li>
+                  <li><a href="../../people/staff.php">Staff</a></li>
               </ul>
           </li>
             <li class="b-left"><a href="#">Academics
@@ -286,14 +261,14 @@ and open the template in the editor.
                       <input type="checkbox" id="smug">
                       </a>
                       <ul class="sub-menu">
-                          <li><a href="../../ug/workshop_organised.html">Workshop Organised</a></li>
-                          <li><a href="../../ug/workshop_attended.html">Workshop Attended</a></li>
-                          <li><a href="../../ug/course_outline.html">Course Outline</a></li>
-                          <li><a href="../../ug/activity_calender.html">Activity Calendar</a></li>
+                          <li><a href="../../ug/workshop_organised.php">Workshop Organised</a></li>
+                          <li><a href="../../ug/workshop_attended.php">Workshop Attended</a></li>
+                          <li><a href="../../ug/course_outline.php">Course Outline</a></li>
+                          <li><a href="../../ug/activity_calender.php">Activity Calendar</a></li>
                       </ul>
                     </li>-->
                     
-					<li><a href="ug/co_cordinator_desk.html">UG</a></li>
+					<li><a href="ug/co_cordinator_desk.php">UG</a></li>
 					<li>
                       <a href="">PG
                         <span class="drop-icon">▸</span>
@@ -302,11 +277,11 @@ and open the template in the editor.
                       <input type="checkbox" id="sm5">
                       </a>
                       <ul class="sub-menu">
-                          <li><a href="../../pg/me-design.html">M.Tech Design Engineering</a></li>
-                          <li><a href="../../pg/me-heatpower.html">M.Tech Heat Power Engineering</a></li>
+                          <li><a href="../../pg/me-design.php">M.Tech Design Engineering</a></li>
+                          <li><a href="../../pg/me-heatpower.php">M.Tech Heat Power Engineering</a></li>
                       </ul>
                     </li>
-                    <li><a href="../phd/phd_home.html">Ph. D</a></li>
+                    <li><a href="../phd/phd_home.php">Ph. D</a></li>
                 </ul>
             </li>
             <li class="b-left"><a href="#">Research
@@ -316,14 +291,14 @@ and open the template in the editor.
                 <input type="checkbox" id="smr">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="../../research/sig.html">Research Team</a></li>
-					<li><a href="research/sig.html">Special Interest Groups (SIG)</a></li>
-                    <li><a href="../../research/publication.html">Publication</a></li>
-                    <li><a href="../../research/copyright.html">Intellectual Property Rights</a></li>
-                    <li><a href="../../research/research funding.html">Research Funding </a></li>
-                    <li><a href="../../research/cs_projects.html">Consultancy/Sponsored Projects</a></li>
-                    <li><a href="../../research/student_achivements.html">Student Achievements</a></li>
-                    <li><a href="../../research/entrepreneurship.html">Entrepreneurship</a></li>
+                    <li><a href="../../research/sig.php">Research Team</a></li>
+					<li><a href="research/sig.php">Special Interest Groups (SIG)</a></li>
+                    <li><a href="../../research/publication.php">Publication</a></li>
+                    <li><a href="../../research/copyright.php">Intellectual Property Rights</a></li>
+                    <li><a href="../../research/research funding.php">Research Funding </a></li>
+                    <li><a href="../../research/cs_projects.php">Consultancy/Sponsored Projects</a></li>
+                    <li><a href="../../research/student_achivements.php">Student Achievements</a></li>
+                    <li><a href="../../research/entrepreneurship.php">Entrepreneurship</a></li>
                 </ul>
             </li>
 
@@ -334,11 +309,11 @@ and open the template in the editor.
               <input type="checkbox" id="sm50">
               </a>
               <ul class="sub-menu">
-                  <li><a href="../../placement/recruiter.html">Major Recruiters</a></li>
-                  <li><a href="../../placement/placement.html">Placement</a></li>
-                  <li><a href="../../placement/internship.html">Internship</a></li>
-                  <li><a href="../../placement/training.html">Industrial Visit & Training Program</a></li>
-                  <li><a href="../../placement/mou.html">MOU's</a></li>
+                  <li><a href="../../placement/recruiter.php">Major Recruiters</a></li>
+                  <li><a href="../../placement/placement.php">Placement</a></li>
+                  <li><a href="../../placement/internship.php">Internship</a></li>
+                  <li><a href="../../placement/training.php">Industrial Visit & Training Program</a></li>
+                  <li><a href="../../placement/mou.php">MOU's</a></li>
               </ul>
             </li>
             <li class="b-left"><a href="#">Facilities
@@ -348,9 +323,9 @@ and open the template in the editor.
                 <input type="checkbox" id="smsfc">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="laboratories.html">Laboratories</a></li>
-                    <li><a href="library.html">Library</a></li>
-					<li><a href="seminar_hall.html">Seminar Hall</a></li>
+                    <li><a href="laboratories.php">Laboratories</a></li>
+                    <li><a href="library.php">Library</a></li>
+					<li><a href="seminar_hall.php">Seminar Hall</a></li>
                 </ul>
             </li>
             <li class="b-left"><a href="#">Student Development & Welfare
@@ -360,11 +335,11 @@ and open the template in the editor.
                 <input type="checkbox" id="smsdw">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="../../Student_development&Welfare/public_html/higher_studies.html">Higher study cell</a></li>
-                    <li><a href="../../Student_development&Welfare/public_html/Communication_Personality_Development.html">Communication and Personality Development Cell</a></li>
-                    <li><a href="../../Student_development&Welfare/public_html/professional_development.html">Professional Development Cell</a></li>
-                    <li><a href="../../Student_development&Welfare/public_html/ISR.html">Institutional Social Responsibility</a></li>
-                    <li><a href="../../Student_development&Welfare/public_html/nation_services_scheme.html">National Service Scheme</a></li>
+                    <li><a href="../../Student_development&Welfare/public_html/higher_studies.php">Higher study cell</a></li>
+                    <li><a href="../../Student_development&Welfare/public_html/Communication_Personality_Development.php">Communication and Personality Development Cell</a></li>
+                    <li><a href="../../Student_development&Welfare/public_html/professional_development.php">Professional Development Cell</a></li>
+                    <li><a href="../../Student_development&Welfare/public_html/ISR.php">Institutional Social Responsibility</a></li>
+                    <li><a href="../../Student_development&Welfare/public_html/nation_services_scheme.php">National Service Scheme</a></li>
                 </ul>
             </li>
             <li class="b-left"><a href="#">Clubs
@@ -374,19 +349,19 @@ and open the template in the editor.
                 <input type="checkbox" id="sm9">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="../../clubs/mesa.html">MESA</a></li>
-                    <li><a href="../../clubs/ambush.html">Team Ambush</a></li>
-                    <li><a href="../../clubs/redbaron.html">Team Red Baron</a></li>
-                    <li><a href="../../clubs/kratos.html">Team Kratos Racing</a></li>
-                    <li><a href="../../clubs/solarium.html">Team Solarium</a></li>
-                    <li><a href="../../clubs/automaton.html">Team Automatons</a></li>
-                    <li><a href="../../clubs/maverick.html">Team Maverick</a></li>
-                    <li><a href="../../clubs/ishrae.html">ISHRAE</a></li>
-                    <li><a href="../../clubs/iei.html">IEI</a></li>
-                    <li><a href="../../clubs/sport.html">Sports</a></li>
+                    <li><a href="../../clubs/mesa.php">MESA</a></li>
+                    <li><a href="../../clubs/ambush.php">Team Ambush</a></li>
+                    <li><a href="../../clubs/redbaron.php">Team Red Baron</a></li>
+                    <li><a href="../../clubs/kratos.php">Team Kratos Racing</a></li>
+                    <li><a href="../../clubs/solarium.php">Team Solarium</a></li>
+                    <li><a href="../../clubs/automaton.php">Team Automatons</a></li>
+                    <li><a href="../../clubs/maverick.php">Team Maverick</a></li>
+                    <li><a href="../../clubs/ishrae.php">ISHRAE</a></li>
+                    <li><a href="../../clubs/iei.php">IEI</a></li>
+                    <li><a href="../../clubs/sport.php">Sports</a></li>
                 </ul>
             </li>
-            <li class="b-left b-right"><a href="../contact_us/index.html">Contact us</a></li>
+            <li class="b-left b-right"><a href="../contact_us/index.php">Contact us</a></li>
         </ul>
     </nav>
   </div>
@@ -407,12 +382,14 @@ and open the template in the editor.
 		<!--<div class="text2">
         <h3>FY B.Tech</h3>
 		</div>-->
+		<div class="rounded-lg">
 		<input type="button" value="FY B.Tech">
+		</div>
 		<div class="row">
-		<div class="col">
-		<a href=".html">
+		<div class="col-lg-4">
+		<a href=".php">
 		<div class="card" style="width:100%">
-		<img class="card-img-top" src="imageslab/FYComplab.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded">
+		<img class="card-img-top" src="imageslab/FYComplab.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="223px">
 		</a>
 		<div class="card-body">
 		<p class="card-text">Computer Application Lab</p>
@@ -427,10 +404,10 @@ and open the template in the editor.
         </div>-->
      
 		
-		<div class="col">
-		<a href="EME.html">
+		<div class="col-lg-4">
+		<a href="EME.php">
 		<div class="card" style="width:100%"> 
-		<img class="card-img-top" src="imageslab/EME (4).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded">
+		<img class="card-img-top" src="imageslab/EME (4).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="223px">
 		</a>
 		<div class="card-body">
 		<p class="card-text">Elements of Mechanical Engineering Lab</p>
@@ -438,10 +415,10 @@ and open the template in the editor.
 		</div>
 		</div>
 		
-		<div class="col">
+		<div class="col-lg-4">
 		<a href="#">
 		<div class="card" style="width:100%"> 
-		<img class="card-img-top" src="imageslab/drawinghall2.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded">
+		<img class="card-img-top" src="imageslab/drawinghall2.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="223px">
 		</a>
 		<div class="card-body">
 		<p class="card-text">Engineering Graphics Drawing Hall</p>
@@ -472,10 +449,10 @@ and open the template in the editor.
 		 
 		 <div class="row">
 		 
-		 <div class="col">
-		 <a href="materialSML.html">
+		 <div class="col-lg-4">
+		 <a href="materialSML.php">
 		 <div class="card" style="width:100%"> 
-		 <img class="card-img-top" src="imageslab/SYMaterial1 (3).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded">
+		 <img class="card-img-top" src="imageslab/SYMaterial1 (3).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="223px">
 		 </a>
 		 <div class="card-body">
 		 <p class="card-text">Material Science & Metallurgy Lab</p>
@@ -484,10 +461,10 @@ and open the template in the editor.
 		 </div>
 		
 		
-		<div class="col">
-		<a href="TOM.html">
+		<div class="col-lg-4">
+		<a href="TOM.php">
 		<div class="card" style="width:100%"> 
-		<img class="card-img-top" src="imageslab/TOM (7).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded">
+		<img class="card-img-top" src="imageslab/TOM (7).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="223px">
 		</a>
 		<div class="card-body">
 		<p class="card-text">Theory of Machine Lab</p>
@@ -495,8 +472,8 @@ and open the template in the editor.
 		</div>
 		</div>
 		
-		<div class="col">
-		<a href="APT.html">
+		<div class="col-lg-4">
+		<a href="APT.php">
 		<div class="card" style="width:100%"> 
 		<img class="card-img-top" src="imageslab/APT.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="223px">
 		</a>
@@ -505,7 +482,7 @@ and open the template in the editor.
 		</div>
 		</div>
 		</div>
-		
+		</div>
 		
 		
 		
@@ -538,12 +515,12 @@ and open the template in the editor.
             </div>
         </div>-->
          
-        <div class="row1">
+        <div class="row">
             
-			<div class="col">
-			<a href="FM.html">
+			<div class="col-lg-4">
+			<a href="FM.php">
 			<div class="card" style="width:100%"> 
-			<img class="card-img-top" src="imageslab/fluidmechanics (1).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded">
+			<img class="card-img-top" src="imageslab/fluidmechanics (1).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="223px">
 			</a>
 			<div class="card-body">
 			<p class="card-text">Fluid Mechanics Lab</p>
@@ -551,8 +528,8 @@ and open the template in the editor.
 			</div>
 			</div>
 		</div>
-  </div>
- 
+  
+ </div>
   </div>
   </div>
   </section>
@@ -566,8 +543,8 @@ and open the template in the editor.
 	
 	 
 		<div class="row">
-		<div class="col">
-		<a href="RAC.html">
+		<div class="col-lg-4">
+		<a href="RAC.php">
 		<div class="card" style="width:100%"> 
 		<img class="card-img-top" src="imageslab/RAC42.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="224px">
 		</a>
@@ -577,8 +554,8 @@ and open the template in the editor.
 		</div>
 		</div>
 		
-		<div class="col">
-		<a href="heattransfer.html">
+		<div class="col-lg-4">
+		<a href="heattransfer.php">
 		<div class="card" style="width:100%"> 
 		<img class="card-img-top" src="imageslab/HT1 (4).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="224px" >
 		</a>
@@ -588,8 +565,8 @@ and open the template in the editor.
 		</div>
 		</div>
 		
-		<div class="col">
-		<a href="MQC.html">
+		<div class="col-lg-4">
+		<a href="MQC.php">
 		<div class="card" style="width:100%"> 
 		<img class="card-img-top" src="imageslab/mqc (4).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="224px">
 		</a>
@@ -602,7 +579,7 @@ and open the template in the editor.
 		
 		
 		<div class="row">
-		<div class="col">
+		<div class="col-lg-4">
 		<a href="#">
 		<div class="card" style="width:100%"> 
 		<img class="card-img-top" src="imageslab/computerlab.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="224px">
@@ -613,8 +590,8 @@ and open the template in the editor.
 		</div>
 		</div>
 		
-		<div class="col">
-		<a href="mechatronics.html">
+		<div class="col-lg-4">
+		<a href="mechatronics.php">
 		<div class="card" style="width:100%"> 
 		<img class="card-img-top" src="imageslab/mechatronics (1).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="224px" >
 		</a>
@@ -624,8 +601,8 @@ and open the template in the editor.
 		</div>
 		</div>
 		
-		<div class="col">
-		<a href="turbolab.html">
+		<div class="col-lg-4">
+		<a href="turbolab.php">
 		<div class="card" style="width:100%"> 
 		<img class="card-img-top" src="imageslab/turbolab (3).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="224px">
 		</a>
@@ -737,10 +714,10 @@ and open the template in the editor.
         <input type="button" value="BE B.Tech">
 	
 	<div class="row justify-content-evenly">
-			<div class="col-5">
-			<a href="DME.html">
+			<div class="col-lg-5">
+			<a href="DME.php">
 			<div class="card" style="width:100%"> 
-			<img class="card-img-top" src="imageslab/DOM (2).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
+			<img class="card-img-top" src="imageslab/DOM (2).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="223px">
 			</a>
 			<div class="card-body">
 			<p class="card-text">Design of Machine Elements</p>
@@ -753,10 +730,10 @@ and open the template in the editor.
 			</div>
 			</div>-->
     </div>
-			<div class="col-5">
-			<a href="hydraulic.html">
+			<div class="col-lg-5">
+			<a href="hydraulic.php">
 			<div class="card" style="width:100%"> 
-			<img class="card-img-top" src="imageslab/HAP.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
+			<img class="card-img-top" src="imageslab/HAP.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="223px">
 			</a>
 			<div class="card-body">
 			<p class="card-text">Hydraulic & Pneumatics Lab</p>
@@ -783,10 +760,10 @@ and open the template in the editor.
         <input type="button" value="Special Labs">
 		
 	<div class="row">
-		<div class="col">
-			<a href="3DPLM.html">
+		<div class="col-lg-4">
+			<a href="3DPLM.php">
 			<div class="card" style="width:100%"> 
-			<img class="card-img-top" src="imageslab/3D (7).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded">
+			<img class="card-img-top" src="imageslab/3D (7).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="223px">
 			</a>
 			<div class="card-body">
 			<p class="card-text">Product Innovation Lab (3DPLM)</p>
@@ -801,10 +778,10 @@ and open the template in the editor.
         </div>-->
 		
 		
-		<div class="col">
-			<a href="nayan.html">
+		<div class="col-lg-4">
+			<a href="nayan.php">
 			<div class="card" style="width:100%"> 
-			<img class="card-img-top" src="imageslab/nayanelectronics (2).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded">
+			<img class="card-img-top" src="imageslab/nayanelectronics (2).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="223px">
 			</a>
 			<div class="card-body">
 			<p class="card-text">Nayan Electronics Lab</p>
@@ -819,8 +796,8 @@ and open the template in the editor.
 		</div>-->
 		
 		
-		<div class="col">
-			<a href="batterylab.html">
+		<div class="col-lg-4">
+			<a href="batterylab.php">
 			<div class="card" style="width:100%"> 
 			<img class="card-img-top" src="imageslab/BATTERYlab (2).jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="224px">
 			</a>
@@ -839,8 +816,8 @@ and open the template in the editor.
 	</div>
   
     <div class="row justify-content-evenly">
-		<div class="col-4">
-			<a href="workshop.html">
+		<div class="col-lg-4">
+			<a href="workshop.php">
 			<div class="card" style="width:100%"> 
 			<img class="card-img-top" src="imageslab/Workshop.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="224px">
 			</a>
@@ -855,7 +832,7 @@ and open the template in the editor.
         </div>-->
         
 		
-		<div class="col-4">
+		<div class="col-lg-4">
 		<a href="#">
 			<div class="card" style="width:100%"> 
 			<img class="card-img-top" src="imageslab/IC.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="224px">
@@ -1018,7 +995,7 @@ and open the template in the editor.
       <div>
         <div>
           <p>
-            <a targrt="_blank"  href="index.html" class="text-decoration-none text-white">
+            <a targrt="_blank"  href="index.php" class="text-decoration-none text-white">
               <h6>
                 <i class="fas fa-external-link-alt"></i> Homepage
               </h6>

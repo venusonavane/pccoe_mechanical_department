@@ -6,39 +6,40 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>ISR|Student_Development_welfare|Department Of Mechanical Engineering at PCCOE</title>
+        <title>CPDC|Student_Development_welfare|Department Of Mechanical Engineering at PCCOE</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<!--for title logo-->
+    <!--for title logo-->
     <link href="../../vender/img/logo/PCCOE_LOGO_b.jpg"  rel="shortcut icon" type="image/x-icon">
 
     <!--for icons-->
     <link href="../../vender/icon/css/brands.css" rel="stylesheet" />
     <link href="../../vender/icon/css/fontawesome.css" rel="stylesheet" />
     <link href="../../vender/icon/css/solid.css" rel="stylesheet" />
-	
+
+    <!--styling applied within clubs
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="../vender/css/navbar.css" rel="stylesheet" />
+    <link href="../vender/css/style1.css" rel="stylesheet" />-->
+
     <link rel="stylesheet" href="bootstrap.min.css" type="text/css"/>
-	<link href="../../vender/css/navbar.css" rel="stylesheet" />
+    <link href="../../vender/css/navbar.css" rel="stylesheet" />
     <link href="../../vender/css/style1.css" rel="stylesheet" />
-    
+	
 	<style>
-	 .row1{
-                padding-left: 435px;
-                padding-right: 435px;
-            }
 	.card {
 			 box-shadow: 0 3px 5px rgba(0, 0, 0, 0.5);
 		}
 		
 	
-	.card-text{
+		.card-text{
 			font-family: "Verdana", Sans-serif;
-			font-size: 14px;
+			font-size: 17px;
 		}
+	
 	</style>
     </head>
     <body>
-	
 	<!-- Start Header -->
  <header>
   <div class="container-fluid header">
@@ -89,18 +90,18 @@ and open the template in the editor.
         <label for="tm" id="toggle-menu"><b>Menu</b> <span class="drop-icon"><b>&#9776;</b></span></label>
         <input type="checkbox" id="tm">
         <ul class="main-menu cf">
-            <li class="b-left"><a href="../../index.html">Home</a></li>
+            <li class="b-left"><a href="../../index.php">Home</a></li>
             <li class="b-left"><a href="#">About us
                     <span class="drop-icon">▾</span>
                     <label title="Toggle Drop-down" class="drop-icon" for="sm0">▾</label>
                 </a>
                 <input type="checkbox" id="sm0">
                 <ul class="sub-menu">
-                    <li><a href="../../aboutus/hod_desk.html">HOD Desk</a></li>
-                    <li><a href="../../aboutus/vision-mission.html">Vision and Mission</a></li>
-                    <li><a href="../../aboutus/program_outcome.html">Program Outcomes</a></li>
-                    <li><a href="../../aboutus/BOS.html">Board Of Studies</a></li>
-                    <li><a href="../../aboutus/student_alumni.html">Student and Alumni's</a></li>
+                    <li><a href="../../aboutus/hod_desk.php">HOD Desk</a></li>
+                    <li><a href="../../aboutus/vision-mission.php">Vision and Mission</a></li>
+                    <li><a href="../../aboutus/program_outcome.php">Program Outcomes</a></li>
+                    <li><a href="../../aboutus/BOS.php">Board Of Studies</a></li>
+                    <li><a href="../../aboutus/student_alumni.php">Student and Alumni's</a></li>
                 </ul>
             </li>
             <li class="b-left"><a href="#">People
@@ -109,8 +110,8 @@ and open the template in the editor.
               </a>
               <input type="checkbox" id="sm88">
               <ul class="sub-menu">
-                  <li><a href="../../people/faculty.html">Faculty</a></li>
-                  <li><a href="../../people/staff.html">Staff</a></li>
+                  <li><a href="../../people/faculty.php">Faculty</a></li>
+                  <li><a href="../../people/staff.php">Staff</a></li>
               </ul>
           </li>
             <li class="b-left"><a href="#">Academics
@@ -128,13 +129,13 @@ and open the template in the editor.
                       <input type="checkbox" id="smug">
                       </a>
                       <ul class="sub-menu">
-                          <li><a href="../../ug/workshop_organised.html">Workshop Organised</a></li>
-                          <li><a href="../../ug/workshop_attended.html">Workshop Attended</a></li>
-                          <li><a href="../../ug/course_outline.html">Course Outline</a></li>
-                          <li><a href="../../ug/activity_calender.html">Activity Calendar</a></li>
+                          <li><a href="../../ug/workshop_organised.php">Workshop Organised</a></li>
+                          <li><a href="../../ug/workshop_attended.php">Workshop Attended</a></li>
+                          <li><a href="../../ug/course_outline.php">Course Outline</a></li>
+                          <li><a href="../../ug/activity_calender.php">Activity Calendar</a></li>
                       </ul>
                     </li>-->
-					<li><a href="ug/co_cordinator_desk.html">UG</a></li>
+					<li><a href="ug/co_cordinator_desk.php">UG</a></li>
                     <li>
                       <a href="">PG
                         <span class="drop-icon">▸</span>
@@ -143,11 +144,11 @@ and open the template in the editor.
                       <input type="checkbox" id="sm5">
                       </a>
                       <ul class="sub-menu">
-                          <li><a href="../../pg/me-design.html">M.Tech Design Engineering</a></li>
-                          <li><a href="../../pg/me-heatpower.html">M.Tech Heat Power Engineering</a></li>
+                          <li><a href="../../pg/me-design.php">M.Tech Design Engineering</a></li>
+                          <li><a href="../../pg/me-heatpower.php">M.Tech Heat Power Engineering</a></li>
                       </ul>
                     </li>
-                    <li><a href="../../phd/phd_home.html">Ph. D</a></li>
+                    <li><a href="../../phd/phd_home.php">Ph. D</a></li>
                 </ul>
             </li>
             <li class="b-left"><a href="#">Research
@@ -157,14 +158,14 @@ and open the template in the editor.
                 <input type="checkbox" id="smr">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="../../research/sig.html">Research Team</a></li>
-					<li><a href="research/sig.html">Special Interest Groups (SIG)</a></li>
-                    <li><a href="../../research/publication.html">Publication</a></li>
-                    <li><a href="../../research/copyright.html">Intellectual Property Rights</a></li>
-                    <li><a href="../../research/research funding.html">Research Funding </a></li>
-                    <li><a href="../../research/cs_projects.html">Consultancy/Sponsored Projects</a></li>
-                    <li><a href="../../research/student_achivements.html">Student Achievements</a></li>
-                    <li><a href="../../research/entrepreneurship.html">Entrepreneurship</a></li>
+                    <li><a href="../../research/sig.php">Research Team</a></li>
+					<li><a href="research/sig.php">Special Interest Groups (SIG)</a></li>
+                    <li><a href="../../research/publication.php">Publication</a></li>
+                    <li><a href="../../research/copyright.php">Intellectual Property Rights</a></li>
+                    <li><a href="../../research/research funding.php">Research Funding </a></li>
+                    <li><a href="../../research/cs_projects.php">Consultancy/Sponsored Projects</a></li>
+                    <li><a href="../../research/student_achivements.php">Student Achievements</a></li>
+                    <li><a href="../../research/entrepreneurship.php">Entrepreneurship</a></li>
                 </ul>
             </li>
 
@@ -175,11 +176,11 @@ and open the template in the editor.
               <input type="checkbox" id="sm50">
               </a>
               <ul class="sub-menu">
-                  <li><a href="../../placement/recruiter.html">Major Recruiters</a></li>
-                  <li><a href="../../placement/placement.html">Placement</a></li>
-                  <li><a href="../../placement/internship.html">Internship</a></li>
-                  <li><a href="../../placement/training.html">Industrial Visit & Training Program</a></li>
-                  <li><a href="../../placement/mou.html">MOU's</a></li>
+                  <li><a href="../../placement/recruiter.php">Major Recruiters</a></li>
+                  <li><a href="../../placement/placement.php">Placement</a></li>
+                  <li><a href="../../placement/internship.php">Internship</a></li>
+                  <li><a href="../../placement/training.php">Industrial Visit & Training Program</a></li>
+                  <li><a href="../../placement/mou.php">MOU's</a></li>
               </ul>
             </li>
             <li class="b-left"><a href="#">Facilities
@@ -189,8 +190,8 @@ and open the template in the editor.
                 <input type="checkbox" id="smsfc">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="../../facilities/public_html/laboratories.html">Laboratories</a></li>
-                    <li><a href="../../facilities/public_html/library.html">Library</a></li>
+                    <li><a href="../../facilities/public_html/laboratories.php">Laboratories</a></li>
+                    <li><a href="../../facilities/public_html/library.php">Library</a></li>
 					 <li><a href="#">Seminar Hall</a></li>
                 </ul>
             </li>
@@ -201,11 +202,11 @@ and open the template in the editor.
                 <input type="checkbox" id="smsdw">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="higher_studies.html">Higher study cell</a></li>
-                    <li><a href="Communication_Personality_Development.html">Communication and Personality Development Cell</a></li>
-                    <li><a href="professional_development.html">Professional Development Cell</a></li>
-                    <li><a href="ISR.html">Institutional Social Responsibility</a></li>
-                    <li><a href="nation_services_scheme.html">National Service Scheme</a></li>
+                    <li><a href="higher_studies.php">Higher study cell</a></li>
+                    <li><a href="Communication_Personality_Development.php">Communication and Personality Development Cell</a></li>
+                    <li><a href="professional_development.php">Professional Development Cell</a></li>
+                    <li><a href="ISR.php">Institutional Social Responsibility</a></li>
+                    <li><a href="nation_services_scheme.php">National Service Scheme</a></li>
                 </ul>
             </li>
             <li class="b-left"><a href="#">Clubs
@@ -215,27 +216,29 @@ and open the template in the editor.
                 <input type="checkbox" id="sm9">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="../../clubs/mesa.html">MESA</a></li>
-                    <li><a href="../../clubs/ambush.html">Team Ambush</a></li>
-                    <li><a href="../../clubs/redbaron.html">Team Red Baron</a></li>
-                    <li><a href="../../clubs/kratos.html">Team Kratos Racing</a></li>
-                    <li><a href="../../clubs/solarium.html">Team Solarium</a></li>
-                    <li><a href="../../clubs/automaton.html">Team Automatons</a></li>
-                    <li><a href="../../clubs/maverick.html">Team Maverick</a></li>
-                    <li><a href="../../clubs/ishrae.html">ISHRAE</a></li>
-                    <li><a href="../../clubs/iei.html">IEI</a></li>
-                    <li><a href="../../clubs/sport.html">Sports</a></li>
+                    <li><a href="../../clubs/mesa.php">MESA</a></li>
+                    <li><a href="../../clubs/ambush.php">Team Ambush</a></li>
+                    <li><a href="../../clubs/redbaron.php">Team Red Baron</a></li>
+                    <li><a href="../../clubs/kratos.php">Team Kratos Racing</a></li>
+                    <li><a href="../../clubs/solarium.php">Team Solarium</a></li>
+                    <li><a href="../../clubs/automaton.php">Team Automatons</a></li>
+                    <li><a href="../../clubs/maverick.php">Team Maverick</a></li>
+                    <li><a href="../../clubs/ishrae.php">ISHRAE</a></li>
+                    <li><a href="../../clubs/iei.php">IEI</a></li>
+                    <li><a href="../../clubs/sport.php">Sports</a></li>
                 </ul>
             </li>
-            <li class="b-left b-right"><a href="../contact_us/index.html">Contact us</a></li>
+            <li class="b-left b-right"><a href="../contact_us/index.php">Contact us</a></li>
         </ul>
     </nav>
   </div>
   <!-- End Navbar -->
   
-   <br>
-       <section class="p-3"><div class="container-lg">
-        <div class="display-4 mb-4 ">Institute Social Responsibility Cell</div>
+   
+	<br>
+       <section class="p-3">
+	   <div class="container-lg">
+        <div class="display-4 mb-4 ">Communication And Personality Development Cell</div>
         <div class="bg-light p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">About us</p>
@@ -244,146 +247,176 @@ and open the template in the editor.
           <div class="col-lg-9 col-md-12">
               
             <p class="my-4 text-dark">
-                <h4>Objective</h4>
-                <p> To Inculcate Social awareness, values and environmentally responsible behaviour amongst students and 
-                    to nurture students as citizens with moral, ethical and social values so as to provide service to the society 
-                    through activities and discharge their obligations towards the society.</p>
-       
+                
+        <p>Communication and Personality Development Cell (CPDC) at Mechanical Engineering Department believes in holistic development of the 
+        student’s in Communication skills and overall personality development to meet the professional needs. Students are trained in terms of their 
+        communication skills, presentation skills, group discussion skills, public speaking skills, interpersonal skills and interview skills.</p><br><!-- comment -->
+        <p>The CPDC works in strong coherence with Training & Placement Cell to identify the latest training and development needs of the students to 
+            make them skilled before ‘IN & OFF’ Campus Placements Drives. To achieve this, cell has appointed well established agencies to train students 
+            on aptitude and soft skills. These training sessions emphasize a personalized approach where every student is groomed.</p><br> 
+        <p>Cell organises and promotes group task/discussion, public speaking competitions, guest lectures to foster attitude, time management, 
+            oral skills and the body language, emotional intelligence and a whole host of other personal attributes which are crucial for successful 
+            career and life in our students.</p>
+        
+           
+            </p>
           </div>
           <div class="col-lg-3 col-md-6 align-item-center justify-content-center d-flex">
-            <div class="card" style="width: 80%;">
-              <img src="hsc_images/AVSuryavashi.png" class="card-img" alt="Image of faculty advisor">
+            <div class="card" style="width: 100%;">
+              <img src="hsc_images/SRWankhede.jpg" class="card-img" alt="Image of faculty advisor">
               <div class="card-body">
-                <p class="card-text text-center "><span class="fw-bold">Prof. Amol V. Suryavanshi</span><br/>
+                <p class="card-text text-center "><span class="fw-bold">Prof. S. R. Wankhede</span><br/>
                   <span class="text-secondary fw-light">Faculty Coordinator</span></p>
               </div>
             </div>
           </div>
+            
+             <div class="bg-light p-3">
+          <div class="border-bottom border-1 border-primary mb-3">
+            <p class="fs-3 text-primary">Soft Skills And Aptitude Training Program</p>
+          </div>
+        <div class="row my-3">
+          <div class="col-lg-9 col-md-12">
+              
+            <p class="my-4 text-dark">
+                
+            <p><b>Teaching Scheme:</b> 4 Hrs/ Week</p>
+            <p><b>Examination Scheme:</b> 1 Pre-assessment Test + 1 Post-assessment Test</p>
+            <p><b>Course Structure:</b> 120Hours</p>
+
+          </div>
+            <table class="table table-hover table-borderless">
+              <thead class="table-primary">
+                <tr>
+                  <th scope="col">SE (IV Sem) 30 Hrs.</th>
+                  <th scope="col">TE (V Sem) 30 Hrs.</th>
+                  <th scope="col">TE (VI Sem) 30 Hrs.</th>
+                  <th scope="col">BE (VII) 30 Hrs.</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>                 
+                  <td>Spoken English: Public speaking, grammar, speech</td>
+              
+                
+                              
+                  <td>Logical Reasoning, Quantitative, Verbal ability</td>
+               
+                
+                              
+                  <td>Logical Reasoning, Quantitative, Verbal ability</td>
+                
+                
+                               
+                  <td>Finishing Course- Placement Preparation</td>
+                </tr> 
+                
+              </tbody>
+            </table>
       </div>
         </div>
+        </div>
         
+      </div>
     </section>
         
-        <section class="p-5">
+       
+       
+   
+
+    <section class="p-5">
       <div class="container-lg ">
         <div class="bg-light p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">Events under the cell</p>
           </div>
+              <div class="row my-3">
+          <div class="col-lg-9 col-md-12">
               
+            <p class="my-4 text-dark">
+            Various events and activities are conducted to enhance :
+            <ul>
+                <li>Effective communication</li>
+                <li>Problem solving ability</li>
+                <li>Creative and critical thinking</li><!-- comment -->
+                <li>Teamwork</li> 
+            </ul>
+
+        </div>
+      </div>
              <div class="row my-3">
-                 <div class="col-lg-9 col-md-12">
                   <p class="my-4 text-dark"> 
                   <h4>AY 2019-20 :</h4>
-                  <b>Student Coordinator:</b> Mangesh Sutar & Sujata Sanap<br><br>
-                   <b>1)Road safety awareness program:</b><br>
-                   <b>Objective :</b> To aware the students about road safety, precautions and risk factors while driving.<br>
-                   <b>Brief about activity:</b> ISR cell has organized a "Road safety awareness program" for Girl students and ladies faulty on 26/09/2019, Thursday at 11:00am. Total 60 girl students and ladies staff of Mechanical department taken benefit of this activity.<br>
-                   
-                 </div>
-             </div>
-                  
-				  <div class="row">
-		 
-		 <div class="col">
-		
-		 <div class="card" style="width:100%"> 
-		 <img class="card-img-top" src="hsc_images/isr1 (1).png" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
-		
-		 </div>
-		 </div>
-		
-		
-		<div class="col">
-		
-		<div class="card" style="width:100%"> 
-		<img class="card-img-top" src="hsc_images/isr1 (5).png" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
-		
-		</div>
-		</div>
-		
-		<div class="col">
-		
-		<div class="card" style="width:100%"> 
-		<img class="card-img-top" src="hsc_images/isr1 (7).png" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px" >
-		
-		</div>
-		</div>
-		</div>
-                   <!--<div class="row my-3">
-                    <div class="col-lg-4 col-md-6">
-                        <div  style="width: 350px; height: 350px;">
-                            <img src="hsc_images/isr1 (1).png" class="img-thumbnail mb-3">
-                           
-                </div>
-                </div>  
-                       
-                       <div class="col-lg-4 col-md-12">
-                        <div  style="width: 350px; height: 350px;">
-                            <img src="hsc_images/isr1 (5).png" class="img-thumbnail mb-3">
-                           
-                </div>
-                </div>  
-                        <div class="col-lg-4 col-md-12">
-                        <div  style="width: 350px; height: 350px;">
-                            <img src="hsc_images/isr1 (7).png" class="img-thumbnail mb-3">
-                           
-                </div>
-                </div>  
-                       
-                </div>-->
-        
-        <div class="row1">
-            <div class="col">
-			
-			<div class="card" style="width:100%"> 
-			<img class="card-img-top" src="hsc_images/isr1 (6).png" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
+         <div class="row justify-content-evenly">
+          <div class="col-5">
+		  <div class="card" style="width:100%"> 
+			<img class="card-img-top" src="hsc_images/Training2.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
 			</a>
+			<div class="card-body">
+			<p class="card-text">Session on Email Etiquettes</p>
 			</div>
 			</div>
-		</div>       
+			</div>
+			<div class="col-5">
+		  <div class="card" style="width:100%"> 
+			<img class="card-img-top" src="hsc_images/Training3.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
+			</a>
+			<div class="card-body">
+			<p class="card-text">Aptitude and Soft skills Program</p>
+			</div>
+			</div>
+			</div>
+		</div>
+          <!--<div class="col-lg-4 col-md-12">
+              <div class="card" style="width: 350px; height: 350px;">
+            <img src="hsc_images/Training2.jpg" class="img-thumbnail mb-3">
+            <p><center>Session on Email Etiquettes</center></p>
+          </div>
+          </div>
             
+            <div class="col-lg-4 col-md-12">
+              <div class="card" style="width: 350px; height: 350px;">
+            <img src="hsc_images/Training3.jpg"" class="img-thumbnail mb-3">
+            <p><center>Aptitude and Soft skills Program</center></p>
+          </div>
+          </div>-->
+        </div>
             
             <div class="row my-3">
-                 <div class="col-lg-9 col-md-12">
                   <p class="my-4 text-dark"> 
-                   <b>2)Flood relief donation to Kolhapur: Ingli- Hatkanagale, Kolhapur</b><br>
-                   <b>Objective :</b>To help Kolhapur – Sangli Flood relief in their basic needs during flood<br>
-                   <b>Day & Date:</b>11th Aug to 15th Aug 2019.<br>
-                   <b>Name of the beneficiary society:</b> Kolhapur – Sangli Flood Victims (Ingli- Hatkanagale, Kolhapur)<br>
-                   <b>Number of beneficiary:</b> Village people of Ingli- Hatkanagale, Kolhapur<br><br>
-              </div>
-             </div> 
-			<div class="row justify-content-evenly">
-			<div class="col-5">
-			<div class="card" style="width:90%"> 
-			<img class="card-img-top" src="hsc_images/isr2.png" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
-			</div>
-			</div>
+                  <h4>AY 2018-19 :</h4>
+        <div class="row justify-content-evenly">
+          <div class="col-5">
+		  <div class="card" style="width:100%"> 
+			<img class="card-img-top" src="hsc_images/Training4.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
 			
+			<div class="card-body">
+			<p class="card-text">Session on Email Etiquettes</p>
+			</div>
+			</div>
+			</div>
 			<div class="col-5">
-			<div class="card" style="width:90%"> 
-			<img class="card-img-top" src="hsc_images/isr4.png" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
+		  <div class="card" style="width:100%"> 
+			<img class="card-img-top" src="hsc_images/Training5.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
+			
+			<div class="card-body">
+			<p class="card-text">Group discussion</p>
 			</div>
 			</div>
 			</div>
-                 
+             <!-- <div class="card" style="width: 350px; height: 350px;">
+            <img src="hsc_images/Training4.jpg" class="img-thumbnail mb-3">
+            <p><center>Session on Email Etiquettes</center></p>
+          </div>
+          
             
-                    <b>3)Note book making Activity</b><br>
-                   <b>Objective :</b>To make note books by using unused pages from Unit test answers sheets<br>
-                   <b>Day & Date:</b>11th Jan 2020<br>
-                   <b>Name of the beneficiary society:</b> Needy students<br><br>
-                  
-                   <div class="row my-3">
-                    <div class="col-5">
-					<div class="card" style="width:90%"> 
-					<img class="card-img-top" src="hsc_images/isr3.jpg" alt="Card image cap"  class="shadow p-3 mb-5 bg-white rounded" height="250px">
-					</div>
-					</div>
-                    </div>
-                
-                  
-                  
+            <div class="col-5">
+              <div class="card" style="width: 350px; height: 350px;">
+            <img src="hsc_images/Training5.jpg"" class="img-thumbnail mb-3">
+            <p><center>Group discussion</center></p>
+          </div>
+          </div>-->
+		  </div>
         </div>
         </div> 
       </div> 
@@ -482,7 +515,7 @@ and open the template in the editor.
       <div>
         <div>
           <p>
-            <a targrt="_blank"  href="index.html" class="text-decoration-none text-white">
+            <a targrt="_blank"  href="index.php" class="text-decoration-none text-white">
               <h6>
                 <i class="fas fa-external-link-alt"></i> Homepage
               </h6>
@@ -533,5 +566,6 @@ and open the template in the editor.
 </footer>
 <!-- End footer -->
 <script src="js/bootstrap.bundle.js"></script>
+	
     </body>
 </html>
