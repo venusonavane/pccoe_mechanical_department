@@ -19,13 +19,6 @@
     <link href="../vender/css/navbar.css" rel="stylesheet" />
     <link href="../vender/css/style1.css" rel="stylesheet" />
 
-    <style>
-      html {
-        scroll-behavior: smooth;
-      }
-    </style>
-  
-
   </head>
   <body>
     <!-- Start Header -->
@@ -175,7 +168,7 @@
                 <input type="checkbox" id="smsdw">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="../Student_development&Welfare/public_html/higher_studies.html">Higher study cell</a></li>
+                    <li><a href="../Student_development&Welfare/public_html/higher_studies.php">Higher study cell</a></li>
                     <li><a href="../Student_development&Welfare/public_html/Communication_Personality_Development.php">Communication and Personality Development Cell</a></li>
                     <li><a href="../Student_development&Welfare/public_html/professional_development.php">Professional Development Cell</a></li>
                     <li><a href="../Student_development&Welfare/public_html/ISR.php">Institutional Social Responsibility</a></li>
@@ -210,40 +203,45 @@
 
     <section class="mt-5 p-3">
       <div class="container-lg">
-        <div class="row mb-sm-4 my-2">
-          <div class="col-lg-9 col-md-8 col-sm-12 display-4">Team Solarium</div>
+        <div class="border-5 border-start border-primary shadow rounded
+                      mb-4 ps-3 py-2 align-self-center text-dark">
+          <div class="row">
+          <div class="col-lg-9 col-md-8 col-sm-12">
+            <h2>Team Solarium</h2>
+          </div>
           <div class="col-lg-3 col-md-4 col-sm-4 d-flex justify-content-around align-self-center">
-              <a href="https://www.teamsolariumindia.com/" class="text-decoration-none text-dark">
+              <a href="https://www.teamsolariumindia.com/" target="_blank" class="text-decoration-none text-dark">
                 <span style="font-size: 1.6rem;">
                   <!--<i class="fas fa-globe"></i>-->
                   <img src="img/logo/simple/icons8-chrome-48.png" style="max-width: 40px;" alt="icon">
                 </span> 
               </a>
-              <a href="https://www.instagram.com/teamsolarium_india/?hl=en" class="text-decoration-none text-dark">
+              <a href="https://www.instagram.com/teamsolarium_india/?hl=en" target="_blank" class="text-decoration-none text-dark">
                 <span style="font-size: 1.6rem;">
                   <!--<i class="fab fa-instagram-square"></i>-->
                   <img src="img/logo/simple/icons8-instagram-48.png" style="max-width: 40px;" alt="icon">
                 </span> 
               </a>
-              <a href="https://www.linkedin.com/company/team-solarium/" class="text-decoration-none text-dark">
+              <a href="https://www.linkedin.com/company/team-solarium/" target="_blank" class="text-decoration-none text-dark">
                 <span style="font-size: 1.6rem;">
                   <!--<i class="fab fa-linkedin"></i>-->
                   <img src="img/logo/simple/icons8-linkedin-48.png" style="max-width: 40px;" alt="icon">
                 </span> 
               </a>
-              <a href="https://www.facebook.com/teamsolariumindia/" class="text-decoration-none text-dark">
+              <a href="https://www.facebook.com/teamsolariumindia/" target="_blank" class="text-decoration-none text-dark">
                 <span style="font-size: 1.6rem;">
                   <!--<i class="fab fa-facebook"></i>-->
                   <img src="img/logo/simple/icons8-facebook-48.png" style="max-width: 40px;" alt="icon">
                 </span> 
               </a>
-              <a href="https://twitter.com/solarium_team" class="text-decoration-none text-dark">
+              <a href="https://twitter.com/solarium_team" target="_blank" class="text-decoration-none text-dark">
                 <span style="font-size: 1.6rem;">
                   <!--<i class="fab fa-twitter"></i>-->
                   <img src="img/logo/simple/icons8-twitter-squared-48.png" style="max-width: 40px;" alt="icon">
                 </span> 
               </a>
           </div>
+        </div>
         </div>
         <div class="bg-light shadow rounded p-3">
           <div class="row justify-content-center my-3">

@@ -6,8 +6,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Team Kratos Racing | Clubs | Department Of Mechanical Engineering at PCCOE</title>
-
     <!-- Bootstrap CSS -->
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" />
@@ -29,13 +27,9 @@
     <link href="css/style_kratos.css" rel="stylesheet" />
     <link href="../vender/css/navbar.css" rel="stylesheet" />
     <link href="../vender/css/style1.css" rel="stylesheet" />
-
-    <style>
-        html {
-          scroll-behavior: smooth;
-        }
-    </style>
     
+    
+    <title>Team Kratos Racing | Clubs | Department Of Mechanical Engineering at PCCOE</title>
 </head>
 <body>
     <!-- Start Header -->
@@ -82,140 +76,140 @@
       <!-- End Header -->
     
       <!-- Start Navbar -->
-  <div class="menu-section d-flex justify-content-around">
-    <nav id="menu">
-        <label for="tm" id="toggle-menu"><b>Menu</b> <span class="drop-icon"><b>&#9776;</b></span></label>
-        <input type="checkbox" id="tm">
-        <ul class="main-menu cf">
-            <li class="b-left"><a href="../index.php">Home</a></li>
-            <li class="b-left"><a href="#">About us
-                    <span class="drop-icon">▾</span>
-                    <label title="Toggle Drop-down" class="drop-icon" for="sm0">▾</label>
+    <div class="menu-section d-flex justify-content-around">
+      <nav id="menu">
+          <label for="tm" id="toggle-menu"><b>Menu</b> <span class="drop-icon"><b>&#9776;</b></span></label>
+          <input type="checkbox" id="tm">
+          <ul class="main-menu cf">
+              <li class="b-left"><a href="../index.php">Home</a></li>
+              <li class="b-left"><a href="#">About us
+                      <span class="drop-icon">▾</span>
+                      <label title="Toggle Drop-down" class="drop-icon" for="sm0">▾</label>
+                  </a>
+                  <input type="checkbox" id="sm0">
+                  <ul class="sub-menu">
+                      <li><a href="../aboutus/hod_desk.php">HOD Desk</a></li>
+                      <li><a href="../aboutus/vision-mission.php">Vision and Mission</a></li>
+                      <li><a href="../aboutus/program_outcome.php">PO's/PSO/PEO's</a></li>
+                      <li><a href="../aboutus/BOS.php">Board Of Studies</a></li>
+                      <li><a href="../aboutus/student_alumni.php">Student and Alumni's</a></li>
+                  </ul>
+              </li>
+              <li class="b-left"><a href="#">People
+                <span class="drop-icon">▾</span>
+                <label title="Toggle Drop-down" class="drop-icon" for="sm88">▾</label>
                 </a>
-                <input type="checkbox" id="sm0">
+                <input type="checkbox" id="sm88">
                 <ul class="sub-menu">
-                    <li><a href="../aboutus/hod_desk.php">HOD Desk</a></li>
-                    <li><a href="../aboutus/vision-mission.php">Vision and Mission</a></li>
-                    <li><a href="../aboutus/program_outcome.php">PO's/PSO/PEO's</a></li>
-                    <li><a href="../aboutus/BOS.php">Board Of Studies</a></li>
-                    <li><a href="../aboutus/student_alumni.php">Student and Alumni's</a></li>
+                    <li><a href="../people/faculty.php">Faculty</a></li>
+                    <li><a href="../people/staff.php">Staff</a></li>
                 </ul>
             </li>
-            <li class="b-left"><a href="#">People
-              <span class="drop-icon">▾</span>
-              <label title="Toggle Drop-down" class="drop-icon" for="sm88">▾</label>
-              </a>
-              <input type="checkbox" id="sm88">
-              <ul class="sub-menu">
-                  <li><a href="../people/faculty.php">Faculty</a></li>
-                  <li><a href="../people/staff.php">Staff</a></li>
-              </ul>
-          </li>
-            <li class="b-left"><a href="#">Academics
-                    <span class="drop-icon">▾</span>
-                    <label title="Toggle Drop-down" class="drop-icon" for="sm8">▾</label>
+              <li class="b-left"><a href="#">Academics
+                      <span class="drop-icon">▾</span>
+                      <label title="Toggle Drop-down" class="drop-icon" for="sm8">▾</label>
+                  </a>
+                  <input type="checkbox" id="sm8">
+                  </a>
+                  <ul class="sub-menu">
+                      <li><a href="../ug/co_cordinator_desk.php">UG</a></li>
+                      <li>
+                        <a href="">PG
+                          <span class="drop-icon">▸</span>
+                          <label title="Toggle Drop-down" class="drop-icon" for="sm5">▾</label>
+                        </a>
+                        <input type="checkbox" id="sm5">
+                        </a>
+                        <ul class="sub-menu">
+                            <li><a href="../pg/me-design.php">M.Tech Design Engineering</a></li>
+                            <li><a href="../pg/me-heatpower.php">M.Tech Heat Power Engineering</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="../phd/phd_home.php">Ph. D</a></li>
+                  </ul>
+              </li>
+              <li class="b-left"><a href="#">Research
+                      <span class="drop-icon">▾</span>
+                      <label title="Toggle Drop-down" class="drop-icon" for="smr">▾</label>
+                  </a>
+                  <input type="checkbox" id="smr">
+                  </a>
+                  <ul class="sub-menu">
+                      <li><a href="../research/research_team.php">Research Team</a> </li>
+                      <li><a href="../research/sig.php">Special Interest Groups (SIG)</a></li>
+                      <li><a href="../research/publication.php">Publication</a></li>
+                      <li><a href="../research/copyright.php">Intellectual Property Rights</a></li>
+                      <li><a href="../research/research funding.php">Research Funding </a></li>
+                      <li><a href="../research/cs_projects.php">Consultancy/Sponsored Projects</a></li>
+                      <li><a href="../research/student_achivements.php">Student Achievements</a></li>
+                      <li><a href="../research/entrepreneurship.php">Entrepreneurship</a></li>
+                  </ul>
+              </li>
+  
+              <li class="b-left"><a href="#">Training & Placement
+                <span class="drop-icon">▾</span>
+                <label title="Toggle Drop-down" class="drop-icon" for="sm50">▾</label>
                 </a>
-                <input type="checkbox" id="sm8">
-                </a>
-                <ul class="sub-menu">
-                    <li><a href="../ug/co_cordinator_desk.php">UG</a></li>
-                    <li>
-                      <a href="">PG
-                        <span class="drop-icon">▸</span>
-                        <label title="Toggle Drop-down" class="drop-icon" for="sm5">▾</label>
-                      </a>
-                      <input type="checkbox" id="sm5">
-                      </a>
-                      <ul class="sub-menu">
-                          <li><a href="../pg/me-design.php">M.Tech Design Engineering</a></li>
-                          <li><a href="../pg/me-heatpower.php">M.Tech Heat Power Engineering</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="../phd/phd_home.php">Ph. D</a></li>
-                </ul>
-            </li>
-            <li class="b-left"><a href="#">Research
-                    <span class="drop-icon">▾</span>
-                    <label title="Toggle Drop-down" class="drop-icon" for="smr">▾</label>
-                </a>
-                <input type="checkbox" id="smr">
-                </a>
-                <ul class="sub-menu">
-                    <li><a href="../research/research_team.php">Research Team</a> </li>
-                    <li><a href="../research/sig.php">Special Interest Groups (SIG)</a></li>
-                    <li><a href="../research/publication.php">Publication</a></li>
-                    <li><a href="../research/copyright.php">Intellectual Property Rights</a></li>
-                    <li><a href="../research/research funding.php">Research Funding </a></li>
-                    <li><a href="../research/cs_projects.php">Consultancy/Sponsored Projects</a></li>
-                    <li><a href="../research/student_achivements.php">Student Achievements</a></li>
-                    <li><a href="../research/entrepreneurship.php">Entrepreneurship</a></li>
-                </ul>
-            </li>
-
-            <li class="b-left"><a href="#">Training & Placement
-              <span class="drop-icon">▾</span>
-              <label title="Toggle Drop-down" class="drop-icon" for="sm50">▾</label>
-              </a>
-              <input type="checkbox" id="sm50">
-              </a>
-              <ul class="sub-menu">
-                  <li><a href="../placement/recruiter.php">Major Recruiters</a></li>
-                  <li><a href="../placement/placement.php">Placement</a></li>
-                  <li><a href="../placement/internship.php">Internship</a></li>
-                  <li><a href="../placement/training.php">Industrial Visit & Training Program</a></li>
-                  <li><a href="../placement/mou.php">MOU's</a></li>
-              </ul>
-            </li>
-            <li class="b-left"><a href="#">Facilities
-                    <span class="drop-icon">▾</span>
-                    <label title="Toggle Drop-down" class="drop-icon" for="smsfc">▾</label>
-                </a>
-                <input type="checkbox" id="smsfc">
+                <input type="checkbox" id="sm50">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="../facilities/public_html/laboratories.php">Laboratories</a></li>
-                    <li><a href="../facilities/public_html/library.php">Library</a></li>
-                    <li><a href="../facilities/public_html/seminar_hall.php">Seminar Hall</a></li>
+                    <li><a href="../placement/recruiter.php">Major Recruiters</a></li>
+                    <li><a href="../placement/placement.php">Placement</a></li>
+                    <li><a href="../placement/internship.php">Internship</a></li>
+                    <li><a href="../placement/training.php">Industrial Visit & Training Program</a></li>
+                    <li><a href="../placement/mou.php">MOU's</a></li>
                 </ul>
-            </li>
-            <li class="b-left"><a href="#">Student Development & Welfare
-                    <span class="drop-icon">▾</span>
-                    <label title="Toggle Drop-down" class="drop-icon" for="smsdw">▾</label>
-                </a>
-                <input type="checkbox" id="smsdw">
-                </a>
-                <ul class="sub-menu">
-                    <li><a href="../Student_development&Welfare/public_html/higher_studies.html">Higher study cell</a></li>
-                    <li><a href="../Student_development&Welfare/public_html/Communication_Personality_Development.php">Communication and Personality Development Cell</a></li>
-                    <li><a href="../Student_development&Welfare/public_html/professional_development.php">Professional Development Cell</a></li>
-                    <li><a href="../Student_development&Welfare/public_html/ISR.php">Institutional Social Responsibility</a></li>
-                    <li><a href="../Student_development&Welfare/public_html/nation_services_scheme.php">National Service Scheme</a></li>
-                </ul>
-            </li>
-            <li class="b-left"><a href="#">Clubs
-                    <span class="drop-icon">▾</span>
-                    <label title="Toggle Drop-down" class="drop-icon" for="sm9">▾</label>
-                </a>
-                <input type="checkbox" id="sm9">
-                </a>
-                <ul class="sub-menu">
-                    <li><a href="mesa.php">MESA</a></li>
-                    <li><a href="ambush.php">Team Ambush</a></li>
-                    <li><a href="redbaron.php">Team Red Baron</a></li>
-                    <li><a href="kratos.php">Team Kratos Racing</a></li>
-                    <li><a href="solarium.php">Team Solarium</a></li>
-                    <li><a href="automaton.php">Team Automatons</a></li>
-                    <li><a href="maverick.php">Team Maverick</a></li>
-                    <li><a href="ishrae.php">ISHRAE</a></li>
-                    <li><a href="iei.php">IEI</a></li>
-                    <li><a href="sport.php">Sports</a></li>
-                </ul>
-            </li>
-            <li class="b-left b-right"><a href="../contact_us/contact.php">Contact us</a></li>
-        </ul>
-    </nav>
-  </div>
-  <!-- End Navbar -->
+              </li>
+              <li class="b-left"><a href="#">Facilities
+                      <span class="drop-icon">▾</span>
+                      <label title="Toggle Drop-down" class="drop-icon" for="smsfc">▾</label>
+                  </a>
+                  <input type="checkbox" id="smsfc">
+                  </a>
+                  <ul class="sub-menu">
+                      <li><a href="../facilities/public_html/laboratories.php">Laboratories</a></li>
+                      <li><a href="../facilities/public_html/library.php">Library</a></li>
+                      <li><a href="../facilities/public_html/seminar_hall.php">Seminar Hall</a></li>
+                  </ul>
+              </li>
+              <li class="b-left"><a href="#">Student Development & Welfare
+                      <span class="drop-icon">▾</span>
+                      <label title="Toggle Drop-down" class="drop-icon" for="smsdw">▾</label>
+                  </a>
+                  <input type="checkbox" id="smsdw">
+                  </a>
+                  <ul class="sub-menu">
+                      <li><a href="../Student_development&Welfare/public_html/higher_studies.php">Higher study cell</a></li>
+                      <li><a href="../Student_development&Welfare/public_html/Communication_Personality_Development.php">Communication and Personality Development Cell</a></li>
+                      <li><a href="../Student_development&Welfare/public_html/professional_development.php">Professional Development Cell</a></li>
+                      <li><a href="../Student_development&Welfare/public_html/ISR.php">Institutional Social Responsibility</a></li>
+                      <li><a href="../Student_development&Welfare/public_html/nation_services_scheme.php">National Service Scheme</a></li>
+                  </ul>
+              </li>
+              <li class="b-left"><a href="#">Clubs
+                      <span class="drop-icon">▾</span>
+                      <label title="Toggle Drop-down" class="drop-icon" for="sm9">▾</label>
+                  </a>
+                  <input type="checkbox" id="sm9">
+                  </a>
+                  <ul class="sub-menu">
+                      <li><a href="mesa.php">MESA</a></li>
+                      <li><a href="ambush.php">Team Ambush</a></li>
+                      <li><a href="redbaron.php">Team Red Baron</a></li>
+                      <li><a href="kratos.php">Team Kratos Racing</a></li>
+                      <li><a href="solarium.php">Team Solarium</a></li>
+                      <li><a href="automaton.php">Team Automatons</a></li>
+                      <li><a href="maverick.php">Team Maverick</a></li>
+                      <li><a href="ishrae.php">ISHRAE</a></li>
+                      <li><a href="iei.php">IEI</a></li>
+                      <li><a href="sport.php">Sports</a></li>
+                  </ul>
+              </li>
+              <li class="b-left b-right"><a href="../contact_us/contact.php">Contact us</a></li>
+          </ul>
+      </nav>
+    </div>
+    <!-- End Navbar -->
 
     <section class="bg-img">
 

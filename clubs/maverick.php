@@ -18,12 +18,6 @@
     <link href="../vender/css/navbar.css" rel="stylesheet" />
     <link href="../vender/css/style1.css" rel="stylesheet" />
 
-    <style>
-      html {
-        scroll-behavior: smooth;
-      }
-    </style>
-
   </head>
   <body>
     <!-- Start Header -->
@@ -173,7 +167,7 @@
                 <input type="checkbox" id="smsdw">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="../Student_development&Welfare/public_html/higher_studies.html">Higher study cell</a></li>
+                    <li><a href="../Student_development&Welfare/public_html/higher_studies.php">Higher study cell</a></li>
                     <li><a href="../Student_development&Welfare/public_html/Communication_Personality_Development.php">Communication and Personality Development Cell</a></li>
                     <li><a href="../Student_development&Welfare/public_html/professional_development.php">Professional Development Cell</a></li>
                     <li><a href="../Student_development&Welfare/public_html/ISR.php">Institutional Social Responsibility</a></li>
@@ -208,23 +202,27 @@
     <section class="mt-5 p-3">
       
       <div class="container-lg">
-        <div class="row mb-sm-4 my-2">
-          <div class="col-lg-9 col-md-8 col-sm-12 display-5">Team Maverick</div>
+        <div class="border-5 border-start border-primary shadow rounded
+                      mb-4 ps-3 py-2 align-self-center text-dark">
+          <div class="row">
+          <div class="col-lg-9 col-md-8 col-sm-12">
+            <h2>Team Maverick</h2>
+          </div>
           <div class="col-lg-3 col-md-4 col-sm-4 d-flex justify-content-around align-self-center">
               
-              <a href="https://www.instagram.com/team_maverick_pccoe/" class="text-decoration-none text-dark">
+              <a href="https://www.instagram.com/team_maverick_pccoe/" target="_blank" class="text-decoration-none text-dark">
                 <span style="font-size: 1.6rem;">
                   <!--<i class="fab fa-instagram-square"></i>-->
                   <img src="img/logo/simple/icons8-instagram-48.png" style="max-width: 40px;" alt="icon">
                 </span> 
               </a>
-              <a href="https://www.linkedin.com/in/team-automatons/" class="text-decoration-none text-dark">
+              <a href="https://www.linkedin.com/in/team-automatons/" target="_blank" class="text-decoration-none text-dark">
                 <span style="font-size: 1.6rem;">
                   <!--<i class="fab fa-linkedin"></i>-->
                   <img src="img/logo/simple/icons8-linkedin-48.png" style="max-width: 40px;" alt="icon">
                 </span> 
               </a>
-              <a href="https://www.facebook.com/teamautomatons/" class="text-decoration-none text-dark">
+              <a href="https://www.facebook.com/teamautomatons/" target="_blank" class="text-decoration-none text-dark">
                 <span style="font-size: 1.6rem;">
                   <!--<i class="fab fa-facebook"></i>-->
                   <img src="img/logo/simple/icons8-facebook-48.png" style="max-width: 40px;" alt="icon">
@@ -232,27 +230,36 @@
               </a>
           </div>
         </div>
+          </div>
         
         <div class="bg-light shadow rounded p-3">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">About us</p>
           </div>
-        <div class="row justify-content-center my-3">
+        <div class="row justify-content-center align-self-center my-3">
           <div class="col-lg-9 text-start">
-    
-            <p class="my-4 text-dark">
-              Team Maverick is a multifaceted motorsport team at Pimpri Chinchwad college of Engineering
-              Pune. We design, innovate, manufacture and test fixed Wing Radio controlled planes.
-              The main aim of the team is to Participate in <span class="fw-bold">SAE ADC (Aero Design Challenge)</span> organised by SAE
-              India and SAE International. We also develop the application based on aeroplanes
-              manufactured for competitions.</p>
+            <div class="row justify-content-center">
+              <div class="col-lg-3 col-md-6 justify-content-center">
+                <div class="card shadow p-2">
+                  <img src="img/teammaverick/mv_img0.png" class="card-img" alt="Image of faculty advisor of Team ambush">
+                </div>
+              </div>
+              <div class="col-lg-9 col-md-12 text-start">
+                <p class="my-4 text-dark">
+                  Team Maverick is a multifaceted motorsport team at Pimpri Chinchwad college of Engineering
+                  Pune. We design, innovate, manufacture and test fixed Wing Radio controlled planes.
+                  The main aim of the team is to Participate in <span class="fw-bold">SAE ADC (Aero Design Challenge)</span> organised by SAE
+                  India and SAE International. We also develop the application based on aeroplanes
+                  manufactured for competitions.</p>
+              </div>
+            </div>
             <p class="my-4 text-dark">
               The team was founded in 2021 and is about to manufacture its first aircraft. Putting all the
               brainstorming, design and sleepless nights together, the team aims to be part of the expanding
               field and we are committed to build better aircraft in the future and contribute to society.
               The team aspires to develop an application that will help society over a period of time.</p>
           </div>
-          <div class="col-lg-3 justify-content-center d-flex">
+          <div class="col-lg-3 justify-content-center">
             <div class="card" style="width: 80%;">
               <img src="img\teammaverick\mv_img1_1.jpg" class="card-img" alt="Image of faculty advisor of Team Maverick">
               <div class="card-body">

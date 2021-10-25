@@ -19,12 +19,6 @@
     <link href="../vender/css/navbar.css" rel="stylesheet" />
     <link href="../vender/css/style1.css" rel="stylesheet" />
 
-    <style>
-      html {
-        scroll-behavior: smooth;
-      }
-    </style>
-
   </head>
   <body>
     <!-- Start Header -->
@@ -174,7 +168,7 @@
                 <input type="checkbox" id="smsdw">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="../Student_development&Welfare/public_html/higher_studies.html">Higher study cell</a></li>
+                    <li><a href="../Student_development&Welfare/public_html/higher_studies.php">Higher study cell</a></li>
                     <li><a href="../Student_development&Welfare/public_html/Communication_Personality_Development.php">Communication and Personality Development Cell</a></li>
                     <li><a href="../Student_development&Welfare/public_html/professional_development.php">Professional Development Cell</a></li>
                     <li><a href="../Student_development&Welfare/public_html/ISR.php">Institutional Social Responsibility</a></li>
@@ -209,7 +203,12 @@
     <section class="mt-5 p-3">
       
         <div class="container-lg">
-          <div class="display-6 mb-4">Institution of Engineers India (IEI)</div>
+          <div class="border-5 border-start border-primary shadow rounded
+                      mb-4 ps-3 py-2 align-self-center text-dark">
+              <h2>
+                Institution of Engineers India (IEI)
+              </h2>
+          </div>
           <div class="bg-light shadow rounded p-3">
             <div class="border-bottom border-1 border-primary mb-3">
               <p class="fs-3 text-primary">About us</p>
