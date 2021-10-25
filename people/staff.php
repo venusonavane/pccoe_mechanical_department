@@ -122,8 +122,12 @@
     </ul>
 </div>
 <section class="p-md-3 p-md-3">
-    <div class=container-lg>
-        <div class="mb-3 display-5">Admin Staff</div>
+    <div class="container-lg shadow-sm">
+            <div class="border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark">
+                <h2>
+                    Admin Staff
+                </h2>
+            </div>
         <div class="bg-light p-3" id=lab-assistant>
             <div class="mb-3 border-bottom border-1 border-primary">
                 <p class="fs-3 text-primary">Assistant</div>
