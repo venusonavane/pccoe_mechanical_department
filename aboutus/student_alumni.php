@@ -6,26 +6,26 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- Icon -->
-    <link href="../vender/img/logo/PCCOE_LOGO_b.jpg" rel="shortcut icon" type="image/x-icon">
+    <link href="../vender/img/logo/PCCOE_LOGO_b.jpg"  rel="shortcut icon" type="image/x-icon">
     <!-- Bootstrap CSS -->
     <link href="../vender/css/bootstrap.css" rel="stylesheet" />
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"> -->
     <link href="../vender/css/navbar.css" rel="stylesheet" />
     <link href="../vender/css/style1.css" rel="stylesheet" />
 
-    <!-- Icon Link -->
-    <link href="../vender/icon/css/brands.css" rel="stylesheet" />
-    <link href="../vender/icon/css/fontawesome.css" rel="stylesheet" />
-    <link href="../vender/icon/css/solid.css" rel="stylesheet" />
+     <!-- Icon Link -->
+     <link href="../vender/icon/css/brands.css" rel="stylesheet" />
+     <link href="../vender/icon/css/fontawesome.css" rel="stylesheet" />
+     <link href="../vender/icon/css/solid.css" rel="stylesheet" />
+ 
 
-
-    <title>HOD Desk | About us | Department of Mechanical Engineering at PCCOE</title>
+    <title>Student and Alumini's | About us | Department of Mechanical Engineering at PCCOE</title>
     <style></style>
 </head>
 
 <body>
-   <!-- Start Header -->
-   <header>
+  <!-- Start Header -->
+  <header>
     <div class="container-fluid header">
         <div class="row">
             <div class="col-lg-1"></div>
@@ -73,18 +73,18 @@
           <label for="tm" id="toggle-menu"><b>Menu</b> <span class="drop-icon"><b>&#9776;</b></span></label>
           <input type="checkbox" id="tm">
           <ul class="main-menu cf">
-              <li class="b-left"><a href="../index.html">Home</a></li>
+              <li class="b-left"><a href="../index.php">Home</a></li>
               <li class="b-left"><a href="#">About us
                       <span class="drop-icon">▾</span>
                       <label title="Toggle Drop-down" class="drop-icon" for="sm0">▾</label>
                   </a>
                   <input type="checkbox" id="sm0">
                   <ul class="sub-menu">
-                      <li><a href="../aboutus/hod_desk.html">HOD Desk</a></li>
-                      <li><a href="../aboutus/vision-mission.html">Vision and Mission</a></li>
-                      <li><a href="../aboutus/program_outcome.html">PO's/PSO/PEO's</a></li>
-                      <li><a href="../aboutus/BOS.html">Board Of Studies</a></li>
-                      <li><a href="../aboutus/student_alumni.html">Student and Alumni's</a></li>
+                      <li><a href="../aboutus/hod_desk.php">HOD Desk</a></li>
+                      <li><a href="../aboutus/vision-mission.php">Vision and Mission</a></li>
+                      <li><a href="../aboutus/program_outcome.php">PO's/PSO/PEO's</a></li>
+                      <li><a href="../aboutus/BOS.php">Board Of Studies</a></li>
+                      <li><a href="../aboutus/student_alumni.php">Student and Alumni's</a></li>
                   </ul>
               </li>
               <li class="b-left"><a href="#">People
@@ -93,8 +93,8 @@
                 </a>
                 <input type="checkbox" id="sm88">
                 <ul class="sub-menu">
-                    <li><a href="../people/faculty.html">Faculty</a></li>
-                    <li><a href="../people/staff.html">Staff</a></li>
+                    <li><a href="../people/faculty.php">Faculty</a></li>
+                    <li><a href="../people/staff.php">Staff</a></li>
                 </ul>
             </li>
               <li class="b-left"><a href="#">Academics
@@ -104,7 +104,7 @@
                   <input type="checkbox" id="sm8">
                   </a>
                   <ul class="sub-menu">
-                    <li><a href="../ug/co_cordinator_desk.html">UG</a></li>
+                    <li><a href="../ug/co_cordinator_desk.php">UG</a></li>
                       <li>
                         <a href="">PG
                           <span class="drop-icon">▸</span>
@@ -113,11 +113,11 @@
                         <input type="checkbox" id="sm5">
                         </a>
                         <ul class="sub-menu">
-                            <li><a href="../pg/me-design.html">M.Tech Design Engineering</a></li>
-                            <li><a href="../pg/me-heatpower.html">M.Tech Heat Power Engineering</a></li>
+                            <li><a href="../pg/me-design.php">M.Tech Design Engineering</a></li>
+                            <li><a href="../pg/me-heatpower.php">M.Tech Heat Power Engineering</a></li>
                         </ul>
                       </li>
-                      <li><a href="../phd/phd_home.html">Ph. D</a></li>
+                      <li><a href="../phd/phd_home.php">Ph. D</a></li>
                   </ul>
               </li>
               <li class="b-left"><a href="#">Research
@@ -127,14 +127,14 @@
                   <input type="checkbox" id="smr">
                   </a>
                   <ul class="sub-menu">
-                    <li><a href="../research/research_team.html">Research Team</a> </li>
-                    <li><a href="../research/sig.html">Special Interest Groups (SIG)</a></li>
-                      <li><a href="../research/publication.html">Publication</a></li>
-                      <li><a href="../research/copyright.html">Intellectual Property Rights</a></li>
-                      <li><a href="../research/research funding.html">Research Funding </a></li>
-                      <li><a href="../research/cs_projects.html">Consultancy/Sponsored Projects</a></li>
-                      <li><a href="../research/student_achivements.html">Student Achievements</a></li>
-                      <li><a href="../research/entrepreneurship.html">Entrepreneurship</a></li>
+                    <li><a href="../research/research_team.php">Research Team</a> </li>
+                    <li><a href="../research/sig.php">Special Interest Groups (SIG)</a></li>
+                      <li><a href="../research/publication.php">Publication</a></li>
+                      <li><a href="../research/copyright.php">Intellectual Property Rights</a></li>
+                      <li><a href="../research/research funding.php">Research Funding </a></li>
+                      <li><a href="../research/cs_projects.php">Consultancy/Sponsored Projects</a></li>
+                      <li><a href="../research/student_achivements.php">Student Achievements</a></li>
+                      <li><a href="../research/entrepreneurship.php">Entrepreneurship</a></li>
                   </ul>
               </li>
   
@@ -145,11 +145,11 @@
                 <input type="checkbox" id="sm50">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="../placement/recruiter.html">Major Recruiters</a></li>
-                    <li><a href="../placement/placement.html">Placement</a></li>
-                    <li><a href="../placement/internship.html">Internship</a></li>
-                    <li><a href="../placement/training.html">Industrial Visit & Training Program</a></li>
-                    <li><a href="../placement/mou.html">MOU's</a></li>
+                    <li><a href="../placement/recruiter.php">Major Recruiters</a></li>
+                    <li><a href="../placement/placement.php">Placement</a></li>
+                    <li><a href="../placement/internship.php">Internship</a></li>
+                    <li><a href="../placement/training.php">Industrial Visit & Training Program</a></li>
+                    <li><a href="../placement/mou.php">MOU's</a></li>
                 </ul>
               </li>
               <li class="b-left"><a href="#">Facilities
@@ -159,9 +159,9 @@
                   <input type="checkbox" id="smsfc">
                   </a>
                   <ul class="sub-menu">
-                      <li><a href="../facilities/public_html/laboratories.html">Laboratories</a></li>
-                      <li><a href="../facilities/public_html/library.html">Library</a></li>
-                      <li><a href="../facilities/public_html/seminar_hall.html">Seminar Hall</a></li>
+                      <li><a href="../facilities/public_html/laboratories.php">Laboratories</a></li>
+                      <li><a href="../facilities/public_html/library.php">Library</a></li>
+                      <li><a href="../facilities/public_html/seminar_hall.php">Seminar Hall</a></li>
                   </ul>
               </li>
               <li class="b-left"><a href="#">Student Development & Welfare
@@ -171,11 +171,11 @@
                   <input type="checkbox" id="smsdw">
                   </a>
                   <ul class="sub-menu">
-                      <li><a href="../Student_development&Welfare/public_html/higher_studies.html">Higher study cell</a></li>
-                      <li><a href="../Student_development&Welfare/public_html/Communication_Personality_Development.html">Communication and Personality Development Cell</a></li>
-                      <li><a href="../Student_development&Welfare/public_html/professional_development.html">Professional Development Cell</a></li>
-                      <li><a href="../Student_development&Welfare/public_html/ISR.html">Institutional Social Responsibility</a></li>
-                      <li><a href="../Student_development&Welfare/public_html/nation_services_scheme.html">National Service Scheme</a></li>
+                      <li><a href="../Student_development&Welfare/public_html/higher_studies.php">Higher study cell</a></li>
+                      <li><a href="../Student_development&Welfare/public_html/Communication_Personality_Development.php">Communication and Personality Development Cell</a></li>
+                      <li><a href="../Student_development&Welfare/public_html/professional_development.php">Professional Development Cell</a></li>
+                      <li><a href="../Student_development&Welfare/public_html/ISR.php">Institutional Social Responsibility</a></li>
+                      <li><a href="../Student_development&Welfare/public_html/nation_services_scheme.php">National Service Scheme</a></li>
                   </ul>
               </li>
               <li class="b-left"><a href="#">Clubs
@@ -185,90 +185,95 @@
                   <input type="checkbox" id="sm9">
                   </a>
                   <ul class="sub-menu">
-                      <li><a href="../clubs/mesa.html">MESA</a></li>
-                      <li><a href="../clubs/ambush.html">Team Ambush</a></li>
-                      <li><a href="../clubs/redbaron.html">Team Red Baron</a></li>
-                      <li><a href="../clubs/kratos.html">Team Kratos Racing</a></li>
-                      <li><a href="../clubs/solarium.html">Team Solarium</a></li>
-                      <li><a href="../clubs/automaton.html">Team Automatons</a></li>
-                      <li><a href="../clubs/automaton.html">Team Maverick</a></li>
-                      <li><a href="../clubs/ishrae.html">ISHRAE</a></li>
-                      <li><a href="../clubs/iei.html">IEI</a></li>
-                      <li><a href="../clubs/sport.html">Sports</a></li>
+                      <li><a href="../clubs/mesa.php">MESA</a></li>
+                      <li><a href="../clubs/ambush.php">Team Ambush</a></li>
+                      <li><a href="../clubs/redbaron.php">Team Red Baron</a></li>
+                      <li><a href="../clubs/kratos.php">Team Kratos Racing</a></li>
+                      <li><a href="../clubs/solarium.php">Team Solarium</a></li>
+                      <li><a href="../clubs/automaton.php">Team Automatons</a></li>
+                      <li><a href="../clubs/automaton.php">Team Maverick</a></li>
+                      <li><a href="../clubs/ishrae.php">ISHRAE</a></li>
+                      <li><a href="../clubs/iei.php">IEI</a></li>
+                      <li><a href="../clubs/sport.php">Sports</a></li>
                   </ul>
               </li>
-              <li class="b-left b-right"><a href="../contact_us/contact.html">Contact us</a></li>
+              <li class="b-left b-right"><a href="../contact_us/contact.php">Contact us</a></li>
           </ul>
       </nav>
   </div>
   <!-- End Navbar -->
-
     <br><br>
     <!-- Content page-->
-    <div class="container mt-4 rounded p-2 hod-desk bg-light">
-        <div class="container-fluid title">HOD Desk</div>
-        <div class="row mt-5">
-            <div class="col-xl-4">
-                <div class="text-center">
-                    <img src="../vender/img/staff/hod-img.jpg" class="rounded pb-2" />
-                    <p class="">
-                        <b> Dr. P. A. Deshmukh </b><br>
-                        <small>(HOD, Department of Mechanical Engineering)</small><br>
-                    </p>
+    <div class="container p-2 mt-4 student-alumni">
+        <div class="container-fluid title"><span>Student and Alumni's</span></div>
+        <div class="container-fluid content-panel">
+            <div class="row justify-content-center">
+                <h5>Data not available</h5>
+                <!-- <div class="col-lg-3 col-sm-6">
+                    <div class="item    text-center">
+                        <div class="text-center"><img src="../vender/img/home/hod-img.jpg"></div>
+                        <h6 class="h6 text-center">Umesh Chaudhari</h6>
+                        <p class="description">Sound Cloud ,New York USA Package:$1,20,000</p>
+                        <p class="batch">~ Batch 2011</p>
+                    </div>
                 </div>
-                <div class="container label-area">
-                    <table class="table table-borderless">
-                        <tr>
-                            <td><span>Qualification: </span></td>
-                            <td> <small>ME(Heat Power), Ph.D(Machanical)</small></td>
-                        </tr>
-                        <tr>
-                            <td><span>Experience :</span></td>
-                            <td><small>24+ Years</small></td>
-                        </tr>
-                        <tr>
-                            <td><span>Research Domain :</span></td>
-                            <td><small>Heat Transfer Augmentation, Heat Spreaders, Fluid Flow and Heat Transfer
-                                    Modelling, Computational Fluid Dynamics</small></td>
-                        </tr>
-                        <tr>
-                            <td><span>Email :</span></td>
-                            <td><small>padmakar.deshmukh@pccoepune.org</small></td>
-                        </tr>
-                        <tr>
-                            <td><span>Contact :</span></td>
-                            <td><small>9422239532</small></td>
-                        </tr>
-                    </table>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="item    text-center">
+                        <div class="text-center"><img src="../vender/img/home/hod-img.jpg"></div>
+                        <h6 class="h6 text-center">Umesh Chaudhari</h6>
+                        <p class="description">Sound Cloud ,New York USA Package:$1,20,000</p>
+                        <p class="batch">~ Batch 2011</p>
+                    </div>
                 </div>
-            </div>
-            <div class="col-xl-8">
-                <p class="text-data">
-                    <b>Mechanical Engineering</b> Department is well equipped with laboratories, qualified and dedicated
-                    faculties and staff. Our faculties are creating an innovative and research culture in UG and PG
-                    students. Our students participate in various co-curricular and extra-curricular activities at state
-                    and national level & won awards. The Mechanical Engineering Department is implementing the outcome
-                    based education at all the levels.
-                </p>
-                <p class="text-data">
-                    Mechanical engineering department is working on four pillars structure for overall development of
-                    student. The first pillar is academic excellence; this pillar is established, through curricular &
-                    co-curricular activities. The second pillar of research & innovation is taken care through
-                    innovation center, product innovation lab. The third pillar of professional competence is achieved
-                    through various student development activities carried out by training, placement & product
-                    development cell. The last pillar of social commitment is imbibed in the student through NSS
-                    activities societal importance projects by students.
-                </p>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="item    text-center">
+                        <div class="text-center"><img src="../vender/img/home/hod-img.jpg"></div>
+                        <h6 class="h6 text-center">Umesh Chaudhari</h6>
+                        <p class="description">Sound Cloud ,New York USA Package:$1,20,000</p>
+                        <p class="batch">~ Batch 2011</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="item    text-center">
+                        <div class="text-center"><img src="../vender/img/home/hod-img.jpg"></div>
+                        <h6 class="h6 text-center">Umesh Chaudhari</h6>
+                        <p class="description">Sound Cloud ,New York USA Package:$1,20,000</p>
+                        <p class="batch">~ Batch 2011</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="item    text-center">
+                        <div class="text-center"><img src="../vender/img/home/hod-img.jpg"></div>
+                        <h6 class="h6 text-center">Umesh Chaudhari</h6>
+                        <p class="description">Sound Cloud ,New York USA Package:$1,20,000</p>
+                        <p class="batch">~ Batch 2011</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="item    text-center">
+                        <div class="text-center"><img src="../vender/img/home/hod-img.jpg"></div>
+                        <h6 class="h6 text-center">Umesh Chaudhari</h6>
+                        <p class="description">Sound Cloud ,New York USA Package:$1,20,000</p>
+                        <p class="batch">~ Batch 2011</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="item    text-center">
+                        <div class="text-center"><img src="../vender/img/home/hod-img.jpg"></div>
+                        <h6 class="h6 text-center">Umesh Chaudhari</h6>
+                        <p class="description">Sound Cloud ,New York USA Package:$1,20,000</p>
+                        <p class="batch">~ Batch 2011</p>
+                    </div>
+                </div> -->
             </div>
         </div>
-    </div>
+   </div>
 
 
-    <!-- End content -->
+<!-- End content -->
 
 
-
-  <!-- start footer -->
+<!-- start footer -->
 <footer class="container-fluid">
     <div class="row bg-blue d-flex justify-content-center px-5 pb-3 mt-md-4">
       <div class="col-md-4"></div>
@@ -361,7 +366,7 @@
         <div>
           <div>
             <p>
-              <a targrt="_blank"  href="../index.html" class="text-decoration-none text-white">
+              <a targrt="_blank"  href="../index.php" class="text-decoration-none text-white">
                 <h6>
                   <i class="fas fa-external-link-alt"></i> Homepage
                 </h6>
@@ -415,5 +420,4 @@
     <!-- <script src="vender/js/navbar.js"></script> -->
 
 </body>
-
 </html>
