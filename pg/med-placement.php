@@ -73,18 +73,18 @@
           <label for="tm" id="toggle-menu"><b>Menu</b> <span class="drop-icon"><b>&#9776;</b></span></label>
           <input type="checkbox" id="tm">
           <ul class="main-menu cf">
-              <li class="b-left"><a href="../index.html">Home</a></li>
+              <li class="b-left"><a href="../index.php">Home</a></li>
               <li class="b-left"><a href="#">About us
                       <span class="drop-icon">▾</span>
                       <label title="Toggle Drop-down" class="drop-icon" for="sm0">▾</label>
                   </a>
                   <input type="checkbox" id="sm0">
                   <ul class="sub-menu">
-                      <li><a href="../aboutus/hod_desk.html">HOD Desk</a></li>
-                      <li><a href="../aboutus/vision-mission.html">Vision and Mission</a></li>
-                      <li><a href="../aboutus/program_outcome.html">PO's/PSO/PEO's</a></li>
-                      <li><a href="../aboutus/BOS.html">Board Of Studies</a></li>
-                      <li><a href="../aboutus/student_alumni.html">Student and Alumni's</a></li>
+                      <li><a href="../aboutus/hod_desk.php">HOD Desk</a></li>
+                      <li><a href="../aboutus/vision-mission.php">Vision and Mission</a></li>
+                      <li><a href="../aboutus/program_outcome.php">PO's/PSO/PEO's</a></li>
+                      <li><a href="../aboutus/BOS.php">Board Of Studies</a></li>
+                      <li><a href="../aboutus/student_alumni.php">Student and Alumni's</a></li>
                   </ul>
               </li>
               <li class="b-left"><a href="#">People
@@ -93,8 +93,8 @@
                 </a>
                 <input type="checkbox" id="sm88">
                 <ul class="sub-menu">
-                    <li><a href="../people/faculty.html">Faculty</a></li>
-                    <li><a href="../people/staff.html">Staff</a></li>
+                    <li><a href="../people/faculty.php">Faculty</a></li>
+                    <li><a href="../people/staff.php">Staff</a></li>
                 </ul>
             </li>
               <li class="b-left"><a href="#">Academics
@@ -104,7 +104,7 @@
                   <input type="checkbox" id="sm8">
                   </a>
                   <ul class="sub-menu">
-                    <li><a href="../ug/co_cordinator_desk.html">UG</a></li>
+                    <li><a href="../ug/co_cordinator_desk.php">UG</a></li>
                       <li>
                         <a href="">PG
                           <span class="drop-icon">▸</span>
@@ -113,11 +113,11 @@
                         <input type="checkbox" id="sm5">
                         </a>
                         <ul class="sub-menu">
-                            <li><a href="me-design.html">M.Tech Design Engineering</a></li>
-                            <li><a href="me-heatpower.html">M.Tech Heat Power Engineering</a></li>
+                            <li><a href="me-design.php">M.Tech Design Engineering</a></li>
+                            <li><a href="me-heatpower.php">M.Tech Heat Power Engineering</a></li>
                         </ul>
                       </li>
-                      <li><a href="../phd/phd_home.html">Ph. D</a></li>
+                      <li><a href="../phd/phd_home.php">Ph. D</a></li>
                   </ul>
               </li>
               <li class="b-left"><a href="#">Research
@@ -127,14 +127,14 @@
                   <input type="checkbox" id="smr">
                   </a>
                   <ul class="sub-menu">
-                    <li><a href="../research/research_team.html">Research Team</a> </li>
-                    <li><a href="../research/sig.html">Special Interest Groups (SIG)</a></li>
-                      <li><a href="../research/publication.html">Publication</a></li>
-                      <li><a href="../research/copyright.html">Intellectual Property Rights</a></li>
-                      <li><a href="../research/research funding.html">Research Funding </a></li>
-                      <li><a href="../research/cs_projects.html">Consultancy/Sponsored Projects</a></li>
-                      <li><a href="../research/student_achivements.html">Student Achievements</a></li>
-                      <li><a href="../research/entrepreneurship.html">Entrepreneurship</a></li>
+                    <li><a href="../research/research_team.php">Research Team</a> </li>
+                    <li><a href="../research/sig.php">Special Interest Groups (SIG)</a></li>
+                      <li><a href="../research/publication.php">Publication</a></li>
+                      <li><a href="../research/copyright.php">Intellectual Property Rights</a></li>
+                      <li><a href="../research/research funding.php">Research Funding </a></li>
+                      <li><a href="../research/cs_projects.php">Consultancy/Sponsored Projects</a></li>
+                      <li><a href="../research/student_achivements.php">Student Achievements</a></li>
+                      <li><a href="../research/entrepreneurship.php">Entrepreneurship</a></li>
                   </ul>
               </li>
   
@@ -145,11 +145,11 @@
                 <input type="checkbox" id="sm50">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="../placement/recruiter.html">Major Recruiters</a></li>
-                    <li><a href="../placement/placement.html">Placement</a></li>
-                    <li><a href="../placement/internship.html">Internship</a></li>
-                    <li><a href="../placement/training.html">Industrial Visit & Training Program</a></li>
-                    <li><a href="../placement/mou.html">MOU's</a></li>
+                    <li><a href="../placement/recruiter.php">Major Recruiters</a></li>
+                    <li><a href="../placement/placement.php">Placement</a></li>
+                    <li><a href="../placement/internship.php">Internship</a></li>
+                    <li><a href="../placement/training.php">Industrial Visit & Training Program</a></li>
+                    <li><a href="../placement/mou.php">MOU's</a></li>
                 </ul>
               </li>
               <li class="b-left"><a href="#">Facilities
@@ -159,9 +159,9 @@
                   <input type="checkbox" id="smsfc">
                   </a>
                   <ul class="sub-menu">
-                      <li><a href="../facilities/public_html/laboratories.html">Laboratories</a></li>
-                      <li><a href="../facilities/public_html/library.html">Library</a></li>
-                      <li><a href="../facilities/public_html/seminar_hall.html">Seminar Hall</a></li>
+                      <li><a href="../facilities/public_php/laboratories.php">Laboratories</a></li>
+                      <li><a href="../facilities/public_php/library.php">Library</a></li>
+                      <li><a href="../facilities/public_php/seminar_hall.php">Seminar Hall</a></li>
                   </ul>
               </li>
               <li class="b-left"><a href="#">Student Development & Welfare
@@ -171,11 +171,11 @@
                   <input type="checkbox" id="smsdw">
                   </a>
                   <ul class="sub-menu">
-                      <li><a href="../Student_development&Welfare/public_html/higher_studies.html">Higher study cell</a></li>
-                      <li><a href="../Student_development&Welfare/public_html/Communication_Personality_Development.html">Communication and Personality Development Cell</a></li>
-                      <li><a href="../Student_development&Welfare/public_html/professional_development.html">Professional Development Cell</a></li>
-                      <li><a href="../Student_development&Welfare/public_html/ISR.html">Institutional Social Responsibility</a></li>
-                      <li><a href="../Student_development&Welfare/public_html/nation_services_scheme.html">National Service Scheme</a></li>
+                      <li><a href="../Student_development&Welfare/public_php/higher_studies.php">Higher study cell</a></li>
+                      <li><a href="../Student_development&Welfare/public_php/Communication_Personality_Development.php">Communication and Personality Development Cell</a></li>
+                      <li><a href="../Student_development&Welfare/public_php/professional_development.php">Professional Development Cell</a></li>
+                      <li><a href="../Student_development&Welfare/public_php/ISR.php">Institutional Social Responsibility</a></li>
+                      <li><a href="../Student_development&Welfare/public_php/nation_services_scheme.php">National Service Scheme</a></li>
                   </ul>
               </li>
               <li class="b-left"><a href="#">Clubs
@@ -185,25 +185,27 @@
                   <input type="checkbox" id="sm9">
                   </a>
                   <ul class="sub-menu">
-                      <li><a href="../clubs/mesa.html">MESA</a></li>
-                      <li><a href="../clubs/ambush.html">Team Ambush</a></li>
-                      <li><a href="../clubs/redbaron.html">Team Red Baron</a></li>
-                      <li><a href="../clubs/kratos.html">Team Kratos Racing</a></li>
-                      <li><a href="../clubs/solarium.html">Team Solarium</a></li>
-                      <li><a href="../clubs/automaton.html">Team Automatons</a></li>
-                      <li><a href="../clubs/automaton.html">Team Maverick</a></li>
-                      <li><a href="../clubs/ishrae.html">ISHRAE</a></li>
-                      <li><a href="../clubs/iei.html">IEI</a></li>
-                      <li><a href="../clubs/sport.html">Sports</a></li>
+                      <li><a href="../clubs/mesa.php">MESA</a></li>
+                      <li><a href="../clubs/ambush.php">Team Ambush</a></li>
+                      <li><a href="../clubs/redbaron.php">Team Red Baron</a></li>
+                      <li><a href="../clubs/kratos.php">Team Kratos Racing</a></li>
+                      <li><a href="../clubs/solarium.php">Team Solarium</a></li>
+                      <li><a href="../clubs/automaton.php">Team Automatons</a></li>
+                      <li><a href="../clubs/automaton.php">Team Maverick</a></li>
+                      <li><a href="../clubs/ishrae.php">ISHRAE</a></li>
+                      <li><a href="../clubs/iei.php">IEI</a></li>
+                      <li><a href="../clubs/sport.php">Sports</a></li>
                   </ul>
               </li>
-              <li class="b-left b-right"><a href="../contact_us/contact.html">Contact us</a></li>
+              <li class="b-left b-right"><a href="../contact_us/contact.php">Contact us</a></li>
           </ul>
       </nav>
   </div>
   <!-- End Navbar -->
 
-<br><br>
+    
+       
+  <br><br>
   
   <div class="container-fluid p-3">
     <div class="row">
@@ -216,28 +218,28 @@
         <div class="section">
 
           <ul class="section-list">
-            <a href="med-co-ordinatordesk.html">
+            <a href="med-co-ordinatordesk.php">
               <li>Co-ordinator Desk</li>
             </a>
-            <a href="med-peoplepage.html">
+            <a href="med-peoplepage.php">
               <li>People </li>
             </a>
-            <a href="med-rnd.html">
+            <a href="med-rnd.php">
               <li>Research and Development</li>
             </a>
-            <a href="med-placement.html">
+            <a href="med-placement.php">
               <li>Placement</li>
             </a>
             <!-- <a href="">
                             <li>Result Analysis</li>       ?
                         </a> -->
-            <a href="med-studentcorner.html">
+            <a href="med-studentcorner.php">
               <li>Student corner</li>
             </a>
-            <a href="med-alumni.html">
+            <a href="med-alumni.php">
               <li>Alumni</li>
             </a>
-            <a href="med-contact.html">
+            <a href="med-contact.php">
               <li>Contact</li>
             </a>
             <!-- <a href="">
@@ -247,11 +249,78 @@
           </ul>
         </div>
       </div>
+
       <div class="col-lg-9">
         <div class="container p-3 mt-5 pb-5 vision-mision bg-light">
-          <div class="container-fluid title">Alumni</div>
+          <div class="container-fluid title">Student Placement</div>
           <div class="container-fluid content-panel">
-             Data not available 
+            <div class="row">
+              <p><strong>Industry Institute Interaction</strong></p>
+              <ol><b>1.MoU:</b>The department has MoU with MITCON, CIPET, and INNOVATIONEXT.</ol>
+              <br>
+              <ol><b>2.TIFAC Scheme:</b>
+                Through this scheme student is deputed in a small scale industry for a specific project and during this period the student gets stipend from the Government of India. The department has got the TIFAC Govt. of India Grant approval for assisting the MSME sector industries.</ol>
+
+                <br><br>
+
+              <div class="card-body">
+                <div class="row">
+                  <p><strong>List of Placed Students</strong></p>
+
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th scope="col">Sr. No.</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Company</th>
+                    
+                    
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">1</th>
+                    <td>Akshay Kulkarni</td>
+                    <td>L&T Infotech</td>
+                    
+                    
+
+                  </tr>
+                  <tr>
+                    <th scope="row">2</th>
+                    <td>Sushant Dholay</td>
+                    <td>L&T Infotech</td>
+                    
+                      
+                  </tr>
+                  <tr>
+                    <th scope="row">3</th>
+                    <td>Rohit Kumatkar</td>
+                    <td>Capjemini</td>
+                    
+
+                    
+                  </tr>
+                  <tr>
+                    <th scope="row">4</th>
+                    <td>Hanumant Shelke</td>
+                    <td>Knorr Bremse</td>
+                    
+                    
+                  </tr>
+                  
+                  
+                </tbody>
+              </table>
+            </div>
+            <br><br>
+
+            <div class="card-body">
+              <div class="row">
+                <p><strong>Industry Visits</strong></p>
+                <ul>
+                  <li>A visit to Auto Cluster to get a real life exposure to the activities carried out in industries today & understand the Rapid Prototyping</li>
+                <li>A visit to Railway Diesel Loco Shed, Ghorpadi on 1-3-2014.</li></ul>
           </div>
         </div>
       </div>
@@ -351,7 +420,7 @@
       <div>
         <div>
           <p>
-            <a targrt="_blank"  href="../index.html" class="text-decoration-none text-white">
+            <a targrt="_blank"  href="../index.php" class="text-decoration-none text-white">
               <h6>
                 <i class="fas fa-external-link-alt"></i> Homepage
               </h6>
