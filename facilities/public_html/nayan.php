@@ -313,7 +313,7 @@
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="nayanelectronics (2).jpg" style="width:100%" height="400px">
+  <img src="imageslab/nayanelectronics (2).jpg" style="width:100%" height="400px">
   
 </div>
 </div>
