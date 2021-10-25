@@ -333,7 +333,7 @@
               <div class="accordion-body">
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
-                      class="text-decoration-none" href="">Data Not available</a></li>
+                      class="text-decoration-none" href="../vender/files/activity_calendar/Academic Calendar of the Institute for S.Y.B.Tech.pdf">Event Calendar of the Institute for SY. </a></li>
                 </ul>
               </div>
             </div>
@@ -449,7 +449,7 @@
               <div class="accordion-body">
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
-                      class="text-decoration-none" href="">Data Not available</a></li>
+                      class="text-decoration-none" href="../vender/files/activity_calendar/Event Calendar of UG TE & BE (1).pdf">Activity Calendar of the Institute for TE.</a></li>
                 </ul>
               </div>
             </div>
@@ -568,7 +568,7 @@
               <div class="accordion-body">
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
-                      class="text-decoration-none" href="">Data Not available</a></li>
+                      class="text-decoration-none" href="../vender/files/activity_calendar/Event Calendar of UG TE & BE (1).pdf">Activity Calendar of the Institute for BE.</a></li>
                 </ul>
               </div>
             </div>

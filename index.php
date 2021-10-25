@@ -364,7 +364,7 @@
                   </a>
                 </div> 
                 <div class="col-6">
-                  <a class="text-decoration-none text-dark" href="phd/phd_home.php">
+                  <a class="text-decoration-none text-dark" href="phd/2.php">
                     <div class="item">
                         <img src="vender/img/logo/phd.jpg"/><br>
                         <span class="post">Ph.D</span><br>
