@@ -63,7 +63,7 @@
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  transition: background-color 0.6s ease;
+  transition: background-color 0.5s ease;
 }
 
 .active {
@@ -73,9 +73,9 @@
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 4s;
+  -webkit-animation-duration: 3s;
   animation-name: fade;
-  animation-duration: 4s;
+  animation-duration: 3s;
 }
 
 @-webkit-keyframes fade {
@@ -350,7 +350,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 3000); // Change image every 2 seconds
+  setTimeout(showSlides, 2500); // Change image every 2 seconds
 }
 </script>
 
