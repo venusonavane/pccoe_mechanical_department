@@ -46,7 +46,7 @@
 	</div> <div class="wmh-cleardiv"></div>
 </div>
 
-<div class="pccoe-sm-bar">
+<div class="pccoe-sm-bar" style="margin-top: 200px;">
 	<a href="https://www.facebook.com/pages/PCCOE/725095680876531" target="_blank" class="facebook"><img src="../vender/img/pccoe_social_icons/pccoe_facebook_social_icon.png" class="img-responsive iconspin" width="30" height="30"></a> <br>
 	<a href="https://www.linkedin.com/company/pccoe-pune?trk=biz-companies-cym" target="_blank" class="linkedin"><img src="../vender/img/pccoe_social_icons/pccoe_linkedin_social_icon.png" class="img-responsive iconspin" width="30" height="30"></a> <br>
 	<a href="https://twitter.com/pccoe_pune" target="_blank" class="twitter"><img src="../vender/img/pccoe_social_icons/pccoe_twitter_social_icon.png" class="img-responsive iconspin" width="30" height="30"></a> <br>
