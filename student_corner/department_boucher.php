@@ -23,14 +23,13 @@
 </head>
 
 <body>
- <!-- Start Header -->
+<!-- Start Header -->  
+<?php include("pccoe-header.php"); ?>
  <header>
   <div class="container-fluid header">
       <div class="row">
-          <div class="col-lg-1"></div>
-          <div class="col-lg-2 text-center d-flex justify-content-around align-items-center">
+          <div class="col-lg-3 text-center d-flex justify-content-around align-items-center">
               <div>
-                <img src="../vender/img/logo/PCCOE_LOGO_b.jpg" style="width: 150px; height: 125px;" /><br>
                 <div class="extern-btn">
                   <a href="http://www.pccoepune.com/" class="text-decoration-none">
                     <i class="fas fa-home"></i> PCCOE
@@ -40,27 +39,10 @@
           </div>
           <div class="col-lg-6">
               <div class="text-center">
-                  <p class="p-0 m-0 mt-3 pcet-name">PIMPRI CHINCHWAD EDUCATION TRUST</p>
-                  <div class="clg-name">
-                      <h4 class="p-0 m-0">PIMPRI CHINCHWAD COLLEGE OF ENGINEERING</h4>
-                  </div>
-                  <p class="m-0 p-1 description text-secondary">
-                    <b>NAAC</b> Accreditation With "<b>A Grade</b>" | An <b>Autonomous</b> Institute | <b>AICTE</b> Approved |<b>ISO 9001: 2015</b> Certified | Permanently Affiliated to  <b>SPPU, Pune </b>
-                  </p>
-                   <h4 class="dept-name fs-3 mb-3 mt-3">Department Of Mechanical Engineering</h4>
+                   <h4 class="dept-name fs-3 mb-3">Department Of Mechanical Engineering</h4>
               </div>
           </div>
-          <div class="col-lg-2 	d-none d-lg-block text-center d-flex justify-content-around align-items-center">
-              <div>
-                <a href="http://pcet.org.in/"><img src="../vender/img/logo/logo.png" style="width: 150px; height: 125px;" /></a>
-                <div class="extern-btn invisible">
-                  <a href="http://www.pccoepune.com/" class="text-decoration-none">
-                    <i class="fas fa-home"></i> PCCOE
-                  </a>
-                </div>
-              </div>
-          </div>
-          <div class="col-lg-1"></div>
+          <div class="col-lg-3"></div>
       </div>
   </div>
 </header>
