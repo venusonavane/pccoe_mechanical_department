@@ -402,7 +402,7 @@
                     </div>
                     <div class="row bg-light mx-lg-6 mx-md-3 mx-sm-1 mt-2 rounded">
                       <div class="col-sm-3 text-center align-self-center container-fluid">
-                          <img src="../img/ANKore.jpg" class="card-img" style="width: 150px;" alt="Faculty Image">
+                          <img src="../faculty photo/ANKore.jpg" class="card-img" style="width: 150px;" alt="Faculty Image">
                           <br/>
                       </div>
                       <div class="col-sm-9 align-self-center pt-2 ">
