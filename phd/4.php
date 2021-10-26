@@ -247,7 +247,7 @@
                         <div>
                             <dl class="row">
                                 <dt class="col-sm-5 col-4">Name of the Research Scholar</dt>
-                                <dd class="col-sm-7 col-8">Gaikwad Nilesh V.</dd>
+                                <dd class="col-sm-7 col-8">Mr. Gaikwad Nilesh V.</dd>
                                 <dt class="col-sm-5 col-4">Date of Registration</dt>
                                 <dd class="col-sm-7 col-8">02/03/2021</dd>
                                 <dt class="col-sm-5 col-4">Name of Supervisor</dt>
@@ -329,7 +329,7 @@
                           <div>
                               <dl class="row">
                                   <dt class="col-sm-5 col-4">Name of the Research Scholar</dt>
-                                  <dd class="col-sm-7 col-8">Anjankar Pankaj Ganesh</dd>
+                                  <dd class="col-sm-7 col-8">Mr. Anjankar Pankaj Ganesh</dd>
                                   <dt class="col-sm-5 col-4">Date of Registration</dt>
                                   <dd class="col-sm-7 col-8">12/04/2018</dd>
                                   <dt class="col-sm-5 col-4">Name of Supervisor</dt>
@@ -349,7 +349,7 @@
                           <div>
                               <dl class="row">
                                   <dt class="col-sm-5 col-4">Name of the Research Scholar</dt>
-                                  <dd class="col-sm-7 col-8">Bawane Aditya Shivaji </dd>
+                                  <dd class="col-sm-7 col-8">Mr. Bawane Aditya Shivaji </dd>
                                   <dt class="col-sm-5 col-4">Date of Registration</dt>
                                   <dd class="col-sm-7 col-8">12/04/2018</dd>
                                   <dt class="col-sm-5 col-4">Name of Supervisor</dt>
@@ -369,7 +369,7 @@
                           <div>
                               <dl class="row">
                                   <dt class="col-sm-5 col-4">Name of the Research Scholar</dt>
-                                  <dd class="col-sm-7 col-8">Bhalerao Vrushali Yogesh</dd>
+                                  <dd class="col-sm-7 col-8">Mrs. Bhalerao Vrushali Yogesh</dd>
                                   <dt class="col-sm-5 col-4">Date of Registration</dt>
                                   <dd class="col-sm-7 col-8">13/04/2018</dd>
                                   <dt class="col-sm-5 col-4">Name of Supervisor</dt>
@@ -389,7 +389,7 @@
                           <div>
                               <dl class="row">
                                   <dt class="col-sm-5 col-4">Name of the Research Scholar</dt>
-                                  <dd class="col-sm-7 col-8">Dive Vikas Pralhad</dd>
+                                  <dd class="col-sm-7 col-8">Mr. Dive Vikas Pralhad</dd>
                                   <dt class="col-sm-5 col-4">Date of Registration</dt>
                                   <dd class="col-sm-7 col-8">12/04/2018</dd>
                                   <dt class="col-sm-5 col-4">Name of Supervisor</dt>
@@ -409,7 +409,7 @@
                           <div>
                               <dl class="row">
                                   <dt class="col-sm-5 col-4">Name of the Research Scholar</dt>
-                                  <dd class="col-sm-7 col-8">Kore Abhijeet Narayan</dd>
+                                  <dd class="col-sm-7 col-8">Mr. Kore Abhijeet Narayan</dd>
                                   <dt class="col-sm-5 col-4">Date of Registration</dt>
                                   <dd class="col-sm-7 col-8">12/04/2018</dd>
                                   <dt class="col-sm-5 col-4">Name of Supervisor</dt>
@@ -429,7 +429,7 @@
                           <div>
                               <dl class="row">
                                   <dt class="col-sm-5 col-4">Name of the Research Scholar</dt>
-                                  <dd class="col-sm-7 col-8">Samantaraya Debabrata Banamali</dd>
+                                  <dd class="col-sm-7 col-8">Mr. Samantaraya Debabrata Banamali</dd>
                                   <dt class="col-sm-5 col-4">Date of Registration</dt>
                                   <dd class="col-sm-7 col-8">12/04/2018</dd>
                                   <dt class="col-sm-5 col-4">Name of Supervisor</dt>
