@@ -139,7 +139,7 @@
             </ul>
         </nav>
     </div>
-    <div class="tabs" style="margin-top: 50px;">
+    <div class="tabs" style="margin-top: 40px;">
         <ul class="sub-navbar">
             <a class="nav-link" style="border-right: 1px;" href="#associate-professor">
                 <li class="button-associate-professor"> Associate Professor </li>
