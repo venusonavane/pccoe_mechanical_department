@@ -122,11 +122,11 @@
 </div>
 <div class="tabs" style="margin-top: 50px;">
         <ul class="sub-navbar">
-        <a href=#instructor class="nav-link" style=border-right:1px>
+        <a href=#instructor class="nav-link p-0" style=border-right:1px>
             <li class=button-associate-professor>Instructor</a>
-        <a href=#lab-attendent class= "nav-link">
+        <a href=#lab-attendent class= "nav-link p-0">
             <li class=button-assistant-professor>Lab Attendent</a>
-        <a href=#clerk class="nav-link">
+        <a href=#clerk class="nav-link p-0">
             <li class=button-assistant-professor>Other Staff</a>
         </ul>
     </div>

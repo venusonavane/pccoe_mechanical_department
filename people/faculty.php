@@ -5,50 +5,54 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Faculty | People | Department Of Mechanical Engineering at PCCOE</title>
+    <link rel="stylesheet" href="style2.css">
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Icon -->
     <link href="../vender/img/logo/PCCOE_LOGO_b.jpg" rel="shortcut icon" type="image/x-icon">
+    <!-- Bootstrap CSS -->
+    <link href="../vender/css/bootstrap.css" rel="stylesheet" />
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"> -->
+    <link href="../vender/css/navbar.css" rel="stylesheet" />
+    <link href="../vender/css/style1.css" rel="stylesheet" />
+
+    <!-- Icon Link -->
     <link href="../vender/icon/css/brands.css" rel="stylesheet" />
     <link href="../vender/icon/css/fontawesome.css" rel="stylesheet" />
     <link href="../vender/icon/css/solid.css" rel="stylesheet" />
-    <link href="../clubs/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../vender/css/navbar.css" rel="stylesheet" />
-    <link href="../vender/css/style1.css" rel="stylesheet" />
-    <link rel="stylesheet" href="style2.css">
+    <!-- PCCOE HEADER FOOTER CSS FILE -->	
+    <link rel="stylesheet" href="../imp-pccoe-style.css" type="text/css" />
+    <style>
+      html {
+        scroll-behavior: smooth;
+      }
+    
+    </style>
 </head>
 
-<body>
-    <header>
-        <div class="container-fluid header" id="top">
-            <div class="row">
-                <div class="col-lg-1"></div>
-                <div class="col-lg-2 text-center d-flex justify-content-around align-items-center">
-                    <div> <img src="../vender/img/logo/PCCOE_LOGO_b.jpg" style="width: 150px; height: 125px;" /><br>
-                        <div class="extern-btn">
-                            <a href="http://www.pccoepune.com/" class="text-decoration-none"> <i class="fas fa-home"></i> PCCOE </a>
-                        </div>
-                    </div>
+<?php include("pccoe-header.php"); ?>
+<header>
+  <div class="container-fluid header">
+      <div class="row">
+          <div class="col-lg-3 text-center d-flex justify-content-around align-items-center">
+              <div>
+                <div class="extern-btn">
+                  <a href="http://www.pccoepune.com/" class="text-decoration-none">
+                    <i class="fas fa-home"></i> PCCOE
+                  </a>
                 </div>
-                <div class="col-lg-6">
-                    <div class="text-center">
-                        <p class="p-0 m-0 mt-3 pcet-name">PIMPRI CHINCHWAD EDUCATION TRUST</p>
-                        <div class="clg-name">
-                            <h4 class="p-0 m-0">PIMPRI CHINCHWAD COLLEGE OF ENGINEERING</h4>
-                        </div>
-                        <p class="m-0 p-1 description text-secondary"> <b>NAAC</b> Accreditation With "<b>A Grade</b>" | An <b>Autonomous</b> Institute | <b>AICTE</b> Approved |<b>ISO 9001: 2015</b> Certified | Permanently Affiliated to <b>SPPU, Pune </b> </p>
-                        <h4 class="dept-name fs-3 mb-3 mt-3">Department Of Mechanical Engineering</h4>
-                    </div>
-                </div>
-                <div class="col-lg-2 d-none d-lg-block text-center d-flex justify-content-around align-items-center">
-                    <div>
-                        <a href="http://pcet.org.in/"><img src="../vender/img/logo/logo.png" style="width: 150px; height: 125px;" /></a>
-                        <div class="extern-btn invisible">
-                            <a href="http://www.pccoepune.com/" class="text-decoration-none"> <i class="fas fa-home"></i> PCCOE </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-1"></div>
-            </div>
-        </div>
-    </header>
+              </div>
+          </div>
+          <div class="col-lg-6">
+              <div class="text-center">
+                   <h4 class="dept-name fs-3 mb-3">Department Of Mechanical Engineering</h4>
+              </div>
+          </div>
+          <div class="col-lg-3"></div>
+      </div>
+  </div>
+</header>
     <div class="menu-section d-flex justify-content-around">
         <nav id="menu"> <label for="tm" id="toggle-menu"><b>Menu</b> <span class="drop-icon"><b>&#9776;</b></span></label> <input type="checkbox" id="tm">
             <ul class="main-menu cf">
@@ -135,7 +139,7 @@
             </ul>
         </nav>
     </div>
-    <div class="tabs" style="margin-top: 50px;">
+    <div class="tabs" style="margin-top: 40px;">
         <ul class="sub-navbar">
             <a class="nav-link" style="border-right: 1px;" href="#associate-professor">
                 <li class="button-associate-professor"> Associate Professor </li>
