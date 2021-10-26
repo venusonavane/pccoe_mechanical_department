@@ -6,6 +6,7 @@
 		
 		<!-- Icon -->
 		<link href="../../vender/img/logo/PCCOE_LOGO_b.jpg"  rel="shortcut icon" type="image/x-icon">
+		 <link rel="stylesheet" href="imp-pccoe-style.css" type="text/css"/>
 
 		<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"> -->
 		<link href="../../vender/css/navbar.css" rel="stylesheet" />
@@ -96,47 +97,28 @@
 	 </head>
 	 
 	 <body>
-	  <header>
-      <div class="container-fluid header">
-        <div class="row">
-            <div class="col-lg-1"></div>
-            <div class="col-lg-2 text-center d-flex justify-content-around align-items-center">
-                <div>
-                  <img src="../../vender/img/logo/PCCOE_LOGO_b.jpg" style="width: 150px; height: 125px;" /><br>
-                  <div class="extern-btn">
-                    <a href="http://www.pccoepune.com/" class="text-decoration-none">
-                      <i class="fas fa-home"></i> PCCOE
-                    </a>
-                  </div>
+	 <?php include("pccoe-header.php"); ?>
+ <header>
+  <div class="container-fluid header">
+      <div class="row">
+          <div class="col-lg-3 text-center d-flex justify-content-around align-items-center">
+              <div>
+                <div class="extern-btn">
+                  <a href="http://www.pccoepune.com/" class="text-decoration-none">
+                    <i class="fas fa-home"></i> PCCOE
+                  </a>
                 </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="text-center">
-                    <p class="p-0 m-0 mt-3 pcet-name">PIMPRI CHINCHWAD EDUCATION TRUST</p>
-                    <div class="clg-name">
-                        <h4 class="p-0 m-0">PIMPRI CHINCHWAD COLLEGE OF ENGINEERING</h4>
-                    </div>
-                    <p class="m-0 p-1 description text-secondary">
-                      <b>NAAC</b> Accreditation With "<b>A Grade</b>" | An <b>Autonomous</b> Institute | <b>AICTE</b> Approved |<b>ISO 9001: 2015</b> Certified | Permanently Affiliated to  <b>SPPU, Pune </b>
-                    </p>
-                     <h4 class="dept-name fs-3 mb-3 mt-3">Department Of Mechanical Engineering</h4>
-                </div>
-            </div>
-            <div class="col-lg-2 	d-none d-lg-block text-center d-flex justify-content-around align-items-center">
-                <div>
-                  <a href="http://pcet.org.in/"><img src="../../vender/img/logo/logo.png" style="width: 150px; height: 125px;" /></a>
-                  <div class="extern-btn invisible">
-                    <a href="http://www.pccoepune.com/" class="text-decoration-none">
-                      <i class="fas fa-home"></i> PCCOE
-                    </a>
-                  </div>
-                </div>
-            </div>
-            <div class="col-lg-1"></div>
-        </div>
+              </div>
+          </div>
+          <div class="col-lg-6">
+              <div class="text-center">
+                   <h4 class="dept-name fs-3 mb-3">Department Of Mechanical Engineering</h4>
+              </div>
+          </div>
+          <div class="col-lg-3"></div>
       </div>
-    </header>
-    <!-- End Header -->
+  </div>
+</header>
 	<!-- Start Navbar -->
     <div class="menu-section d-flex justify-content-around">
       <nav id="menu">
@@ -362,7 +344,7 @@ function showSlides() {
 </script>
 
 	
-	  <!-- start footer -->
+ <!-- start footer -->
 <footer class="container-fluid">
   <div class="row bg-blue d-flex justify-content-center px-5 pb-3 mt-md-4">
     <div class="col-md-4"></div>
@@ -479,32 +461,9 @@ function showSlides() {
       </div>
     </div>
   </div>
-
-
-  <div class="row bg-dark d-flex justify-content-center">
-    <div class="col-md-6">
-      <div class="m-3">
-        <h6>
-          <p class="text-white text-center">
-            Copyright &copy; 2021 PIMPRI CHINCHWAD COLLEGE OF ENGINEERING
-          </p>
-        </h6>
-      </div>
-    </div>
-    <div class="col-md-6">
-      <div class="text-white">
-          <div class="m-3">
-            <h6>
-              <p class="text-white text-center">
-                Designed by PCET Digital Marketing Department
-              </p>
-            </h6>
-          </div>
-      </div>
-    </div>
-  </div>
-</footer>
+</footer><?php include("pccoe-footer.php"); ?>
 <!-- End footer -->
+   
 <script src="js/bootstrap.bundle.js"></script>
 	 </body>
 	 </html>

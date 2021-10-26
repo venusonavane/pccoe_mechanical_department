@@ -556,7 +556,8 @@
       </div>
     </div>
   </div>
-</footer><?php include("pccoe-footer.php"); ?>
+</footer>
+<?php include("pccoe-footer.php"); ?>
 <!-- End footer -->
 
     <script src="vender/js/bootstrap.bundle.js"></script>
