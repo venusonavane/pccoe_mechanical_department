@@ -11,33 +11,86 @@
 <link href=../vender/css/navbar.css rel=stylesheet>
 <link href=../vender/css/style1.css rel=stylesheet>
 <link href=style2.css rel=stylesheet>
+     <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Icon -->
+    <link href="../vender/img/logo/PCCOE_LOGO_b.jpg" rel="shortcut icon" type="image/x-icon">
+    <!-- Bootstrap CSS -->
+    <link href="../vender/css/bootstrap.css" rel="stylesheet" />
+    <!-- PCCOE HEADER FOOTER CSS FILE -->
+    <link rel="stylesheet" href="../imp-pccoe-style.css" type="text/css" />
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"> -->
+    <link href="../vender/css/navbar.css" rel="stylesheet" />
+    <link href="../vender/css/style1.css" rel="stylesheet" />
+    <!-- Icon Link -->
+    <link href="../vender/icon/css/brands.css" rel="stylesheet" />
+    <link href="../vender/icon/css/fontawesome.css" rel="stylesheet" />
+    <link href="../vender/icon/css/solid.css" rel="stylesheet" />
+
+
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
 <header>
-    <div class="header container-fluid">
-        <div class=row>
-            <div class=col-lg-1></div>
-            <div class="d-flex justify-content-around align-items-center col-lg-2 text-center">
-                <div><img src=../vender/img/logo/PCCOE_LOGO_b.jpg style=width:150px;height:125px><br>
-                    <div class=extern-btn><a href=http://www.pccoepune.com/ class=text-decoration-none><i class="fas fa-home"></i> PCCOE</a></div>
-                </div>
-            </div>
-            <div class=col-lg-6>
-                <div class=text-center>
-                    <p class="mt-3 m-0 p-0 pcet-name">PIMPRI CHINCHWAD EDUCATION TRUST
-                        <div class=clg-name>
-                            <h4 class="m-0 p-0">PIMPRI CHINCHWAD COLLEGE OF ENGINEERING</h4>
-                        </div>
-                        <p class="m-0 description p-1 text-secondary"><b>NAAC</b> Accreditation With "<b>A Grade</b>" | An <b>Autonomous</b> Institute | <b>AICTE</b> Approved |<b>ISO 9001: 2015</b> Certified | Permanently Affiliated to <b>SPPU, Pune</b>
-                            <h4 class="mt-3 dept-name fs-3 mb-3">Department Of Mechanical Engineering</h4>
-                </div>
-            </div>
-            <div class="d-flex justify-content-around align-items-center col-lg-2 text-center d-lg-block 	d-none">
-                <div><a href=http://pcet.org.in/><img src=../vender/img/logo/logo.png style=width:150px;height:125px></a>
-                    <div class="extern-btn invisible"><a href=http://www.pccoepune.com/ class=text-decoration-none><i class="fas fa-home"></i> PCCOE</a></div>
-                </div>
-            </div>
-            <div class=col-lg-1></div>
-        </div>
-    </div>
+    
+<div class="wmh-top-strip">
+	<div class="wmh-mlr-90">
+		<div class="wmh-full">
+			<div class="wmh-wdt-50">
+				<div class="wmh-plr-15">
+					 <img src="vender/img/pccoe_social_icons/telephone_icon.png" class="eticon" width="15px" height="15px"> <a href="tel:+91-9960984347">+91 - 9960984347  </a> | <img src="vender/img/pccoe_social_icons/email_icon.png" class="eticon" width="16px" height="16px"> <a href="mailto:pccoeadmin@gmail.com">pccoeadmin@gmail.com</a>
+				</div>
+			</div>
+			<div class="wmh-wdt-50">
+				<div class="wmh-plr-15">
+					<div class="tright">
+						<a class="button enq-btn blink" style="font-size:14px;" href="https://forms.zohopublic.in/pcet/form/CourseApplicationForm/formperma/Zr0u0jP3t36iheLlMd0R2qrKfxZBRs0E-U_MMRCyLM8" target="_blank">Admission Enquiry</a> | <span><a href="http://www.pccoepune.com/AlmaConnect.php" target="_blank">Alumni</a></span> | <span><a href="http://www.pccoepune.com/scholarship-details.php">Scholarships</a></span>
+					</div>
+				</div>
+			</div>
+		</div> <div class="wmh-cleardiv"></div>
+	</div>
+</div>
+
+<div class="wmh-mlr-90">
+	<div class="wmh-full-wdt">
+
+		<div class="wmh-wdt-12">
+			<div class="wmh-plr-15 wmh-logo">
+				<a href="http://www.pccoepune.com/"><img alt="PCCOE LOGO" class="wmh-img-rsp" src="vender/img/pccoe_social_icons/pccoe-logo-new.png"></a>
+			</div>
+		</div>
+
+		<div class="wmh-wdt-76">
+			<div style="wmh-plr-15">
+				<div class="wmh_header1" align="center">PIMPRI CHINCHWAD EDUCATION TRUST's</div>
+				<div class="wmh_header2" align="center">PIMPRI CHINCHWAD COLLEGE OF ENGINEERING</div>                				
+				<div class="wmh_para">
+					<i><span><strong>NBA</strong> Accredited</span> | <span><strong>NAAC</strong> Accredited with <strong>'A'</strong> Grade</span> | <span>An <strong>Autonomous</strong> Institute</span> | <span><strong>AICTE</strong> Approved</span> | <span><strong>ISO 9001: 2015</strong> Certified</span> | <span>Permanently Affiliated to <strong>SPPU</strong>, Pune</span></i>
+				</div> 
+			</div>
+		</div>
+
+		<div class="wmh-wdt-12">
+			<div class="wmh-plr-15 wmh-logo">
+				<a href="http://pcet.org.in/" target="_blank"><img src="vender/img/pccoe_social_icons/pcet-trust-logo-new.png" class="wmh-img-rsp" alt="PCET TRUST LOGO"></a>
+			</div>
+		</div>
+
+	</div> <div class="wmh-cleardiv"></div>
+</div>
+
+<div class="pccoe-sm-bar" style="margin-top: 200px;">
+	<a href="https://www.facebook.com/pages/PCCOE/725095680876531" target="_blank" class="facebook"><img src="vender/img/pccoe_social_icons/pccoe_facebook_social_icon.png" class="img-responsive iconspin" width="30" height="30"></a> <br>
+	<a href="https://www.linkedin.com/company/pccoe-pune?trk=biz-companies-cym" target="_blank" class="linkedin"><img src="vender/img/pccoe_social_icons/pccoe_linkedin_social_icon.png" class="img-responsive iconspin" width="30" height="30"></a> <br>
+	<a href="https://twitter.com/pccoe_pune" target="_blank" class="twitter"><img src="vender/img/pccoe_social_icons/pccoe_twitter_social_icon.png" class="img-responsive iconspin" width="30" height="30"></a> <br>
+	<a href="https://www.instagram.com/pccoepune/" target="_blank" class="instagram"><img src="vender/img/pccoe_social_icons/pccoe_instagram_social_icon.png" class="img-responsive iconspin" width="30" height="30"></a> <br>
+	<a href="https://www.youtube.com/channel/UCQiPDETOiteTLmAvvPk1WjA" target="_blank" class="youtube"><img src="vender/img/pccoe_social_icons/pccoe_youtube_social_icon.png" class="img-responsive iconspin" width="30" height="30"></a> <br>
+</div>
+
 </header>
 <div class="d-flex justify-content-around menu-section">
     <nav id=menu><label for=tm id=toggle-menu><b>Menu</b> <span class=drop-icon><b>☰</b></span></label> <input id=tm type=checkbox>
@@ -117,11 +170,12 @@
     </ul>
 </div>
 <section class="p-md-3 p-md-3">
-    <div class=container-lg>
-        <div class="mb-3 display-5">Admin Staff</div>
-        <div class="bg-light p-3" id=lab-assistant>
-            <div class="mb-3 border-bottom border-1 border-primary">
-                <p class="fs-3 text-primary">Assistant</div>
+   <div class="container-lg shadow-sm">
+            <div class="border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark">
+                <h2>
+                    Admin Staff
+                </h2>
+            </div><div class="bg-light p-3"id=lab-assistant><div class="mb-3 border-bottom border-1 border-primary"><p class="fs-3 text-primary">Assistant</div>
             <div class=row>
                 <div class=col-md-1></div>
                 <div class=col-md-10>
