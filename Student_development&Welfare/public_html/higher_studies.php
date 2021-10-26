@@ -258,6 +258,195 @@ and open the template in the editor.
           </div>
         </div>
         <div>
+		
+		<p class="my-4 text-dark">
+          <h4>Outstanding Achievement in GATE 2021</h4>
+		  <div class="table-responsive-lg">
+        <table class="table table-hover table-bordered">
+              <thead class="table-primary">
+                <tr>
+                  <th scope="col">Name</th>
+                 <th scope="col">Gate Score</th>
+                 </tr>
+              </thead>
+              <tbody>
+                 
+
+ <tr>                 
+                  <td>Piyush Nehete</td>
+                  <td>638</td>
+                 </tr>	
+<tr>   				 
+                  <td>Rajat Girish Gandhi</td>
+                  <td>385</td>
+                 </tr>
+				 
+				  <tr>                 
+                  <td>Satyajeet Suhas Ithape</td>
+                  <td>468</td>
+                 </tr>
+				 
+				  
+                
+				 <tr>                 
+                  <td>Prasad Vilas Badade</td>
+                  <td>409</td>
+                 </tr>
+				 
+				 
+				 <tr>                 
+                  <td>Ritesh Ravindra Ohol
+
+</td>
+                  <td>239</td>
+                 </tr>
+				  <tr>                 
+                  <td>Amar Prakash Singh
+
+</td>
+                  <td>447</td>
+                 </tr>
+				 
+				 
+				 
+				  <tr>                 
+                  <td>Shubham Sharad Joshi
+
+</td>
+                  <td>638</td>
+                 </tr>
+				 
+				  <tr>                 
+                  <td>Sudarshan NetajeeJawale
+
+</td>
+                  <td>430</td>
+                 </tr>
+				 
+				 
+				  <tr>                 
+                  <td>Pradyumna Shrikrishna Joshi
+
+</td>
+                  <td>529/1000
+
+</td>
+                 </tr>
+				 
+				  <tr>                 
+                  <td>Kalpesh Sanjay More</td>
+                  <td>508</td>
+                 </tr>
+				 
+				 <tr>                 
+                  <td>Shubham Janardan Yadav
+
+</td>
+                  <td>392</td>
+                 </tr>
+				 
+				 <tr>                 
+                  <td>ShaimanZakirhusen Shaikh
+
+</td>
+                  <td>34.07</td>
+                 </tr>
+				 
+				 <tr>                 
+                  <td>Manish Santosh Deore
+
+</td>
+                  <td>35.71</td>
+                 </tr>
+				 
+				  <tr>                 
+                  <td>Barkat FirojMukadam
+
+</td>
+                  <td>44.59
+
+</td>
+                 </tr>
+				 
+				 <tr>                 
+                  <td>Siddharth Pravin Patil</td>
+                  <td>49.79</td>
+                 </tr>
+              </tbody>
+            </table>
+			</div>
+
+        </p>
+		
+		 <p class="my-4 text-dark">
+          <h4>List of students admitted for Higher Education 2021</h4>
+		  <div class="table-responsive-lg">
+        <table class="table table-hover table-bordered">
+              <thead class="table-primary">
+                <tr>
+                  <th scope="col">Name</th>
+                  <th scope="col">Course</th>
+                  <th scope="col">Institute</th>
+        
+                </tr>
+              </thead>
+              <tbody>
+                <tr>                 
+                  <td>PIYUSH CHANDRAKANT NEHETE</td>
+                  <td>M.tech</td>
+                  <td>IIT Chennai</td>
+                </tr>
+				
+				<tr>                 
+                  <td>ADITYA SURESH PACHARNE</td>
+                  <td>M.tech</td>
+                  <td>VIT Vellore</td>
+                </tr>
+				
+				<tr>                 
+                  <td>BHRAMAR SANJAY PUSTODE
+
+</td>
+                  <td>M.tech</td>
+                  <td>IIT Hyderabad
+
+</td>
+                </tr>
+				
+				<tr>                 
+                  <td>HIMANSHU HEMANT WADHAVANKAR
+
+</td>
+                  <td>MBA
+
+</td>
+                  <td>International Institute Of Sports Management
+
+</td>
+                </tr>
+				
+				<tr>                 
+                  <td>ADITYA SATISHKUMAR KHADAKE
+
+</td>
+                  <td>MBA</td>
+                  <td>Imperial School Of Banking and management studies
+
+</td>
+                </tr>
+				
+                <tr>                 
+                  <td>KALPESH SANJAY MORE
+
+</td>
+                  <td>M.tech</td>
+                  <td>IIT Delhi</td>
+                </tr>
+              </tbody>
+            </table>
+			</div>
+
+        </p> 
           <p class="my-4 text-dark">
           <h4>Outstanding Achievement in GATE 2020</h4>
 		  <div class="table-responsive-lg">
