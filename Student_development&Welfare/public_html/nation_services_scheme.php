@@ -137,8 +137,8 @@ and open the template in the editor.
                 <input type="checkbox" id="smr">
                 </a>
                 <ul class="sub-menu">
-                    <li><a href="../../research/sig.php">Research Team</a></li>
-				    <li><a href="research/sig.php">Special Interest Groups (SIG)</a></li>
+                    <li><a href="../../research/research_team.php">Research Team</a></li>
+				    <li><a href="../../research/sig.php">Special Interest Groups (SIG)</a></li>
                     <li><a href="../../research/publication.php">Publication</a></li>
                     <li><a href="../../research/copyright.php">Intellectual Property Rights</a></li>
                     <li><a href="../../research/research funding.php">Research Funding </a></li>
