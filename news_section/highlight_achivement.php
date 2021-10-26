@@ -17,7 +17,8 @@
      <link href="../vender/icon/css/brands.css" rel="stylesheet" />
      <link href="../vender/icon/css/fontawesome.css" rel="stylesheet" />
      <link href="../vender/icon/css/solid.css" rel="stylesheet" />
- 
+     <!-- PCCOE HEADER FOOTER CSS FILE -->	
+     <link rel="stylesheet" href="../imp-pccoe-style.css" type="text/css" />
 
     <title>Highlighted Achievements | News | Department of Mechanical Engineering at PCCOE</title>
     <style></style>

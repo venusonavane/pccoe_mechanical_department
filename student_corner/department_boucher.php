@@ -12,7 +12,8 @@
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"> -->
     <link href="../vender/css/navbar.css" rel="stylesheet" />
     <link href="../vender/css/style1.css" rel="stylesheet" />
-
+     <!-- PCCOE HEADER FOOTER CSS FILE -->	
+     <link rel="stylesheet" href="../imp-pccoe-style.css" type="text/css" />
     <!-- Icon Link -->
     <link href="../vender/icon/css/brands.css" rel="stylesheet" />
     <link href="../vender/icon/css/fontawesome.css" rel="stylesheet" />
