@@ -252,7 +252,7 @@ and open the template in the editor.
                       </ul>
                     </li>-->
                     
-					<li><a href="ug/co_cordinator_desk.php">UG</a></li>
+					<li><a href="../../ug/co_cordinator_desk.php">UG</a></li>
 					<li>
                       <a href="">PG
                         <span class="drop-icon">▸</span>
@@ -265,7 +265,7 @@ and open the template in the editor.
                           <li><a href="../../pg/me-heatpower.php">M.Tech Heat Power Engineering</a></li>
                       </ul>
                     </li>
-                    <li><a href="../phd/phd_home.php">Ph. D</a></li>
+                    <li><a href="../../phd/phd_home.php">Ph. D</a></li>
                 </ul>
             </li>
             <li class="b-left"><a href="#">Research
@@ -276,7 +276,7 @@ and open the template in the editor.
                 </a>
                 <ul class="sub-menu">
                     <li><a href="../../research/sig.php">Research Team</a></li>
-					<li><a href="research/sig.php">Special Interest Groups (SIG)</a></li>
+					          <li><a href="research/sig.php">Special Interest Groups (SIG)</a></li>
                     <li><a href="../../research/publication.php">Publication</a></li>
                     <li><a href="../../research/copyright.php">Intellectual Property Rights</a></li>
                     <li><a href="../../research/research funding.php">Research Funding </a></li>

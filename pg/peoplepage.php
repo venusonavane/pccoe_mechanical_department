@@ -20,7 +20,7 @@
   <link href="../vender/icon/css/solid.css" rel="stylesheet" />
 
 
-  <title>HOD Desk | About us | Department of Mechanical Engineering at PCCOE</title>
+  <title>People | M.tech Heat Power Engineering | PG | Department of Mechanical Engineering at PCCOE</title>
   <style></style>
 </head>
 
@@ -233,7 +233,7 @@
 
       <div class="col-lg-9">
         <div class="container p-3 mt-5 pb-5 vision-mision bg-light">
-          <div class="container-fluid title">People Page</div>
+          <div class="container-fluid title">People</div>
           <div class="container-fluid content-panel">
             <!--card 1 starting-->
             <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
