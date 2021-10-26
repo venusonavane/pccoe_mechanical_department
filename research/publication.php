@@ -255,12 +255,12 @@
     </tr>
     <tr align="center">
       <th colspan="2" align="center">Total</th>
-      <th align="center">1</td>
+      <th align="center">48</td>
+      <th align="center">4</th>
+      <th align="center">3</th>
       <th align="center">0</th>
-      <th align="center">0</th>
-      <th align="center">0</th>
-      <th align="center">1</th>
-      <th align="center">0</th>
+      <th align="center">18</th>
+      <th align="center">23</th>
     </tr>
   </tbody>
   </table>
