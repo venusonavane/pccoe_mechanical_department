@@ -20,7 +20,7 @@
     <link href="../vender/icon/css/solid.css" rel="stylesheet" />
 
 
-    <title>HOD Desk | About us | Department of Mechanical Engineering at PCCOE</title>
+    <title>Contact | M.tech Design Engineering | PG | Department of Mechanical Engineering at PCCOE</title>
     <style></style>
 </head>
 

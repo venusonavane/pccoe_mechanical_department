@@ -20,7 +20,7 @@
     <link href="../vender/icon/css/solid.css" rel="stylesheet" />
 
 
-    <title>HOD Desk | About us | Department of Mechanical Engineering at PCCOE</title>
+    <title>Placement | M.tech Design Engineering | PG | Department of Mechanical Engineering at PCCOE</title>
     <style></style>
 </head>
 
@@ -235,7 +235,7 @@
 
       <div class="col-lg-9">
         <div class="container p-3  pb-5 vision-mision bg-light">
-          <div class="container-fluid title">Student Placement</div>
+          <div class="container-fluid title">Placement</div>
           <div class="container-fluid content-panel">
             <div class="row">
               <p><strong>Industry Institute Interaction</strong></p>
