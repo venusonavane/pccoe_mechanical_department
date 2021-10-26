@@ -146,11 +146,11 @@
         </ul>
     </div>
     <section class="p-md-3 p-md-3">
-        <div class="container-lg">
-            <div class="display-5 mb-3">Faculty</div>
+        <div class="container-lg shadow-sm">
+            <div class="border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark"><h2>Faculty</h2></div>
             <div class="bg-light p-3">
                 <div class="border-bottom border-1 border-primary mb-3">
-                    <p class="fs-3 text-primary">Professor</p>
+                    <h2>Professor</h2>
                 </div>
                 <div class="row">
                     <div class="col-md-1"></div>
