@@ -4,7 +4,7 @@
 		<div class="wmh-full">
 			<div class="wmh-wdt-50">
 				<div class="wmh-plr-15">
-					 <img src="../vender/img/pccoe_social_icons/telephone_icon.png" class="eticon" width="15px" height="15px"> <a href="tel:+91-9960984347">+91 - 9960984347  </a> | <img src="vender/img/pccoe_social_icons/email_icon.png" class="eticon" width="16px" height="16px"> <a href="mailto:pccoeadmin@gmail.com">pccoeadmin@gmail.com</a>
+					 <img src="../vender/img/pccoe_social_icons/telephone_icon.png" class="eticon" width="15px" height="15px"> <a href="tel:+91-9960984347">+91 - 9960984347  </a> | <img src="../vender/img/pccoe_social_icons/email_icon.png" class="eticon" width="16px" height="16px"> <a href="mailto:pccoeadmin@gmail.com">pccoeadmin@gmail.com</a>
 				</div>
 			</div>
 			<div class="wmh-wdt-50">
