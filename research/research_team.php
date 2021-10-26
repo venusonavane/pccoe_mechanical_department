@@ -189,307 +189,64 @@
 <br>
 <br>
 <section class="p-md-3 p-md-3">
-    <div class="container-lg ">
+    <div class="container-lg">
       <div class="border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark">
         <h2>
           Research Team
         </h2>
       </div>
-        <!--Section for professor start-->
-        <div class="bg-light p-3">
-            <div class="border-bottom border-1 border-primary mb-3">
-                <p class="fs-3 text-primary">Research coordination team:</p>
+    <div class="container p-2 mt-4 student-alumni">
+      <div class="container-fluid content-panel">
+        <div class="row justify-content-around">
+          <div class="col-lg-3 col-sm-6">
+            <div class="item    text-center">
+              <div class="text-center"><img src="../faculty photo/UGPotdar.jpeg"></div>
+              <h6 class="h6 text-center">Dr. Umesh Potdar</h6>
+              <p class="description">Overall R & D coordination and funded research</p><br>
             </div>
-
-            <div class="row">
-                <!--left vacant column-->
-                <div class="col-md-1"></div>
-
-                <!--Midle section where all faculties are visible-->
-                <!--Update new cards in this section-->
-                <div class="col-md-10">
-
-                    <!--card 1 starting-->
-                    <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
-                        <div class="col-sm-3 p-2 text-center align-self-center container-fluid">
-                            <img src="../faculty photo/UGPotdar.jpeg" class="card-img" style="width: 150px;" alt="Faculty Image">
-                            <br/>
-                            <button class="website btn btn-primary mt-3">
-                            <a href="https://sites.google.com/view/ugpotdar " target = "_blank"><span class="text-white">Personal Website</span></a>
-                        </button>
-                        </div>
-                        <div class="col-sm-9 align-self-center pt-3">
-                            <h4>Dr. Umesh Potdar</h4>
-                            <div>
-                                <dl class="row">
-                                    <dt class="col-sm-3 col-4">Designation</dt>
-                                    <dd class="col-sm-9 col-8">Associate Professor</dd>
-                                    <dt class="col-sm-3 col-4">Qualification</dt>
-                                    <dd class="col-sm-9 col-8">PhD (Aerospace Engg.), M. E. (HP), B.E. (Mech.)</dd>
-                                    <dt class="col-sm-3 col-4">Experience</dt>
-                                    <dd class="col-sm-9 col-8">13+ Years</dd>
-
-                                    <dt class="col-sm-3 col-4">Area of interest:</dt>
-                                    <dd class="col-sm-9 col-8">
-                                        <p>Spray combustion, Numerical Combustion, Micro Combustion</p>
-                                    </dd>
-                                    <span class="align-self-center text-muted">
-                                    Email&nbsp;:&nbsp;<a href = "mailto: umesh.potdar@pccoepune.org" >umesh.potdar@pccoepune.org</a> | 
-                                    Contact&nbsp;:&nbsp;<a href = "tel: +919370223675" >9370223675</a>
-                                    <div class="profile mt-1">
-                                      <button class="btn btn-primary btn-sm ">
-                <a href="https://scholar.google.co.in/citations?user=PysEaC4AAAAJ&hl=en" target = "_blank ">Google Scholar Profile</a>
-              </button>
-                                      <button class="btn btn-sm btn-primary ">
-                <a href="https://www.scopus.com/authid/detail.uri?authorId=57197772125" target = "_blank ">Scopus Profile</a>
-              </button>
-                                      <button class="btn btn-sm btn-primary ">
-                <a href="https://publons.com/researcher/4540454/umesh-potdar/" target = "_blank ">Publons Profile</a>
-              </button>
-                                    </div>
-                                </span>
-                                </dl>
-                            </div>
-                        </div>
-                    </div>
-                    <!--card 1 ending-->
-
-                    <!--card 2 Starting-->
-                    <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
-                        <div class="col-sm-3 p-2 text-center align-self-center container-fluid">
-                            <img src="../faculty photo/ARoy_website.jpg" class="card-img" style="width: 150px;" alt="Faculty Image">
-                            <br/>
-                            <button class="website btn btn-primary mt-3">
-                          <a href="https://aninditaroy.wixsite.com/website/" target = "_blank"><span class="text-white">Personal Website</span></a>
-                      </button>
-                        </div>
-                        <div class="col-sm-9 align-self-center pt-3">
-                            <h4>Dr. Anindita Roy</h4>
-                            <div>
-                                <dl class="row">
-                                    <dt class="col-sm-3 col-4">Designation</dt>
-                                    <dd class="col-sm-9 col-8">Associate Professor, ME Coordinator (Heat Power) and Associate Dean Academics</dd>
-                                    <dt class="col-sm-3 col-4">Qualification</dt>
-                                    <dd class="col-sm-9 col-8">PhD Renewable Energy Engg, M.Tech(Energy management), B.E.(Mech).</dd>
-                                    <dt class="col-sm-3 col-4">Experience</dt>
-                                    <dd class="col-sm-9 col-8">14 + Years </dd>
-
-                                    <dt class="col-sm-3 col-4">Area of interest:</dt>
-                                    <dd class="col-sm-9 col-8">
-                                        <p>Renewable Energy</p>
-                                    </dd>
-                                    <span class="align-self-center text-muted">
-                                  Email&nbsp;:&nbsp;<a href = "mailto: anindita.roy@pccoepune.org" >anindita.roy@pccoepune.org</a> | 
-                                  Contact&nbsp;:&nbsp;<a href = "tel: +919970178175" >9970178175</a>
-                                  <div class="profile mt-1">
-                                    <button class="btn btn-primary btn-sm ">
-              <a href="https://scholar.google.co.in/citations?user=5jyAmKwAAAAJ&hl=en" target = "_blank ">Google Scholar Profile</a>
-            </button>
-                                    <button class="btn btn-sm btn-primary ">
-              <a href="https://www.scopus.com/authid/detail.uri?authorId=55465951800" target = "_blank ">Scopus Profile</a>
-            </button>
-                                    <button class="btn btn-sm btn-primary ">
-              <a href="#" target = "_blank ">Publons Profile</a>
-            </button>
-                                  </div>
-                                </span>
-                                </dl>
-                            </div>
-                        </div>
-                    </div>
-                    <!--card 2 ending-->
-
-                    <!--card starting-->
-                    <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
-                        <div class="col-sm-3 p-2 text-center align-self-center container-fluid">
-                            <img src="../faculty photo/CLLadekar.jpg" class="card-img" style="width: 150px;" alt="Faculty Image">
-                            <br/>
-                            <button class="website btn btn-primary mt-3">
-                            <a href="   https://sanjaylakade.com/   " target = "_blank"><span class="text-white">Personal Website</span></a>
-                        </button>
-                        </div>
-                        <div class="col-sm-9 align-self-center pt-3">
-                            <h4>Dr. Chandrakishore Ladekar </h4>
-                            <div>
-                                <dl class="row">
-                                    <dt class="col-sm-3 col-4">Designation</dt>
-                                    <dd class="col-sm-9 col-8">Associate Professor</dd>
-                                    <dt class="col-sm-3 col-4">Qualification</dt>
-                                    <dd class="col-sm-9 col-8">Ph.D.(Mechanical Engg.), M.Tech. (Thermal), B.E. (Mech.)</dd>
-                                    <dt class="col-sm-3 col-4">Experience</dt>
-                                    <dd class="col-sm-9 col-8">18+ Years</dd>
-
-                                    <dt class="col-sm-3 col-4">Area of interest:</dt>
-                                    <dd class="col-sm-9 col-8">
-                                        <p>Heat Pipe, Thermal Engineering</p>
-                                    </dd>
-                                    <span class="align-self-center text-muted">
-                                    Email&nbsp;:&nbsp;<a href = "mailto: sanjay.lakade@pccoepune.org   " >sanjay.lakade@pccoepune.org</a> | 
-                                    Contact&nbsp;:&nbsp;<a href = "tel: +919325213417     " >9325213417</a>
-                                    <div class="profile mt-1">
-                                      <button class="btn btn-primary btn-sm ">
-                <a href="https://scholar.google.co.in/citations?user=SzVowsEAAAAJ&hl=en" target = "_blank ">Google Scholar Profile</a>
-              </button>
-                                      <button class="btn btn-sm btn-primary ">
-                <a href="https://www.scopus.com/authid/detail.uri?authorId=57194607505" target = "_blank ">Scopus Profile</a>
-              </button>
-                                      <button class="btn btn-sm btn-primary ">
-                <a href="https://publons.com/researcher/4539808/chandrakishor-ladekar" target = "_blank ">Publons Profile</a>
-              </button>
-                                  </div>
-                                  </span>
-                                </dl>
-                            </div>
-                        </div>
-                    </div>
-                    <!--card ending-->
-
-                    <!--card starting-->
-                    <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
-                        <div class="col-sm-3 p-2 text-center align-self-center container-fluid">
-                            <img src="../faculty photo/RBPatil.JPG" class="card-img" style="width: 150px;" alt="Faculty Image">
-                            <br/>
-                            <button class="website btn btn-primary mt-3">
-                            <a href="   https://sites.google.com/view/rajkumarbpatil/home   " target = "_blank"><span class="text-white">Personal Website</span></a>
-                        </button>
-                        </div>
-                        <div class="col-sm-9 align-self-center pt-3">
-                            <h4>Dr. Rajkumar Patil</h4>
-                            <div>
-                                <dl class="row">
-                                    <dt class="col-sm-3 col-4">Designation</dt>
-                                    <dd class="col-sm-9 col-8">Assistant Professor</dd>
-                                    <dt class="col-sm-3 col-4">Qualification</dt>
-                                    <dd class="col-sm-9 col-8">Ph.D. Mechanical Engg., PDF (University of Maryland, College Park, USA)</dd>
-                                    <dt class="col-sm-3 col-4">Experience</dt>
-                                    <dd class="col-sm-9 col-8">11 Years</dd>
-
-                                    <dt class="col-sm-3 col-4">Area of interest:</dt>
-                                    <dd class="col-sm-9 col-8">
-                                        <p>Reliability, maintainability, and availability analysis, Physics of failure, Handbook based reliability predictions, Reliability testing</p>
-                                    </dd>
-                                    <span class="align-self-center text-muted">
-                                    Email&nbsp;:&nbsp;<a href = "mailto:  rajkumar.patil@pccoepune.org  " >rajkumar.patil@pccoepune.org</a> | 
-                                    Contact&nbsp;:&nbsp;<a href = "tel: +919175899766" >9175899766</a>
-                                    <div class="profile mt-1">
-                                      <button class="btn btn-primary btn-sm ">
-                <a href="https://scholar.google.co.in/citations?user=vqMJYAsAAAAJ&hl=en" target = "_blank ">Google Scholar Profile</a>
-              </button>
-                                      <button class="btn btn-sm btn-primary ">
-                <a href="https://www.scopus.com/authid/detail.uri?authorId=57162294600" target = "_blank ">Scopus Profile</a>
-              </button>
-                                      <button class="btn btn-sm btn-primary ">
-                <a href="https://publons.com/researcher/2371844/rajkumar-b-patil/" target = "_blank ">Publons Profile</a>
-              </button>
-                                  </div>
-                                </span>
-                                </dl>
-                            </div>
-                        </div>
-                    </div>
-                    <!--card ending-->
-
-                    <!--card starting-->
-                    <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
-                        <div class="col-sm-3 p-2 text-center align-self-center container-fluid">
-                            <img src="../faculty photo/RAGujar.webp" class="card-img" style="width: 150px;" alt="Faculty Image">
-                            <br/>
-                            <button class="website btn btn-primary mt-3">
-                            <a href="   https://rahulgujar.wixsite.com/pccoemech     " target = "_blank"><span class="text-white">Personal Website</span></a>
-                        </button>
-                        </div>
-                        <div class="col-sm-9 align-self-center pt-3">
-                            <h4>Prof. Rahul Gujar</h4>
-                            <div>
-                                <dl class="row">
-                                    <dt class="col-sm-3 col-4">Designation</dt>
-                                    <dd class="col-sm-9 col-8">Assistant Professor</dd>
-                                    <dt class="col-sm-3 col-4">Qualification</dt>
-                                    <dd class="col-sm-9 col-8">PhD (Pursuing), M.E.(Design), B.E. (Mech.)</dd>
-                                    <dt class="col-sm-3 col-4">Experience</dt>
-                                    <dd class="col-sm-9 col-8">13 + Years</dd>
-
-                                    <dt class="col-sm-3 col-4">Area of interest:</dt>
-                                    <dd class="col-sm-9 col-8">
-                                        <p>Design, Biomedical,Medical Image Analysis, Mechatronics</p>
-                                    </dd>
-                                    <span class="align-self-center text-muted">
-                                    Email&nbsp;:&nbsp;<a href = "mailto: rahul.gujar@pccoepune.org   " >rahul.gujar@pccoepune.org</a> | 
-                                    Contact&nbsp;:&nbsp;<a href = "tel: +918857858339      " >8857858339</a>
-                                    <div class="profile mt-1">
-                                      <button class="btn btn-primary btn-sm ">
-                <a href="https://scholar.google.co.in/citations?user=x7MMSu8AAAAJ&hl=en" target = "_blank ">Google Scholar Profile</a>
-              </button>
-                                      <button class="btn btn-sm btn-primary ">
-                <a href="https://id.elsevier.com/settings/redirect?code=eIKhbiioDkKb1mxX2Ggmsl9NKPwQmOxrD_IkFhttps://id.elsevier.com/settings/redirect?code=eIKhbiioDkKb1mxX2Ggmsl9NKPwQmOxrD_IkF6vx6vx" target = "_blank ">Scopus Profile</a>
-              </button>
-                                      <button class="btn btn-sm btn-primary ">
-                <a href="https://publons.com/researcher/3395519/r-gujar/" target = "_blank ">Publons Profile</a>
-              </button>
-                                  </div>
-                                </span>
-                                </dl>
-                            </div>
-                        </div>
-                    </div>
-                    <!--card ending-->
-
-                    <!--card starting-->
-                    <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
-                        <div class="col-sm-3 p-2 text-center align-self-center container-fluid">
-                            <img src="../faculty photo/SVPatil.jpg" class="card-img" style="width: 150px;" alt="Faculty Image">
-                            <br/>
-                            <button class="website btn btn-primary mt-3">
-                            <a href="   https://shwetapatil01.wixsite.com/website  " target = "_blank"><span class="text-white">Personal Website</span></a>
-                        </button>
-                        </div>
-                        <div class="col-sm-9 align-self-center pt-3">
-                            <h4>Prof. Shweta Patil</h4>
-                            <div>
-                                <dl class="row">
-                                    <dt class="col-sm-3 col-4">Designation</dt>
-                                    <dd class="col-sm-9 col-8">Assistant Professor</dd>
-                                    <dt class="col-sm-3 col-4">Qualification</dt>
-                                    <dd class="col-sm-9 col-8">PhD (Pursuing), M. E. (Heat Power), B.E. (Mech.)</dd>
-                                    <dt class="col-sm-3 col-4">Experience</dt>
-                                    <dd class="col-sm-9 col-8">14+ Years</dd>
-
-                                    <dt class="col-sm-3 col-4">Area of interest:</dt>
-                                    <dd class="col-sm-9 col-8">
-                                        <p> CFD, Electric vehicle</p>
-                                    </dd>
-                                    <span class="align-self-center text-muted">
-                                    Email&nbsp;:&nbsp;<a href = "mailto: shweta.patil@pccoepune.org   " >shweta.patil@pccoepune.org</a> | 
-                                    Contact&nbsp;:&nbsp;<a href = "tel: +919767800970      " >9767800970</a>
-                                    <div class="profile mt-1">
-                                      <button class="btn btn-primary btn-sm ">
-                <a href="https://scholar.google.com/citations?hl=en&user=ZerMzn4AAAAJ" target = "_blank ">Google Scholar Profile</a>
-              </button>
-                                      <button class="btn btn-sm btn-primary ">
-                <a href="" target = "_blank ">Scopus Profile</a>
-              </button>
-                                      <button class="btn btn-sm btn-primary ">
-                <a href="" target = "_blank ">Publons Profile</a>
-              </button>
-                                  </div>
-                                </span>
-                                </dl>
-                            </div>
-                        </div>
-                    </div>
-                    <!--card ending-->
-
-
-                    <!--update new cards-->
-                </div>
-
-                <!--Right vacant column-->
-                <div class="col-md-1"></div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="item    text-center">
+              <div class="text-center"><img src="../faculty photo/ARoy_website.jpg"></div>
+              <h6 class="h6 text-center">Dr. Anindita Roy</h6>
+              <p class="description">Consultancy & revenue generation</p><br>
             </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="item    text-center">
+              <div class="text-center"><img src="../faculty photo/CLLadekar.jpg"></div>
+              <h6 class="h6 text-center">Dr. Chandrakishore Ladekar</h6>
+              <p class="description">Entrepreneurship Development</p><br>
+            </div>
+          </div>
         </div>
-        <!--Section for 5 professor end-->
-
-
+      </div>
+      <div class="container-fluid content-panel">
+        <div class="row justify-content-around">
+          <div class="col-lg-3 col-sm-6">
+            <div class="item    text-center">
+              <div class="text-center"><img src="../faculty photo/RBPatil.JPG"></div>
+              <h6 class="h6 text-center">Dr. Rajkumar Patil</h6>
+              <p class="description">Research publications</p><br>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="item    text-center">
+              <div class="text-center"><img src="../faculty photo/RAGujar.webp"></div>
+              <h6 class="h6 text-center">Prof. Rahul Gujar</h6>
+              <p class="description">Intellectual property rights</p><br>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="item    text-center">
+              <div class="text-center"><img src="../faculty photo/SVPatil.jpg"></div>
+              <h6 class="h6 text-center">Prof. Shweta Patil</h6>
+              <p class="description">R & D activities</p><br>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     </div>
 </section>
 <!-- start footer -->
