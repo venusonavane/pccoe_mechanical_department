@@ -17,14 +17,14 @@
     <!-- Icon -->
     <link href="vender/img/logo/PCCOE_LOGO_b.jpg"  rel="shortcut icon" type="image/x-icon">
     <!-- Bootstrap CSS -->
-    <link href="vender/css/bootstrap.css" rel="stylesheet" />
+    <link href="vender/css/bootstrap.css" rel="stylesheet" />		<!-- PCCOE HEADER FOOTER CSS FILE -->	<link rel="stylesheet" href="imp-pccoe-style.css" type="text/css" />
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"> -->
     <link href="vender/css/navbar.css" rel="stylesheet" />
-    <link href="vender/css/style1.css" rel="stylesheet" />
+    <link href="vender/css/style1.css" rel="stylesheet" />		
      <!-- Icon Link -->
      <link href="vender/icon/css/brands.css" rel="stylesheet" />
      <link href="vender/icon/css/fontawesome.css" rel="stylesheet" />
-     <link href="vender/icon/css/solid.css" rel="stylesheet" />
+     <link href="vender/icon/css/solid.css" rel="stylesheet" />	 	 	 
     <title>Department Of Mechanical Engineering | PCCOE</title>
     <style>
       html {
@@ -34,7 +34,7 @@
 </head>
 
 <body>
- <!-- Start Header -->
+ <!-- Start Header -->  <?php include("pccoe-header.php"); ?>
  <header>
   <div class="container-fluid header">
       <div class="row">
@@ -596,7 +596,7 @@
       </div>
     </div>
   </div>
-</footer>
+</footer><?php include("pccoe-footer.php"); ?>
 <!-- End footer -->
 
     <script src="vender/js/bootstrap.bundle.js"></script>
