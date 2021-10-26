@@ -211,12 +211,8 @@
   <!-- End Navbar -->
   <br><br>
   <!-- Content page-->
-  <div class="container">
-    <div class="row border-5 border-start border-primary shadow mb-4 ps-3 py-2 align-self-center text-dark mt-4">
-        <h2>Academic Coordinator</h2>
-    </div>
-  </div>
   <div class="container p-2 mt-4 student-alumni">
+    <div class="container-fluid title"><span>Academic Coordinator</span></div>
     <div class="container-fluid content-panel">
       <div class="row justify-content-around">
         <div class="col-lg-3 col-sm-6">
@@ -280,7 +276,25 @@
               <div class="accordion-body">
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
-                      class="text-decoration-none" href="">Data Not available</a></li>
+                      class="text-decoration-none" href="../vender/files/course_outline/Course Outline Materials Engineering.pdf">Materials Engineering</a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" href="../vender/files/course_outline/Course Outline_Engineering Thermodynamics.pdf">Engineering Thermodynamics</a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" hre f="../vender/files/course_outline/">Strength of Materials</a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" hre f="../vender/files/course_outline/">Applied Mathematics </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" hre f="../vender/files/course_outline/">Statistics and Probability </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" hre f="../vender/files/course_outline/">Material Testing Lab </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" hre f="../vender/files/course_outline/">Manufacturing Practices </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" hre f="../vender/files/course_outline/">HSMC-III </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" hre f="../vender/files/course_outline/">Computer Aided Machine Drawing-I </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" hre f="../vender/files/course_outline/">Life Skill-III</a></li>
                 </ul>
               </div>
             </div>
@@ -337,7 +351,9 @@
               <div class="accordion-body">
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
-                      class="text-decoration-none" href="../vender/files/activity_calendar/Academic Calendar of the Institute for S.Y.B.Tech.pdf">Event Calendar of the Institute for SY. </a></li>
+                      class="text-decoration-none"
+                      href="../vender/files/activity_calendar/Academic Calendar of the Institute for S.Y.B.Tech.pdf">Event
+                      Calendar of the Institute for SY. </a></li>
                 </ul>
               </div>
             </div>
@@ -396,7 +412,17 @@
               <div class="accordion-body">
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
-                      class="text-decoration-none" href="">Data Not available</a></li>
+                      class="text-decoration-none" href="../vender/files/course_outline/Course Outline TE Design of Machine Elements.pdf">Design of Machine Elements </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" href="../vender/files/course_outline/Course Outline TE Mechatronics.pdf">Mechatronics </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" href="../vender/files/course_outline/Course Outline_Heat and Mass Transfer-2021-22.pdf">Heat & Mass Transfer </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" href="../vender/files/course_outline/Courrse Outline for TE Numerical and Statistical Methods.pdf">Numerical & Statistical Methods </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" href="../vender/files/course_outline/Course outline TE Skill Development.pdf">Skill Development </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" hre f="../vender/files/course_outline/">Machining Science & Technology </a></li>
                 </ul>
               </div>
             </div>
@@ -453,7 +479,9 @@
               <div class="accordion-body">
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
-                      class="text-decoration-none" href="../vender/files/activity_calendar/Event Calendar of UG TE & BE (1).pdf">Activity Calendar of the Institute for TE.</a></li>
+                      class="text-decoration-none"
+                      href="../vender/files/activity_calendar/Event Calendar of UG TE & BE (1).pdf">Activity Calendar of
+                      the Institute for TE.</a></li>
                 </ul>
               </div>
             </div>
@@ -471,7 +499,8 @@
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
                       class="text-decoration-none"
-                      href="../vender/files/syllabus/TE_Mechanical Engineering (2019 Course).pdf">T.E - Bachlor of Engineering
+                      href="../vender/files/syllabus/TE_Mechanical Engineering (2019 Course).pdf">T.E - Bachlor of
+                      Engineering
                       (Mechanical Engineering)</a></li>
                 </ul>
               </div>
@@ -490,7 +519,8 @@
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
                       class="text-decoration-none"
-                      href="../vender/files/time_table/TE Class TT  Sem 1 A.Y. 2021-22.pdf">T.E - Bachlor of Engineering (Mechanical
+                      href="../vender/files/time_table/TE Class TT  Sem 1 A.Y. 2021-22.pdf">T.E - Bachlor of Engineering
+                      (Mechanical
                       Engineering)</a></li>
                 </ul>
               </div>
@@ -515,7 +545,19 @@
               <div class="accordion-body">
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
-                      class="text-decoration-none" href="">Data Not available</a></li>
+                      class="text-decoration-none" href="../vender/files/course_outline/course outline Hydraulics and Pneumatics 2021-22 Sem .pdf">Hydraulics and Pneumatics </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" href="../vender/files/course_outline/Course Outline _CAD_CAM and Automation.pdf">CAD/CAM Automation </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" hre f="../vender/files/course_outline/">Dynamics of Machinery </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" href="../vender/files/course_outline/Course Outline Finite Element Analysis (ELE I).pdf">Finite Element Analysis </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" href="../vender/files/course_outline/Course Outline.Automobile Engg.2021-22.GGM.14.10.21.pdf">Automobile Engineering</a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" href="../vender/files/course_outline/Course outline_Operation Research.pdf">Operations Research </a></li>
+                  <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
+                      class="text-decoration-none" href="../vender/files/course_outline/Course Outline Refrigeration and Air Conditioning.pdf">Heating Ventilation and Air Conditioning</a></li>
                 </ul>
               </div>
             </div>
@@ -572,7 +614,9 @@
               <div class="accordion-body">
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
-                      class="text-decoration-none" href="../vender/files/activity_calendar/Event Calendar of UG TE & BE (1).pdf">Activity Calendar of the Institute for BE.</a></li>
+                      class="text-decoration-none"
+                      href="../vender/files/activity_calendar/Event Calendar of UG TE & BE (1).pdf">Activity Calendar of
+                      the Institute for BE.</a></li>
                 </ul>
               </div>
             </div>
@@ -589,7 +633,8 @@
               <div class="accordion-body">
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
-                      class="text-decoration-none" href="../vender/files/syllabus/Final year mech.pdf">B.E - Bachlor of Engineering
+                      class="text-decoration-none" href="../vender/files/syllabus/Final year mech.pdf">B.E - Bachlor of
+                      Engineering
                       (Mechanical Engineering)</a></li>
                 </ul>
               </div>
@@ -608,7 +653,8 @@
                 <ul class="fa-ul text-primary">
                   <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> <a target="_blank"
                       class="text-decoration-none"
-                      href="../vender/files/time_table/BE Class TT Sem 1 A.Y. 2021-22 (FOR WEBSITE).pdf">B.E - Bachlor of Engineering
+                      href="../vender/files/time_table/BE Class TT Sem 1 A.Y. 2021-22 (FOR WEBSITE).pdf">B.E - Bachlor
+                      of Engineering
                       (Mechanical Engineering)</a></li>
                 </ul>
               </div>
