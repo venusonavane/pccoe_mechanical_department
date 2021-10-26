@@ -252,7 +252,7 @@ and open the template in the editor.
                       </ul>
                     </li>-->
                     
-					<li><a href="ug/co_cordinator_desk.php">UG</a></li>
+					<li><a href="../../ug/co_cordinator_desk.php">UG</a></li>
 					<li>
                       <a href="">PG
                         <span class="drop-icon">▸</span>
@@ -265,7 +265,7 @@ and open the template in the editor.
                           <li><a href="../../pg/me-heatpower.php">M.Tech Heat Power Engineering</a></li>
                       </ul>
                     </li>
-                    <li><a href="../phd/phd_home.php">Ph. D</a></li>
+                    <li><a href="../../phd/phd_home.php">Ph. D</a></li>
                 </ul>
             </li>
             <li class="b-left"><a href="#">Research
