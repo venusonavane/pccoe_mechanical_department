@@ -16,6 +16,7 @@
      <link href="../vender/icon/css/brands.css" rel="stylesheet" />
      <link href="../vender/icon/css/fontawesome.css" rel="stylesheet" />
      <link href="../vender/icon/css/solid.css" rel="stylesheet" />
+     <link href="http://www.pccoepune.com/imp-pccoe-style.css" rel="stylesheet">
     <title>Co-oridinator Desk | Ph. D | Academics | Department of Mechanical Engineering at PCCOE</title>
     <style>
       html {
@@ -27,13 +28,12 @@
 <body>
 
 <!-- Start Header -->
-  <header>
+<?php include("pccoe-header.php"); ?>
+ <header>
   <div class="container-fluid header">
       <div class="row">
-          <div class="col-lg-1"></div>
-          <div class="col-lg-2 text-center d-flex justify-content-around align-items-center">
+          <div class="col-lg-3 text-center d-flex justify-content-around align-items-center">
               <div>
-                <img src="../vender/img/logo/PCCOE_LOGO_b.jpg" style="width: 150px; height: 125px;" /><br>
                 <div class="extern-btn">
                   <a href="http://www.pccoepune.com/" class="text-decoration-none">
                     <i class="fas fa-home"></i> PCCOE
@@ -43,30 +43,13 @@
           </div>
           <div class="col-lg-6">
               <div class="text-center">
-                  <p class="p-0 m-0 mt-3 pcet-name">PIMPRI CHINCHWAD EDUCATION TRUST</p>
-                  <div class="clg-name">
-                      <h4 class="p-0 m-0">PIMPRI CHINCHWAD COLLEGE OF ENGINEERING</h4>
-                  </div>
-                  <p class="m-0 p-1 description text-secondary">
-                    <b>NAAC</b> Accreditation With "<b>A Grade</b>" | An <b>Autonomous</b> Institute | <b>AICTE</b> Approved |<b>ISO 9001: 2015</b> Certified | Permanently Affiliated to  <b>SPPU, Pune </b>
-                  </p>
-                   <h4 class="dept-name fs-3 mb-3 mt-3">Department Of Mechanical Engineering</h4>
+                   <h4 class="dept-name fs-3 mb-3">Department Of Mechanical Engineering</h4>
               </div>
           </div>
-          <div class="col-lg-2 	d-none d-lg-block text-center d-flex justify-content-around align-items-center">
-              <div>
-                <a href="http://pcet.org.in/"><img src="../vender/img/logo/logo.png" style="width: 150px; height: 125px;" /></a>
-                <div class="extern-btn invisible">
-                  <a href="http://www.pccoepune.com/" class="text-decoration-none">
-                    <i class="fas fa-home"></i> PCCOE
-                  </a>
-                </div>
-              </div>
-          </div>
-          <div class="col-lg-1"></div>
+          <div class="col-lg-3"></div>
       </div>
   </div>
-  </header>
+</header>
 <!-- End Header -->
 
 <!-- Start Navbar -->
@@ -297,146 +280,122 @@
 
 <!-- start footer -->
 <footer class="container-fluid">
-    <div class="row bg-blue d-flex justify-content-center px-5 pb-3 mt-md-4">
-      <div class="col-md-4"></div>
-      <div class="col-md-4">
-        <div class="text-white">
-            <div class="mt-5">
-              <h5>
-                <p class="text-white text-center">
-                  Follow us
-                </p>
-              </h5>
-            </div>
-            <div class="d-flex justify-content-evenly align-self-center">
-              <a targrt="_blank" href="https://www.instagram.com/pccoepune/" class="text-decoration-none text-white">
-                <span class="fs-4">
-                  <i class="fab fa-instagram"></i>
-                </span> 
-              </a>
-              <a targrt="_blank" href="https://www.linkedin.com/company/pccoe-pune/?trk=biz-companies-cym" class="text-decoration-none text-white">
-                <span class="fs-4">
-                  <i class="fab fa-linkedin-in"></i>
-                </span> 
-              </a>
-              <a targrt="_blank" href="https://www.facebook.com/PCCOENigadi/" class="text-decoration-none text-white">
-                <span class="fs-4">
-                  <i class="fab fa-facebook"></i>
-                </span> 
-              </a>
-              
-              <a targrt="_blank" href="https://twitter.com/pccoe_pune?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="text-decoration-none text-white">
-                <span class="fs-4">
-                  <i class="fab fa-twitter"></i>
-                </span> 
-              </a>
-              <a targrt="_blank" href="https://www.youtube.com/channel/UCQiPDETOiteTLmAvvPk1WjA" class="text-decoration-none text-white">
-                <span class="fs-4">
-                  <i class="fab fa-youtube"></i>
-                </span> 
-              </a>
-            </div>
-        </div>
-      </div>
-      <div class="col-md-4"></div>
-      
-    </div>
-    <div class="row bg-blue d-flex justify-content-center px-5 pt-md-5">
-      <div class="col-lg-4 col-md-6 mb-3 ps-md-5">
-        <div class="border-bottom border-2 border-white mb-3">
-          <h5>
-            <p class="text-white">
-              <i class="fas fa-map-marker-alt"></i> Location
-            </p>
-          </h5>
-        </div>
-        <div class="text-white">
-          <address>
-            <h6>Sector - 26, Pradhikaran, Nigdi,</h6>
-            <h6>Near Akurdi Railway Station,</h6>
-            <h6>Pune - 411 044.</h6>
-          </address>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 mb-3 ps-md-5">
-        <div class="border-bottom border-2 border-white mb-3">
-          <h5>
-            <p class="text-white">
-              <i class="fas fa-phone"></i> Contact us
-            </p>
-          </h5>
-        </div>
-        <div class="text-white">
-            <h6>Tele : 020 – 2765 3168</h6>
-            <h6>Tele : 020 – 2765 3166</h6>
-            <h6>Ph : +91 9960984347</h6>
-            <h6>
-              <a targrt="_blank"  href="mailto:admin@pccoepune.org" class="text-decoration-none text-white">
-                <i class="fas fa-envelope"></i>&nbsp; admin@pccoepune.org</a>
-              </a>
-            </h6>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-12 mb-3 ps-md-5">
-        <div class="border-bottom border-2 border-white mb-3">
-          <h5>
-            <p class="text-white">
-              <i class="fas fa-link"></i> Useful Links
-            </p>
-          </h5>
-        </div>
-        <div>
-          <div>
-            <p>
-              <a targrt="_blank"  href="../index.php" class="text-decoration-none text-white">
-                <h6>
-                  <i class="fas fa-external-link-alt"></i> Homepage
-                </h6>
-              </a>
-            </p>
-            <p>
-              <a targrt="_blank" href="http://www.pccoepune.com/" class="text-decoration-none text-white">
-                <h6>
-                  <i class="fas fa-external-link-alt"></i> PCCOE
-                </h6>
-              </a>
-            </p>
-            <p>
-              <a targrt="_blank" href="http://pcet.org.in/" class="text-decoration-none text-white">
-                <h6>
-                  <i class="fas fa-external-link-alt"></i> PCET
-                </h6>
-              </a>
-            </p>
-        </div>
-        </div>
+  <div class="row bg-blue d-flex justify-content-center px-5 pb-3 mt-md-4">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+      <div class="text-white">
+          <div class="mt-5">
+            <h5>
+              <p class="text-white text-center">
+                Follow us
+              </p>
+            </h5>
+          </div>
+          <div class="d-flex justify-content-evenly align-self-center">
+            <a targrt="_blank" href="https://www.instagram.com/pccoepune/" class="text-decoration-none text-white">
+              <span class="fs-4">
+                <i class="fab fa-instagram"></i>
+              </span> 
+            </a>
+            <a targrt="_blank" href="https://www.linkedin.com/company/pccoe-pune/?trk=biz-companies-cym" class="text-decoration-none text-white">
+              <span class="fs-4">
+                <i class="fab fa-linkedin-in"></i>
+              </span> 
+            </a>
+            <a targrt="_blank" href="https://www.facebook.com/PCCOENigadi/" class="text-decoration-none text-white">
+              <span class="fs-4">
+                <i class="fab fa-facebook"></i>
+              </span> 
+            </a>
+            
+            <a targrt="_blank" href="https://twitter.com/pccoe_pune?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="text-decoration-none text-white">
+              <span class="fs-4">
+                <i class="fab fa-twitter"></i>
+              </span> 
+            </a>
+            <a targrt="_blank" href="https://www.youtube.com/channel/UCQiPDETOiteTLmAvvPk1WjA" class="text-decoration-none text-white">
+              <span class="fs-4">
+                <i class="fab fa-youtube"></i>
+              </span> 
+            </a>
+          </div>
       </div>
     </div>
-  
-  
-    <div class="row bg-dark d-flex justify-content-center">
-      <div class="col-md-6">
-        <div class="m-3">
+    <div class="col-md-4"></div>
+    
+  </div>
+  <div class="row bg-blue d-flex justify-content-center px-5 pt-md-5">
+    <div class="col-lg-4 col-md-6 mb-3 ps-md-5">
+      <div class="border-bottom border-2 border-white mb-3">
+        <h5>
+          <p class="text-white">
+            <i class="fas fa-map-marker-alt"></i> Location
+          </p>
+        </h5>
+      </div>
+      <div class="text-white">
+        <address>
+          <h6>Sector - 26, Pradhikaran, Nigdi,</h6>
+          <h6>Near Akurdi Railway Station,</h6>
+          <h6>Pune - 411 044.</h6>
+        </address>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-3 ps-md-5">
+      <div class="border-bottom border-2 border-white mb-3">
+        <h5>
+          <p class="text-white">
+            <i class="fas fa-phone"></i> Contact us
+          </p>
+        </h5>
+      </div>
+      <div class="text-white">
+          <h6>Tele : 020 – 2765 3168</h6>
+          <h6>Tele : 020 – 2765 3166</h6>
+          <h6>Ph : +91 9960984347</h6>
           <h6>
-            <p class="text-white text-center">
-              Copyright &copy; 2021 PIMPRI CHINCHWAD COLLEGE OF ENGINEERING
-            </p>
+            <a targrt="_blank"  href="mailto:admin@pccoepune.org" class="text-decoration-none text-white">
+              <i class="fas fa-envelope"></i>&nbsp; admin@pccoepune.org</a>
+            </a>
           </h6>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div class="text-white">
-            <div class="m-3">
-              <h6>
-                <p class="text-white text-center">
-                  Designed by PCET Digital Marketing Department
-                </p>
-              </h6>
-            </div>
-        </div>
       </div>
     </div>
-  </footer>
+    <div class="col-lg-4 col-md-12 mb-3 ps-md-5">
+      <div class="border-bottom border-2 border-white mb-3">
+        <h5>
+          <p class="text-white">
+            <i class="fas fa-link"></i> Useful Links
+          </p>
+        </h5>
+      </div>
+      <div>
+        <div>
+          <p>
+            <a targrt="_blank"  href="index.php" class="text-decoration-none text-white">
+              <h6>
+                <i class="fas fa-external-link-alt"></i> Homepage
+              </h6>
+            </a>
+          </p>
+          <p>
+            <a targrt="_blank" href="http://www.pccoepune.com/" class="text-decoration-none text-white">
+              <h6>
+                <i class="fas fa-external-link-alt"></i> PCCOE
+              </h6>
+            </a>
+          </p>
+          <p>
+            <a targrt="_blank" href="http://pcet.org.in/" class="text-decoration-none text-white">
+              <h6>
+                <i class="fas fa-external-link-alt"></i> PCET
+              </h6>
+            </a>
+          </p>
+      </div>
+      </div>
+    </div>
+  </div>
+</footer><?php include("pccoe-footer.php"); ?>
   <!-- End footer -->
     
   <script src="../vender/js/bootstrap.bundle.js"></script>

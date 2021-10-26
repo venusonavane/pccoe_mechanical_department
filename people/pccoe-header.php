@@ -4,7 +4,7 @@
 		<div class="wmh-full">
 			<div class="wmh-wdt-50">
 				<div class="wmh-plr-15">
-					 <img src="../vender/img/pccoe_social_icons/telephone_icon.png" class="eticon" width="15px" height="15px"> <a href="tel:+91-9960984347">+91 - 9960984347  </a> | <img src="../vender/img/pccoe_social_icons/email_icon.png" class="eticon" width="16px" height="16px"> <a href="mailto:pccoeadmin@gmail.com">pccoeadmin@gmail.com</a>
+					 <img src="../vender/img/pccoe_social_icons/telephone_icon.png" class="eticon" width="15px" height="15px"> <a href="tel:+91-9960984347">+91 - 9960984347  </a> | <img src="vender/img/pccoe_social_icons/email_icon.png" class="eticon" width="16px" height="16px"> <a href="mailto:pccoeadmin@gmail.com">pccoeadmin@gmail.com</a>
 				</div>
 			</div>
 			<div class="wmh-wdt-50">
@@ -28,7 +28,7 @@
 		</div>
 
 		<div class="wmh-wdt-76">
-			<div class="wmh-plr-15">
+			<div style="wmh-plr-15">
 				<div class="wmh_header1" align="center">PIMPRI CHINCHWAD EDUCATION TRUST's</div>
 				<div class="wmh_header2" align="center">PIMPRI CHINCHWAD COLLEGE OF ENGINEERING</div>                				
 				<div class="wmh_para">
@@ -46,7 +46,7 @@
 	</div> <div class="wmh-cleardiv"></div>
 </div>
 
-<div class="pccoe-sm-bar" style="margin-top: 200px;">
+<div class="pccoe-sm-bar">
 	<a href="https://www.facebook.com/pages/PCCOE/725095680876531" target="_blank" class="facebook"><img src="../vender/img/pccoe_social_icons/pccoe_facebook_social_icon.png" class="img-responsive iconspin" width="30" height="30"></a> <br>
 	<a href="https://www.linkedin.com/company/pccoe-pune?trk=biz-companies-cym" target="_blank" class="linkedin"><img src="../vender/img/pccoe_social_icons/pccoe_linkedin_social_icon.png" class="img-responsive iconspin" width="30" height="30"></a> <br>
 	<a href="https://twitter.com/pccoe_pune" target="_blank" class="twitter"><img src="../vender/img/pccoe_social_icons/pccoe_twitter_social_icon.png" class="img-responsive iconspin" width="30" height="30"></a> <br>

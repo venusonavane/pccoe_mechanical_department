@@ -175,7 +175,7 @@ and open the template in the editor.
                 <ul class="sub-menu">
                     <li><a href="../../facilities/public_html/laboratories.php">Laboratories</a></li>
                     <li><a href="../../facilities/public_html/library.php">Library</a></li>
-					 <li><a href="#">Seminar Hall</a></li>
+					 <li><a href="../../facilities/public_html/seminar_hall.php">Seminar Hall</a></li>
                 </ul>
             </li>
             <li class="b-left"><a href="#">Student Development & Welfare
