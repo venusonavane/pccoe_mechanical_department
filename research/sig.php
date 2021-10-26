@@ -895,7 +895,7 @@
                 <center>
                 <div class="member shadow bg-light rounded d-flex justify-content-center align-items-center p-4">
                     <div class="member-info">
-                    <div class="pic" style="width: 120px;"><img src="../faculty photo/Ishansathone_Mech.jpg" class="img-fluid rounded-circle" alt=""></div><br>
+                    <div class="pic" style="width: 120px;"><img src="../faculty photo/Ishansathone.jpg" class="img-fluid rounded-circle" alt=""></div><br>
                     <h3 style="font-size: 16px; color: rgb(37, 103, 165);">Mr. Ishan Sathone</h3>
                     <span>Member</span>
                     <hr style="color: rgb(37, 103, 165); height: 2px;">
