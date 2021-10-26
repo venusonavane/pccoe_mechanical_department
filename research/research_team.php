@@ -15,7 +15,7 @@
    <link href="../vender/icon/css/fontawesome.css" rel="stylesheet" />
    <link href="../vender/icon/css/solid.css" rel="stylesheet" />
    <link rel="stylesheet" href="../people/style2.css">
-   <link href="http://www.pccoepune.com/imp-pccoe-style.css" rel="stylesheet">
+   <link href="imp-pccoe-style.css" rel="stylesheet">
    <style>
     html {
       scroll-behavior: smooth;

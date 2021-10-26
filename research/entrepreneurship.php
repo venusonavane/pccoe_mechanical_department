@@ -14,8 +14,8 @@
    <link href="../vender/icon/css/brands.css" rel="stylesheet" />
    <link href="../vender/icon/css/fontawesome.css" rel="stylesheet" />
    <link href="../vender/icon/css/solid.css" rel="stylesheet" />
-   <link href="http://www.pccoepune.com/imp-pccoe-style.css" rel="stylesheet">
-   <style>
+   <link href="imp-pccoe-style.css" rel="stylesheet">
+  <style>
     html {
       scroll-behavior: smooth;
     }
