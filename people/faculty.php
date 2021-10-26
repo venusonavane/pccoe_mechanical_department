@@ -13,57 +13,42 @@
     <link href="../vender/css/navbar.css" rel="stylesheet" />
     <link href="../vender/css/style1.css" rel="stylesheet" />
     <link rel="stylesheet" href="style2.css">
-
-    <!-- Required meta tags -->
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!-- Icon -->
-    <link href="../vender/img/logo/PCCOE_LOGO_b.jpg" rel="shortcut icon" type="image/x-icon">
-    <!-- Bootstrap CSS -->
-    <link href="../vender/css/bootstrap.css" rel="stylesheet" />
-    <!-- PCCOE HEADER FOOTER CSS FILE -->
-    <link rel="stylesheet" href="../imp-pccoe-style.css" type="text/css" />
-    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"> -->
-    <link href="../vender/css/navbar.css" rel="stylesheet" />
-    <link href="../vender/css/style1.css" rel="stylesheet" />
-    <!-- Icon Link -->
-    <link href="../vender/icon/css/brands.css" rel="stylesheet" />
-    <link href="../vender/icon/css/fontawesome.css" rel="stylesheet" />
-    <link href="../vender/icon/css/solid.css" rel="stylesheet" />
-
-
-    <style>
-        html {
-            scroll-behavior: smooth;
-        }
-    </style>
 </head>
 
 <body>
-    <!-- Start Header -->
-    <?php include("pccoe-header.php"); ?>
     <header>
-        <div class="container-fluid header">
+        <div class="container-fluid header" id="top">
             <div class="row">
-                <div class="col-lg-3 text-center d-flex justify-content-around align-items-center">
-                    <div>
+                <div class="col-lg-1"></div>
+                <div class="col-lg-2 text-center d-flex justify-content-around align-items-center">
+                    <div> <img src="../vender/img/logo/PCCOE_LOGO_b.jpg" style="width: 150px; height: 125px;" /><br>
                         <div class="extern-btn">
-                            <a href="http://www.pccoepune.com/" class="text-decoration-none">
-                                <i class="fas fa-home"></i> PCCOE
-                            </a>
+                            <a href="http://www.pccoepune.com/" class="text-decoration-none"> <i class="fas fa-home"></i> PCCOE </a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="text-center">
-                        <h4 class="dept-name fs-3 mb-3">Department Of Mechanical Engineering</h4>
+                        <p class="p-0 m-0 mt-3 pcet-name">PIMPRI CHINCHWAD EDUCATION TRUST</p>
+                        <div class="clg-name">
+                            <h4 class="p-0 m-0">PIMPRI CHINCHWAD COLLEGE OF ENGINEERING</h4>
+                        </div>
+                        <p class="m-0 p-1 description text-secondary"> <b>NAAC</b> Accreditation With "<b>A Grade</b>" | An <b>Autonomous</b> Institute | <b>AICTE</b> Approved |<b>ISO 9001: 2015</b> Certified | Permanently Affiliated to <b>SPPU, Pune </b> </p>
+                        <h4 class="dept-name fs-3 mb-3 mt-3">Department Of Mechanical Engineering</h4>
                     </div>
                 </div>
-                <div class="col-lg-3"></div>
+                <div class="col-lg-2 d-none d-lg-block text-center d-flex justify-content-around align-items-center">
+                    <div>
+                        <a href="http://pcet.org.in/"><img src="../vender/img/logo/logo.png" style="width: 150px; height: 125px;" /></a>
+                        <div class="extern-btn invisible">
+                            <a href="http://www.pccoepune.com/" class="text-decoration-none"> <i class="fas fa-home"></i> PCCOE </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-1"></div>
             </div>
         </div>
     </header>
-    <!-- End Header -->
     <div class="menu-section d-flex justify-content-around">
         <nav id="menu"> <label for="tm" id="toggle-menu"><b>Menu</b> <span class="drop-icon"><b>&#9776;</b></span></label> <input type="checkbox" id="tm">
             <ul class="main-menu cf">
@@ -161,11 +146,12 @@
         </ul>
     </div>
     <section class="p-md-3 p-md-3">
-        <div class="display-5 mb-3">Faculty</div>
         <div class="container-lg">
+            <div class="display-5 mb-3">Faculty</div>
             <div class="bg-light p-3">
-                <div class="mb-3 border-bottom border-1 border-primary">
-                    <p class="fs-3 text-primary">Professor</div>
+                <div class="border-bottom border-1 border-primary mb-3">
+                    <p class="fs-3 text-primary">Professor</p>
+                </div>
                 <div class="row">
                     <div class="col-md-1"></div>
                     <div class="col-md-10">
@@ -813,7 +799,6 @@
                 <li class="button-associate-professor">Go Up </li>
             </a>
     </div>
-    <!-- start footer -->
     <footer class="container-fluid">
         <div class="row bg-blue d-flex justify-content-center px-5 pb-3 mt-md-4">
             <div class="col-md-4"></div>
@@ -821,67 +806,33 @@
                 <div class="text-white">
                     <div class="mt-5">
                         <h5>
-                            <p class="text-white text-center">
-                                Follow us
-                            </p>
+                            <p class="text-white text-center"> Follow us </p>
                         </h5>
                     </div>
                     <div class="d-flex justify-content-evenly align-self-center">
-                        <a targrt="_blank" href="https://www.instagram.com/pccoepune/" class="text-decoration-none text-white">
-                            <span class="fs-4">
-                  <i class="fab fa-instagram"></i>
-                </span>
-                        </a>
-                        <a targrt="_blank" href="https://www.linkedin.com/company/pccoe-pune/?trk=biz-companies-cym" class="text-decoration-none text-white">
-                            <span class="fs-4">
-                  <i class="fab fa-linkedin-in"></i>
-                </span>
-                        </a>
-                        <a targrt="_blank" href="https://www.facebook.com/PCCOENigadi/" class="text-decoration-none text-white">
-                            <span class="fs-4">
-                  <i class="fab fa-facebook"></i>
-                </span>
-                        </a>
-
-                        <a targrt="_blank" href="https://twitter.com/pccoe_pune?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="text-decoration-none text-white">
-                            <span class="fs-4">
-                  <i class="fab fa-twitter"></i>
-                </span>
-                        </a>
-                        <a targrt="_blank" href="https://www.youtube.com/channel/UCQiPDETOiteTLmAvvPk1WjA" class="text-decoration-none text-white">
-                            <span class="fs-4">
-                  <i class="fab fa-youtube"></i>
-                </span>
-                        </a>
+                        <a targrt="_blank" href="https://www.instagram.com/pccoepune/" class="text-decoration-none text-white"> <span class="fs-4"> <i class="fab fa-instagram"></i> </span> </a>
+                        <a targrt="_blank" href="https://www.linkedin.com/company/pccoe-pune/?trk=biz-companies-cym" class="text-decoration-none text-white"> <span class="fs-4"> <i class="fab fa-linkedin-in"></i> </span> </a>
+                        <a targrt="_blank" href="https://www.facebook.com/PCCOENigadi/" class="text-decoration-none text-white"> <span class="fs-4"> <i class="fab fa-facebook"></i> </span> </a>
+                        <a targrt="_blank" href="https://twitter.com/pccoe_pune?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="text-decoration-none text-white"> <span class="fs-4"> <i class="fab fa-twitter"></i> </span> </a>
+                        <a targrt="_blank" href="https://www.youtube.com/channel/UCQiPDETOiteTLmAvvPk1WjA" class="text-decoration-none text-white"> <span class="fs-4"> <i class="fab fa-youtube"></i> </span> </a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4"></div>
-
         </div>
         <div class="row bg-blue d-flex justify-content-center px-5 pt-md-5">
             <div class="col-lg-4 col-md-6 mb-3 ps-md-5">
                 <div class="border-bottom border-2 border-white mb-3">
                     <h5>
-                        <p class="text-white">
-                            <i class="fas fa-map-marker-alt"></i> Location
-                        </p>
+                        <p class="text-white"> <i class="fas fa-map-marker-alt"></i> Location </p>
                     </h5>
                 </div>
-                <div class="text-white">
-                    <address>
-            <h6>Sector - 26, Pradhikaran, Nigdi,</h6>
-            <h6>Near Akurdi Railway Station,</h6>
-            <h6>Pune - 411 044.</h6>
-          </address>
-                </div>
+                <div class="text-white"> <address> <h6>Sector - 26, Pradhikaran, Nigdi,</h6> <h6>Near Akurdi Railway Station,</h6> <h6>Pune - 411 044.</h6> </address> </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-3 ps-md-5">
                 <div class="border-bottom border-2 border-white mb-3">
                     <h5>
-                        <p class="text-white">
-                            <i class="fas fa-phone"></i> Contact us
-                        </p>
+                        <p class="text-white"> <i class="fas fa-phone"></i> Contact us </p>
                     </h5>
                 </div>
                 <div class="text-white">
@@ -889,8 +840,7 @@
                     <h6>Tele : 020 – 2765 3166</h6>
                     <h6>Ph : +91 9960984347</h6>
                     <h6>
-                        <a targrt="_blank" href="mailto:admin@pccoepune.org" class="text-decoration-none text-white">
-                            <i class="fas fa-envelope"></i>&nbsp; admin@pccoepune.org</a>
+                        <a targrt="_blank" href="mailto:admin@pccoepune.org" class="text-decoration-none text-white"> <i class="fas fa-envelope"></i>&nbsp; admin@pccoepune.org</a>
                         </a>
                     </h6>
                 </div>
@@ -898,41 +848,49 @@
             <div class="col-lg-4 col-md-12 mb-3 ps-md-5">
                 <div class="border-bottom border-2 border-white mb-3">
                     <h5>
-                        <p class="text-white">
-                            <i class="fas fa-link"></i> Useful Links
-                        </p>
+                        <p class="text-white"> <i class="fas fa-link"></i> Useful Links </p>
                     </h5>
                 </div>
                 <div>
                     <div>
                         <p>
                             <a targrt="_blank" href="index.php" class="text-decoration-none text-white">
-                                <h6>
-                                    <i class="fas fa-external-link-alt"></i> Homepage
-                                </h6>
+                                <h6> <i class="fas fa-external-link-alt"></i> Homepage </h6>
                             </a>
                         </p>
                         <p>
-                            <a targrt="_blank" href="http://www.pccoepune.com/" class="text-decoration-none text-white">
-                                <h6>
-                                    <i class="fas fa-external-link-alt"></i> PCCOE
-                                </h6>
+                            <a target="_blank" href="http://www.pccoepune.com/" class="text-decoration-none text-white">
+                                <h6> <i class="fas fa-external-link-alt"></i> PCCOE </h6>
                             </a>
                         </p>
                         <p>
-                            <a targrt="_blank" href="http://pcet.org.in/" class="text-decoration-none text-white">
-                                <h6>
-                                    <i class="fas fa-external-link-alt"></i> PCET
-                                </h6>
+                            <a target="_blank" href="http://pcet.org.in/" class="text-decoration-none text-white">
+                                <h6> <i class="fas fa-external-link-alt"></i> PCET </h6>
                             </a>
                         </p>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="row bg-dark d-flex justify-content-center">
+            <div class="col-md-6">
+                <div class="m-3">
+                    <h6>
+                        <p class="text-white text-center"> Copyright &copy; 2021 PIMPRI CHINCHWAD COLLEGE OF ENGINEERING </p>
+                    </h6>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="text-white">
+                    <div class="m-3">
+                        <h6>
+                            <p class="text-white text-center"> Designed by PCET Digital Marketing Department </p>
+                        </h6>
+                    </div>
+                </div>
+            </div>
+        </div>
     </footer>
-    <?php include("pccoe-footer.php"); ?>
-    <!-- End footer -->
     <script src="js/bootstrap.bundle.js"></script>
 </body>
 
