@@ -19,7 +19,7 @@
   <link href="../vender/icon/css/solid.css" rel="stylesheet" />
    <!-- PCCOE HEADER FOOTER CSS FILE -->	
    <link rel="stylesheet" href="../imp-pccoe-style.css" type="text/css" />
-   
+
   <title>University Rank Holders | Student Corner | Department of Mechanical Engineering at PCCOE</title>
   <style></style>
 </head>
@@ -1170,31 +1170,8 @@
         </div>
       </div>
     </div>
-
-
-    <div class="row bg-dark d-flex justify-content-center">
-      <div class="col-md-6">
-        <div class="m-3">
-          <h6>
-            <p class="text-white text-center">
-              Copyright &copy; 2021 PIMPRI CHINCHWAD COLLEGE OF ENGINEERING
-            </p>
-          </h6>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div class="text-white">
-          <div class="m-3">
-            <h6>
-              <p class="text-white text-center">
-                Designed by PCET Digital Marketing Department
-              </p>
-            </h6>
-          </div>
-        </div>
-      </div>
-    </div>
   </footer>
+  <?php include("../pccoe-footer.php"); ?>
   <!-- End footer -->
   <script src="../vender/js/bootstrap.bundle.js"></script>
   <!-- <script src="vender/js/navbar.js"></script> -->
